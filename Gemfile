@@ -2,8 +2,13 @@
 
 source 'https://rubygems.org'
 
-gem 'nanoc', '~> 4.12'
+gem 'base64'
+gem 'govuk_markdown'
+gem 'nanoc'
+gem 'rubocop-govuk'
+gem 'sassc'
+gem 'webrick'
 
-gem "webrick", "~> 1.8"
-
-gem "base64", "~> 0.2.0"
+group :nanoc do
+  gem 'nanoc-live'
+end

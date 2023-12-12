@@ -1,0 +1,15 @@
+name: Build site
+description: Builds the final HTML using Nanoc build
+
+runs:
+  using: composite
+  steps:
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+        cache-version: 0
+
+    - name: Build
+      shell: bash
+      run: bundle exec nanoc

@@ -1,0 +1,20 @@
+name: Content checks
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+jobs:
+  run-nanoc-checks:
+    concurrency: ci-${{ github.ref }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Build site
+        uses: ./.github/actions/build-site
+
+      - name: Run Nanoc checks
+        uses: ./.github/actions/run-checks
