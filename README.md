@@ -1,4 +1,4 @@
-# New Static Site Generator App using Nanoc
+# Improve School Workload and Wellbeing
 
 Welcome to the README for our static site generator app using Nanoc. This document provides instructions for setting up the application on both MacOS and Windows devices.
 
