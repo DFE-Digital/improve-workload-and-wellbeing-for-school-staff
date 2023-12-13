@@ -26,5 +26,5 @@ jobs:
       # preview on GitHub pages
     - name: Deploy to Preview
       uses: ./.github/actions/deploy-preview
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}

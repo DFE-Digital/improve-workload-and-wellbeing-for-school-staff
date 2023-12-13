@@ -1,5 +1,9 @@
 name: Deploy preview
 description: Deploy preview
+inputs:
+  github_token:
+    description: "GitHub Token"
+    required: true
 runs:
   using: composite
   steps:
@@ -22,4 +26,4 @@ runs:
         branch: gh-pages
         folder: output
         clean: true
-        token: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ inputs.github_token }}
