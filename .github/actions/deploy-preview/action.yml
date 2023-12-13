@@ -1,0 +1,29 @@
+name: Deploy preview
+description: Deploy preview
+inputs:
+  github_token:
+    description: "GitHub Token"
+    required: true
+runs:
+  using: composite
+  steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        bundler-cache: true
+        cache-version: 0
+
+    - name: Build
+      shell: bash
+      run: bundle exec nanoc
+
+    - name: Deploy
+      uses: JamesIves/github-pages-deploy-action@3.7.1
+      with:
+        branch: gh-pages
+        folder: output
+        clean: true
+        GITHUB_TOKEN: ${{ inputs.github_token }}

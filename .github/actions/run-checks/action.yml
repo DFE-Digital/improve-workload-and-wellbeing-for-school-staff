@@ -1,0 +1,23 @@
+name: "Ruby Setup and Checks"
+description: "Set up Ruby environment and run checks"
+runs:
+  using: "composite"
+  steps:
+    - uses: actions/checkout@v2
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: "3.2"
+
+    - run: gem install bundler
+      shell: bash
+
+    - run: bundle install
+      shell: bash
+
+    - run: bundle exec rubocop
+      shell: bash
+
+    - run: nanoc check
+      shell: bash
