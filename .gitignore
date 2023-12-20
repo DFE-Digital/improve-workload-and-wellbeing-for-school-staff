@@ -1,0 +1,43 @@
+# General
+.DS_Store
+Thumbs.db
+
+# Nanoc-specific
+output/
+tmp/
+crash.log
+
+# Dependency directories
+node_modules/
+vendor/bundle/
+vendor/ruby/
+
+# Specific dependency files
+Gemfile.lock
+yarn.lock
+
+# Version management
+.ruby-version
+.ruby-gemset
+
+# Environment variables
+.env
+
+# Editor/IDE specific files
+*.swp
+*~
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# Database files
+*.sqlite3
+
+# Backup files
+*~
+
+# Other common files to ignore
+*.bak
+*.tmp
