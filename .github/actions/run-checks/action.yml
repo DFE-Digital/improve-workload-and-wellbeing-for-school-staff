@@ -10,6 +10,16 @@ runs:
       with:
         ruby-version: "3.2"
 
+    - name: Setup Node
+      uses: actions/setup-node@v3
+      with:
+        node-version: 18
+        cache: npm
+
+    - name: Install Yarn dependencies
+      shell: bash
+      run: yarn install
+
     - run: gem install bundler
       shell: bash
 
@@ -19,5 +29,5 @@ runs:
     - run: bundle exec rubocop
       shell: bash
 
-    - run: nanoc check
+    - run: bundle exec nanoc check
       shell: bash
