@@ -1,0 +1,16 @@
+{
+  "name": "improve-school-workload-and-wellbeing",
+  "version": "1.0.0",
+  "description": "Welcome to the README for our static site generator app using Nanoc. This document provides instructions for setting up the application on both MacOS and Windows devices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dfe-frontend-alpha": "^1.0.1",
+    "govuk-frontend": "^5.0.0",
+    "sass": "^1.69.5"
+  }
+}
