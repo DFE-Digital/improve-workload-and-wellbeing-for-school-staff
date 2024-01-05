@@ -11,6 +11,6 @@
   "dependencies": {
     "dfe-frontend-alpha": "^1.0.1",
     "govuk-frontend": "^5.0.0",
-    "sass": "^1.69.5"
+    "sass": "^1.69.7"
   }
 }
