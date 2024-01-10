@@ -73,9 +73,21 @@
   max-width: 1200px;
 }
 
+.govuk-grid-column-one-third {
+  padding: 0px;
+}
+
 .dfe-card {
   margin: 40px;
   border: 1px solid #b1b4b6;
+}
+
+.govuk-grid-column-one-third .dfe-card {
+  margin: 20px;
+}
+
+.govuk-grid-column-one-third .dfe-card-body {
+  min-height: 100px;
 }
 
 .dfe-card-header {
@@ -87,6 +99,23 @@
 .dfe-card-header .govuk-heading-m {
   color: white;
   margin: 20px;
+}
+
+.dfe-card-header .govuk-heading-s {
+  color: white;
+  margin: 20px;
+}
+
+.dfe-card-header--pink {
+  background-color: #D4357F;
+}
+
+.dfe-card-header--purple {
+  background-color: #4C2C92;
+}
+
+.dfe-card-header--green {
+  background-color: #279B91;
 }
 
 .dfe-card-body {
@@ -129,6 +158,11 @@
   padding-bottom: 30px;
 }
 
+.dfe-content-page--header--secondary {
+  background-color: #F0F4F5;
+  color: black;
+}
+
 .dfe-content-page--row {
   padding: 40px 0;
   margin-bottom: 30px;
@@ -149,7 +183,13 @@
 .dfe-content-page--header .govuk-list,
 .dfe-content-page--header .govuk-list li {
   color: white;
-  /* This ensures that all text is white */
+}
+
+.dfe-content-page--header--secondary .govuk-heading-xl,
+.dfe-content-page--header--secondary .govuk-body-l,
+.dfe-content-page--header--secondary .govuk-list,
+.dfe-content-page--header--secondary .govuk-list li {
+  color: black;
 }
 
 .dfe-content-page--header .govuk-grid-column-two-thirds,
