@@ -1,6 +1,7 @@
 # General
 .DS_Store
 Thumbs.db
+.bundle/
 
 # Nanoc-specific
 output/

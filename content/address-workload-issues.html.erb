@@ -1,0 +1,41 @@
+---
+title: Address workload issues
+---
+
+<div class="govuk-main-wrapper">
+  <div class="dfe-width-container govuk-grid-row govuk-!-padding-top-9">
+    <div class="govuk-grid-column-two-thirds">
+      <h1 class="govuk-heading-l">Address workload issues</h1>
+    </div>
+  </div>
+
+  <div class="dfe-width-container govuk-grid-row govuk-!-padding-bottom-9">
+    <div class="govuk-grid-column-one-half">
+      <p class="govuk-body govuk-!-font-size-16">
+        This section of the toolkit has groups of resources to address specific
+        workload issues.
+      </p>
+    </div>
+  </div>
+
+  <div class="content__section--grey">
+    <div class="dfe-width-container">
+      <ul class="govuk-grid-row iwwss-card-group">
+        <% ["Data management", "Feedback and marking", "Curriculum planning and delivery", "Behaviour management", "Communications"].each do |content_page| %>
+          <li class="govuk-grid-column-one-half iwwss-card-group__item">
+            <div class="iwwss-card iwwss-card--clickable iwwss-card--link">
+              <div class="iwwss-card__content">
+                <a class="govuk-link govuk-!-font-size-19 govuk-!-font-weight-bold govuk-link--no-visited-state" href="<%= '/' + content_page %>"><%= content_page %></a>
+                <svg class="iwwss-card--icon" width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <path d="M9 4.49992L20.0217 15.5213L9 26.5427" stroke="#4c2c92" stroke-width="2"/>
+                </svg>
+              </div>
+            </div>
+          </li>
+        <% end %>
+      </ul>
+    </div>
+  </div>
+</div>
+
+<%= render '/partials/feedback.*' %>
