@@ -1,7 +1,36 @@
 # A list of file extensions that Nanoc will consider to be textual rather than
 # binary. If an item with an extension not in this list is found,  the file
 # will be considered as binary.
-text_extensions: [ 'adoc', 'asciidoc', 'atom', 'coffee', 'css', 'erb', 'haml', 'handlebars', 'hb', 'htm', 'html', 'js', 'less', 'markdown', 'md', 'ms', 'mustache', 'php', 'rb', 'rdoc', 'sass', 'scss', 'slim', 'tex', 'txt', 'xhtml', 'xml' ]
+text_extensions:
+  [
+    "adoc",
+    "asciidoc",
+    "atom",
+    "coffee",
+    "css",
+    "erb",
+    "haml",
+    "handlebars",
+    "hb",
+    "htm",
+    "html",
+    "js",
+    "less",
+    "markdown",
+    "md",
+    "ms",
+    "mustache",
+    "php",
+    "rb",
+    "rdoc",
+    "sass",
+    "scss",
+    "slim",
+    "tex",
+    "txt",
+    "xhtml",
+    "xml",
+  ]
 
 prune:
   auto_prune: true
@@ -9,3 +38,10 @@ prune:
 data_sources:
   - type: filesystem
     encoding: utf-8
+
+# Define base_url for different environments
+environments:
+  default:
+    base_url: "http://127.0.0.1:3000"
+  production:
+    base_url: "https://dfe-digital.github.io/improve-school-workload-and-wellbeing"

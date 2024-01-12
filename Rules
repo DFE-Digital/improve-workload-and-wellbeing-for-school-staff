@@ -1,8 +1,21 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
+compile '/**/*.html.erb' do
+  filter :erb
+  layout '/default.*'
+  filter :base_url
+
+  if item.identifier =~ '**/index.*'
+    write item.identifier.without_ext
+  else
+    write "#{item.identifier.without_ext.chomp('.html')}/index.html"
+  end
+end
+
 compile '/**/*.html' do
   layout '/default.*'
+  filter :base_url
 
   if item.identifier =~ '**/index.*'
     write item.identifier.to_s
