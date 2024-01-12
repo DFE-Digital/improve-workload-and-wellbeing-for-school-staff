@@ -1,5 +1,3 @@
-//styles for the NHScard component
-
 $card-border-width: 1px;
 $card-border-bottom-width: 3px;
 $card-border-color: #4c2c92;
@@ -31,7 +29,7 @@ $card-text-hover-color: #4c2c92;
   &:active {
     cursor: pointer;
 
-    a {
+    p {
       color: $card-text-hover-color;
       text-decoration: none;
 
@@ -94,15 +92,18 @@ $card-text-hover-color: #4c2c92;
 }
 
 .iwwss-card--link {
-  a {
+  text-decoration: none;
+
+  p {
     text-decoration: none;
     color: $card-text-color !important;
+    margin-bottom: 0;
   }
 
   &.iwwss-card--clickable {
     &:hover,
     &:active {
-      a {
+      p {
         text-decoration: underline;
 
         &:hover {
