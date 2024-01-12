@@ -1,0 +1,9 @@
+<% wrapped_content=capture do %>
+  <div class="govuk-main-wrapper">
+    <div class="govuk-grid-row govuk-width-container dfe-width-container">
+      <%= yield %>
+    </div>
+  </div>
+  <% end %>
+
+    <%= render '/default.html' , content: wrapped_content %>

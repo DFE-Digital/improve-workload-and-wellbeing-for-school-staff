@@ -1,10 +1,17 @@
 # Improve School Workload and Wellbeing
 
-Welcome to the README for our static site generator app using Nanoc. This document provides instructions for setting up the application on both MacOS and Windows devices.
+Welcome to the README for our static site generator app using Nanoc. This document provides instructions for setting up
+the application on both MacOS and Windows devices.
 
 ## Introduction
 
-This application is built using Nanoc, a powerful static site generator that offers flexibility and a rich set of features for building static websites. Our choice of Nanoc is driven by its robust "Checking" feature, ensuring high-quality content and avoiding regressions.
+This application is built using Nanoc, a powerful static site generator that offers flexibility and a rich set of
+features for building static websites. Our choice of Nanoc is driven by its robust "Checking" feature, ensuring
+high-quality content and avoiding regressions.
+
+The external URL for the project is <http://improve-workload-and-wellbeing-for-school-staff.education.gov.uk/>.
+
+The GitHub pages URL for the project is <https://dfe-digital.github.io/improve-school-workload-and-wellbeing/>.
 
 ## Prerequisites
 
@@ -91,7 +98,8 @@ Before you begin, ensure you have the following installed:
 
 ## Using Nanoc for Static Site Generation
 
-Nanoc is a powerful tool for building static websites. Here’s a brief guide on how to work with content, such as markdown files, images, and other assets in a Nanoc project:
+Nanoc is a powerful tool for building static websites. Here’s a brief guide on how to work with content, such as
+markdown files, images, and other assets in a Nanoc project:
 
 ### Markdown Files
 
@@ -113,11 +121,13 @@ Nanoc is a powerful tool for building static websites. Here’s a brief guide on
 4. **Preview Locally**: Use `nanoc live` to start a local server to preview your site.
 5. **Commit Changes**: Once you're satisfied with the changes, commit them to your version control system (e.g., Git).
 
-Remember, Nanoc is highly customizable, so your project structure might vary slightly based on the initial setup and configurations. Always refer to your project's specific documentation for more detailed instructions.
+Remember, Nanoc is highly customizable, so your project structure might vary slightly based on the initial setup and
+configurations. Always refer to your project's specific documentation for more detailed instructions.
 
 ## Contributing
 
-Contributions to this project are highly valued and we encourage contributions in various forms. Below are guidelines for two different types of contributions: minor edits and larger changes.
+Contributions to this project are highly valued and we encourage contributions in various forms. Below are guidelines
+for two different types of contributions: minor edits and larger changes.
 
 ### Minor Edits
 
