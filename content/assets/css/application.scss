@@ -9,7 +9,7 @@
 @import "govuk/overrides/all";
 @import "dfe-fe/dfefrontend";
 
-@import "_iwwss-cards.scss";
+@import "_cards.scss";
 
 @mixin reset {
   margin: 0;
@@ -79,53 +79,6 @@
 
 .govuk-grid-column-one-third {
   padding: 0px;
-}
-
-.dfe-card {
-  margin: 40px;
-  border: 1px solid #b1b4b6;
-}
-
-.govuk-grid-column-one-third .dfe-card {
-  margin: 20px;
-}
-
-.govuk-grid-column-one-third .dfe-card-body {
-  min-height: 100px;
-}
-
-.dfe-card-header {
-  background-color: #347ca9;
-  padding: 20px;
-  color: white;
-}
-
-.dfe-card-header .govuk-heading-m {
-  color: white;
-  margin: 20px;
-}
-
-.dfe-card-header .govuk-heading-s {
-  color: white;
-  margin: 20px;
-}
-
-.dfe-card-header--pink {
-  background-color: #d4357f;
-}
-
-.dfe-card-header--purple {
-  background-color: #4c2c92;
-}
-
-.dfe-card-header--green {
-  background-color: #279b91;
-}
-
-.dfe-card-body {
-  padding: 20px;
-  margin: 20px;
-  background-color: #ffffff;
 }
 
 .govuk-grid-column-one-half {

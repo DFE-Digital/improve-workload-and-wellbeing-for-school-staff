@@ -1,0 +1,213 @@
+$card-border-width: 1px;
+$card-border-bottom-width: 3px;
+$card-border-color: govuk-colour("purple");
+$card-border-hover-color: govuk-colour("purple");
+$card-text-color: govuk-colour("purple");
+$card-text-hover-color: govuk-colour("purple");
+
+.icon-card {
+  @include govuk-responsive-margin(5, "bottom");
+  background: govuk-colour("white");
+  border-bottom: $card-border-width solid $card-border-color;
+  position: relative;
+  width: 100%;
+  text-decoration: none;
+
+  p {
+    text-decoration: none;
+    color: $card-text-color !important;
+    margin-bottom: 0;
+  }
+}
+
+.icon-card__content {
+  @include govuk-responsive-padding(5);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.icon-card--clickable {
+  border-bottom-width: $card-border-bottom-width;
+
+  &:hover,
+  &:active {
+    cursor: pointer;
+
+    p {
+      color: $card-text-hover-color;
+      text-decoration: none;
+
+      &:focus {
+        color: $card-text-hover-color;
+      }
+    }
+  }
+
+  &:hover {
+    border-color: $card-border-hover-color;
+    p {
+      text-decoration: underline;
+    }
+  }
+
+  &:active {
+    border-color: $card-border-hover-color;
+    border-bottom-width: 0;
+    bottom: -$card-border-width;
+    p {
+      text-decoration: underline;
+    }
+  }
+}
+
+.card-group {
+  display: flex;
+  flex-wrap: wrap;
+
+  margin-bottom: govuk-spacing(2);
+  padding: 0;
+
+  @include mq($until: desktop) {
+    margin-bottom: govuk-spacing(6);
+  }
+}
+
+.card-group__item {
+  display: flex;
+
+  list-style-type: none;
+  margin-bottom: 0;
+  padding: 0 govuk-spacing(5);
+
+  .icon-card,
+  .dfe-card {
+    margin-bottom: govuk-spacing(8);
+  }
+
+  @include mq($until: desktop) {
+    .icon-card,
+    .dfe-card {
+      margin-bottom: govuk-spacing(3);
+    }
+  }
+}
+
+.icon-card--icon {
+  background-position: right 8px top 50%;
+  background-repeat: no-repeat;
+  min-width: 30px;
+  max-width: 30px;
+
+  @include mq($until: desktop) {
+    background-position: right 4px top 50%;
+  }
+}
+
+.icon-card--link {
+  // text-decoration: none;
+
+  // p {
+  //   text-decoration: none;
+  //   color: $card-text-color !important;
+  //   margin-bottom: 0;
+  // }
+
+  &.icon-card--clickable {
+    &:hover,
+    &:active {
+      p {
+        text-decoration: underline;
+
+        &:hover {
+          text-decoration: underline;
+        }
+
+        &:focus {
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+
+.dfe-card {
+  margin: 40px;
+  border: 1px solid #b1b4b6;
+  text-decoration: none;
+  width: 100%;
+}
+
+.dfe-card--clickable {
+  box-shadow: none !important;
+  background-color: govuk-colour("white") !important;
+
+  &:hover,
+  &:active {
+    .dfe-card-header {
+      color: govuk-colour("white");
+      text-decoration: underline;
+
+      &:hover {
+        text-decoration: underline;
+      }
+
+      &:focus {
+        text-decoration: none;
+      }
+    }
+  }
+  &:focus {
+    .dfe-card-header {
+      color: black;
+      background-color: $govuk-focus-colour;
+      text-decoration: underline;
+    }
+    .dfe-card-body {
+      background-color: govuk-colour("white");
+    }
+  }
+}
+
+.govuk-grid-column-one-third .dfe-card {
+  margin: 20px;
+}
+
+.govuk-grid-column-one-third .dfe-card-body {
+  min-height: 100px;
+}
+
+.dfe-card-header {
+  background-color: #347ca9;
+  padding: 40px 30px;
+  color: govuk-colour("white");
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.dfe-card-header .govuk-heading-m {
+  color: govuk-colour("white");
+  margin: 20px;
+}
+
+.dfe-card-header .govuk-heading-s {
+  color: govuk-colour("white");
+  margin: 20px;
+}
+
+.dfe-card-header--pink {
+  background-color: #d4357f;
+}
+
+.dfe-card-header--purple {
+  background-color: govuk-colour("purple");
+}
+
+.dfe-card-header--green {
+  background-color: #279b91;
+}
+
+.dfe-card-body {
+  padding: 25px 30px;
+}
