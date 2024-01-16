@@ -47,7 +47,7 @@
         <ul class="dfe-header__navigation-list">
           <li class="dfe-header__navigation-item <%= " dfe-header__navigation-item--current" if @item[:title]=="Home" %>
             ">
-            <a class="dfe-header__navigation-link" href="#">
+            <a class="dfe-header__navigation-link" href="<%= @base_url %>/">
               Home
               <svg class="dfe-icon dfe-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
                 aria-hidden="true" width="34" height="34">
@@ -59,7 +59,7 @@
           </li>
           <li class="dfe-header__navigation-item ">
             <a class="dfe-header__navigation-link" href="#">
-              Staff Wellbeing
+              Staff wellbeing
               <svg class="dfe-icon dfe-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
                 aria-hidden="true" width="34" height="34">
                 <path
@@ -69,7 +69,7 @@
             </a>
           </li>
           <li class="dfe-header__navigation-item ">
-            <a class="dfe-header__navigation-link" href="workload-reduction-toolkit">
+            <a class="dfe-header__navigation-link" href="<%= @base_url %>/workload-reduction-toolkit">
               Workload reduction toolkit
               <svg class="dfe-icon dfe-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
                 aria-hidden="true" width="34" height="34">
@@ -107,7 +107,8 @@
   </header>
 
   <main id="main-content" role="main">
-    <%= yield %>
+    <%= render '/partials/breadcrumbs.html.erb' %>
+      <%= yield %>
   </main>
 
   <footer class="govuk-footer" role="contentinfo">
