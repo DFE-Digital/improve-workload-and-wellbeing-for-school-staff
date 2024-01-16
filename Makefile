@@ -1,8 +1,11 @@
-build: npm_install bundle_install
+build: yarn bundle_install
 	bundle exec nanoc
 
 clean:
 	rm -rf output/*
+
+yarn:
+	yarn
 
 bundle_install:
 	bundle install
