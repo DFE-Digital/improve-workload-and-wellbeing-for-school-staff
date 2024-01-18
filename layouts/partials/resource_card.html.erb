@@ -1,0 +1,37 @@
+<li class="resource-card-group__item">
+  <div class="resource-card">
+    <a class="govuk-link govuk-!-font-weight-bold" href="#">
+      <%= title %>
+    </a>
+    <div class="resource-card__body">
+      <p class="govuk-body">
+        <%= body %>
+      </p>
+      <div class="resource-tag">
+        <span class="govuk-!-font-size-16 govuk-!-font-weight-bold">
+          <%= tag %>
+        </span>
+      </div>
+      <% if defined?(reading_time) && reading_time.present? %>
+        <p class="govuk-body govuk-!-font-weight-bold">
+          Reading time:
+          <span class="govuk-!-font-weight-regular"><%= reading_time %></span>
+        </p>
+      <% end %>
+      
+      <% if defined?(activity_time) && activity_time.present? %>
+        <p class="govuk-body govuk-!-font-weight-bold">
+          Activity time:
+          <span class="govuk-!-font-weight-regular"><%= activity_time %></span>
+        </p>
+      <% end %>
+
+      <% if defined?(created_by) && created_by.present? %>
+        <p class="govuk-body govuk-!-font-weight-bold">
+          Created by:
+          <span class="govuk-!-font-weight-regular"><%= created_by %></span>
+        </p>
+      <% end %>
+    </div>
+  </div>
+</li>

@@ -10,6 +10,7 @@
 @import "dfe-fe/dfefrontend";
 
 @import "_cards.scss";
+@import "_info-box.scss";
 
 @mixin reset {
   margin: 0;
@@ -266,4 +267,16 @@ main {
   background-color: govuk-colour("light-grey");
   @include govuk-responsive-padding(8, "top");
   @include govuk-responsive-padding(8, "bottom");
+}
+
+.resource-tag {
+  height: 30px;
+  width: 120px;
+  background-color: govuk-colour("blue");
+  color: govuk-colour("white");
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
 }
