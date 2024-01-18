@@ -12,24 +12,11 @@
           <%= tag %>
         </span>
       </div>
-      <% if defined?(reading_time) && reading_time.present? %>
-        <p class="govuk-body govuk-!-font-weight-bold">
-          Reading time:
-          <span class="govuk-!-font-weight-regular"><%= reading_time %></span>
-        </p>
-      <% end %>
-      
-      <% if defined?(activity_time) && activity_time.present? %>
-        <p class="govuk-body govuk-!-font-weight-bold">
-          Activity time:
-          <span class="govuk-!-font-weight-regular"><%= activity_time %></span>
-        </p>
-      <% end %>
 
-      <% if defined?(created_by) && created_by.present? %>
+      <% details.each do |detail, value| %>
         <p class="govuk-body govuk-!-font-weight-bold">
-          Created by:
-          <span class="govuk-!-font-weight-regular"><%= created_by %></span>
+          <%= detail.to_s.humanize %>:
+          <span class="govuk-!-font-weight-regular"><%= value %></span>
         </p>
       <% end %>
     </div>
