@@ -5,8 +5,6 @@
     "tables": false
   },
   "MD033": {
-    "allowed_elements": [
-      "a"
-    ]
+    "allowed_elements": ["a", "div", "span", "g", "h2", "p"]
   }
 }
