@@ -8,7 +8,7 @@ $card-text-hover-color: govuk-colour("purple");
 .resource-card {
   @include govuk-responsive-padding(5);
   border: $card-border-width solid govuk-colour("mid-grey");
-  margin: govuk-spacing(9) 0;
+  margin: govuk-spacing(6) 0;
 }
 
 .resource-card-group {

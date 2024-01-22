@@ -13,7 +13,7 @@
         </span>
       </div>
 
-      <% details.each do |detail, value| %>
+      <% defined?(details) && details.each do |detail, value| %>
         <p class="govuk-body govuk-!-font-weight-bold">
           <%= detail.to_s.humanize %>:
           <span class="govuk-!-font-weight-regular"><%= value %></span>
