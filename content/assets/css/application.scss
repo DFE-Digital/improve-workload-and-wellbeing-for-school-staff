@@ -195,6 +195,7 @@ main {
 
   h2 {
     @extend %govuk-heading-l;
+    @include govuk-responsive-margin(6, "top");
   }
 
   h3 {
@@ -256,6 +257,10 @@ main {
       text-align: left;
       vertical-align: top;
     }
+  }
+
+  .govuk-heading-m {
+    @include govuk-responsive-margin(7, "top");
   }
 }
 
