@@ -28,11 +28,37 @@ title: Switching to online parents' evenings
   <div class="govuk-grid-column-two-thirds">
     <div class="info-box">
       <div class="info-box__corner">
+        <svg width="38" height="36" viewBox="0 0 38 36" fill="none"
+          xmlns="http://www.w3.org/2000/svg">
+          <path d="M14.9318 17.8874L17.4263 15.4826C14.5238 14.1964 10.9703
+          14.7036 8.58264 17.0065C5.51933 19.9599 5.51933 24.7667 8.58264
+          27.7211C11.6454 30.6751 16.6308 30.6751 19.6936 27.7211C22.0813 25.4189
+          22.6078 21.9916 21.274 19.1928L18.7796 21.5981C19.0261 23.0026 18.5934
+          24.4965 17.4716 25.5779C15.6334 27.351 12.6429 27.351 10.8048
+          25.5779C8.96668 23.8054 8.96668 20.9217 10.8048 19.1497C11.9266
+          18.0674 13.4759 17.6496 14.9318 17.8874Z" fill="white"/>
+          <path d="M23.5967 16.9549C26.0994 21.0241 25.5393 26.372 21.9142
+          29.8671C17.625 34.0032 10.6471 34.0032 6.35847 29.8671C2.06927 25.7318
+          2.06927 19.0025 6.35847 14.8665C9.98249 11.3714 15.5292 10.8313 19.749
+          13.2441L22.0251 11.0487C16.5284 7.48451 8.99152 8.04157 4.13578
+          12.7232C-1.37859 18.0401 -1.37859 26.693 4.13578 32.0098C9.65022
+          37.3279 18.6224 37.3279 24.1368 32.0098C28.9931 27.3276 29.5702
+          20.0599 25.8728 14.7589L23.5967 16.9549Z" fill="white"/>
+          <path d="M37.2807 5.9649C37.1633 5.66995 36.8662 5.4882 36.5298
+          5.50296L31.3847 5.73569L31.6266 0.774955C31.6413 0.449987 31.4528
+          0.164672 31.147 0.0503493C30.8429 -0.0628484 30.4819 0.0186399 30.2341
+          0.256425L24.7438 5.55113L24.4661 11.2688L14.4847 20.8931C13.9769
+          20.7821 13.4227 20.9135 13.027 21.295C12.4129 21.8871 12.4129 22.8461
+          13.027 23.4383C13.6405 24.0304 14.6356 24.0304 15.2497 23.4383C15.6447
+          23.0567 15.7816 22.5223 15.6664 22.0321L25.6473 12.4072L31.5761
+          12.14L37.067 6.8446C37.3142 6.60633 37.3981 6.25921 37.2807 5.9649Z"
+          fill="white"/>
+        </svg>
       </div>
       <h2 class="govuk-heading-m">
         Impact and outcomes
       </h2>
-      <p>
+      <p class="govuk-body">
         There were far more benefits to this system than drawbacks. There was a
         higher attendance from parents and the majority of stakeholders when
         questioned were keen to keep it post Covid. It did take a bit of
@@ -42,14 +68,14 @@ title: Switching to online parents' evenings
         some training or run- throughs with staff just so they get a feel how to
         use the time productively.
       </p>
-      <p>
+      <p class="govuk-body">
         ‘I feel very strongly that it is much less stressful for all parties. It
         ensures all staff/parents stick to time meaning all those with an
         appointment do get a fair equal opportunity to talk. So much time is
         saved by not moving around so that 5 minutes is usually more than
         sufficient time for productive discussion.’ (PHGS classroom teacher)
       </p>
-      <p>
+      <p class="govuk-body">
         ‘This really helped with the timings and engagement of parents, and it
         gives more flexibility as a parent of young children myself.’ (PHGS
         classroom teacher)
