@@ -4,13 +4,13 @@ title: Switching to online parents' evenings
 
 # Switching to online parents’ evenings
 
-<div class="resource-tag"><span>Example</span></div>
+<div class="resource-tag govuk-!-margin-bottom-9"><span>Example</span></div>
 
 {inset-text}
 
-### School details
+## School details
 
-**School details:** Prince Henry’s Grammar School
+**School name:** Prince Henry’s Grammar School
 
 **Location:** Leeds, West Yorkshire
 
