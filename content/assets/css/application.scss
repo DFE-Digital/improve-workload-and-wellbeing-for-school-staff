@@ -168,15 +168,11 @@
   color: #ffffff;
 }
 
-.govuk-body-m,
-.govuk-list.govuk-list--bullet li {
-  font-size: 16px;
-}
-
 .govuk-list.govuk-list--bullet li {
   margin-left: 8px;
 }
 
+.govuk-list,
 .govuk-grid-row.govuk-width-container.dfe-width-container hr {
   max-width: 44em;
 }
@@ -279,4 +275,6 @@ main {
   justify-content: center;
   align-items: center;
   margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 16px;
 }
