@@ -5,6 +5,25 @@ $card-border-hover-color: govuk-colour("purple");
 $card-text-color: govuk-colour("purple");
 $card-text-hover-color: govuk-colour("purple");
 
+.resource-card {
+  @include govuk-responsive-padding(5);
+  border: $card-border-width solid govuk-colour("mid-grey");
+  margin: govuk-spacing(6) 0;
+}
+
+.resource-card-group {
+  padding-left: 0;
+}
+
+.resource-card-group__item {
+  list-style-type: none;
+  padding: 0;
+}
+
+.resource-card__body {
+  margin-top: 20px;
+}
+
 .icon-card {
   @include govuk-responsive-margin(5, "bottom");
   background: govuk-colour("white");

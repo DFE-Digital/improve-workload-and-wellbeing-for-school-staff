@@ -1,0 +1,17 @@
+.info-box {
+  position: relative;
+  background-color: govuk-colour("light-grey");
+  border-top: 8px solid govuk-colour("purple");
+  padding: 40px 60px 20px 60px;
+  margin: 40px 0 60px 30px;
+}
+
+.info-box__corner {
+  position: absolute;
+  background: govuk-colour("purple");
+  width: 60px;
+  height: 60px;
+  top: -20px;
+  left: -15px;
+  z-index: 1;
+}

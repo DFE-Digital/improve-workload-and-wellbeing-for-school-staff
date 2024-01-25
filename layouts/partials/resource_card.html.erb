@@ -1,0 +1,24 @@
+<li class="resource-card-group__item">
+  <div class="resource-card">
+    <a class="govuk-link govuk-!-font-weight-bold" href="#">
+      <%= title %>
+    </a>
+    <div class="resource-card__body">
+      <p class="govuk-body">
+        <%= body %>
+      </p>
+      <div class="resource-tag">
+        <span class="govuk-!-font-size-16 govuk-!-font-weight-bold">
+          <%= tag %>
+        </span>
+      </div>
+
+      <% defined?(details) && details.each do |detail, value| %>
+        <p class="govuk-body govuk-!-font-weight-bold">
+          <%= detail.to_s.humanize %>:
+          <span class="govuk-!-font-weight-regular"><%= value %></span>
+        </p>
+      <% end %>
+    </div>
+  </div>
+</li>
