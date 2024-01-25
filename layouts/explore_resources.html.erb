@@ -1,0 +1,33 @@
+<% content_for :content do %>
+  <div class="dfe-content-page--header dfe-content-page--header--secondary">
+    <div class="dfe-width-container">
+      <div class="govuk-grid-row govuk-!-padding-top-9 govuk-!-padding-bottom-0">
+        <div class="govuk-grid-column-two-thirds">
+          <h1 class="govuk-heading-l govuk-!-margin-bottom-4">Explore resources</h1>
+          <p class="govuk-body">
+            This is a set of free workload reduction and wellbeing resources
+            produced by school leaders, for school leaders. They have been
+            designed to support what you are already doing and can be adapted to
+            work in your school.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="govuk-main-wrapper">
+    <div class="dfe-width-container">
+      <div class="govuk-grid-row govuk-width-container">
+        <div class="govuk-grid-column-one-third">
+          <%= content_for(@item, :topic_list) %>
+        </div>
+
+        <div class="govuk-grid-column-two-thirds">
+        <%= yield %>
+        </div>
+      </div>
+    </div>
+  </div>
+<% end %>
+
+<%= render '/base.html' %>

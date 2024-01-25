@@ -1,0 +1,24 @@
+.topic-list {
+  h2 {
+    margin-bottom: govuk_spacing(7);
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  .topic-list__item,
+  .topic-list__item-active {
+    margin-bottom: govuk_spacing(4);
+    padding: govuk_spacing(1) govuk_spacing(2);
+    border-left: 3px solid #787878;
+  }
+
+  .topic-list__item-active {
+    background-color: #f0f4f5;
+    border-color: govuk_colour("blue");
+    a {
+      font-weight: bold;
+    }
+  }
+}
