@@ -6,3 +6,23 @@ layout: /explore_resources.html.erb
 <% content_for :topic_list do %>
   <%= render('/partials/topic_list.*', active: "data-management")%>
 <% end %>
+
+<div class="explore-resource-card-group">
+  <%= render('/partials/explore_resource_card.*',
+    title: "Data management presentation",
+    tag:  "Data management",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Presentation"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Data collection audit",
+    tag:  "Data management",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Template"
+    }
+  )%>
+</div>

@@ -20,7 +20,6 @@
 
 // Remove margin from the last element
 @mixin remove-last-child-margin {
-
   p:last-child,
   ul:last-child,
   ol:last-child {
@@ -38,15 +37,19 @@
   background: $colour;
 }
 
-@mixin left-bordered-block($border-colour,
-  $background-colour: govuk-colour("white")) {
+@mixin left-bordered-block(
+  $border-colour,
+  $background-colour: govuk-colour("white")
+) {
   @include block;
   border-left: 10px solid $border-colour;
   background: $background-colour;
 }
 
-@mixin emphatic-block($background-colour,
-  $foreground-colour: govuk-colour("white")) {
+@mixin emphatic-block(
+  $background-colour,
+  $foreground-colour: govuk-colour("white")
+) {
   @include coloured-block($background-colour);
   padding: 2em 0;
   text-align: center;
@@ -277,6 +280,17 @@ main {
   @include govuk-responsive-padding(8, "bottom");
 }
 
+.govuk-inset-text {
+  @include govuk-responsive-padding(6, "left");
+  @include govuk-responsive-padding(1, "top");
+  @include govuk-responsive-padding(2, "bottom");
+  border-left: $govuk-border-width-wide solid govuk_colour("purple");
+
+  h2 {
+    @include govuk-font($size: 24, $weight: bold);
+  }
+}
+
 .govuk-tag {
   background-color: govuk-colour("blue");
   color: govuk-colour("white");
@@ -289,13 +303,6 @@ main {
   background-color: #d4357f;
 }
 
-.govuk-inset-text {
-  @include govuk-responsive-padding(6, "left");
-  @include govuk-responsive-padding(1, "top");
-  @include govuk-responsive-padding(2, "bottom");
-  border-left: $govuk-border-width-wide solid govuk_colour("purple");
-
-  h2 {
-    @include govuk-font($size: 24, $weight: bold);
-  }
+.govuk-tag--purple {
+  background-color: govuk-colour("purple");
 }

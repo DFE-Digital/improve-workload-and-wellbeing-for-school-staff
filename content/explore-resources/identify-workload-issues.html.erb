@@ -8,100 +8,40 @@ layout: /explore_resources.html.erb
 <% end %>
 
 <div class="explore-resource-card-group">
-  <div class="explore-resource-card">
-    <p><a class="govuk-link" href="#">Staff workload survey example</a></p>
+  <%= render('/partials/explore_resource_card.*',
+    title: "Staff workload survey example",
+    tag:  "Identify workload issues",
+    tag_colour: "pink",
+    details: {
+      resource_type: "Template"
+    }
+  )%>
 
-    <div class="explore-resource-card__row">
-      <div class="explore-resource-card__row-title">
-        <p class="govuk-body">Topic</p>
-      </div>
-      <div>
-        <strong class="govuk-tag govuk-tag--pink">Identify workload issues</strong>
-      </div>
-    </div>
+  <%= render('/partials/explore_resource_card.*',
+    title: "Identify the issues presentation",
+    tag:  "Identify workload issues",
+    tag_colour: "pink",
+    details: {
+      resource_type: "Presentation"
+    }
+  )%>
 
-    <div class="explore-resource-card__row">
-      <div class="explore-resource-card__row-title">
-        <p class="govuk-body">Resource type</p>
-      </div>
-      <div>
-        <p class="govuk-body">Template</p>
-      </div>
-    </div>
-  </div>
+  <%= render('/partials/explore_resource_card.*',
+    title: "Stuctured conversation template",
+    tag:  "Identify workload issues",
+    tag_colour: "pink",
+    details: {
+      resource_type: "Template"
+    }
+  )%>
 
-  <div class="explore-resource-card">
-    <p><a class="govuk-link" href="#">Identify the issues presentation</a></p>
-
-    <div class="explore-resource-card__row">
-      <div class="explore-resource-card__row-title">
-        <p class="govuk-body">Topic</p>
-      </div>
-      <div>
-        <strong class="govuk-tag govuk-tag--pink">Identify workload issues</strong>
-      </div>
-    </div>
-
-    <div class="explore-resource-card__row">
-      <div class="explore-resource-card__row-title">
-        <p class="govuk-body">Resource type</p>
-      </div>
-      <div>
-        <p class="govuk-body">Presentation</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="explore-resource-card">
-    <p><a class="govuk-link" href="#">Stuctured conversation template</a></p>
-
-    <div class="explore-resource-card__row">
-      <div class="explore-resource-card__row-title">
-        <p class="govuk-body">Topic</p>
-      </div>
-      <div>
-        <strong class="govuk-tag govuk-tag--pink">Identify workload issues</strong>
-      </div>
-    </div>
-
-    <div class="explore-resource-card__row">
-      <div class="explore-resource-card__row-title">
-        <p class="govuk-body">Resource type</p>
-      </div>
-      <div>
-        <p class="govuk-body">Template</p>
-      </div>
-    </div>
-  </div>
-
-  <div class="explore-resource-card">
-    <p><a class="govuk-link" href="#">Using an INSET day to focus on reducing workload</a></p>
-
-    <div class="explore-resource-card__row">
-      <div class="explore-resource-card__row-title">
-        <p class="govuk-body">Topic</p>
-      </div>
-      <div>
-        <strong class="govuk-tag govuk-tag--pink">Identify workload issues</strong>
-      </div>
-    </div>
-
-    <div class="explore-resource-card__row">
-      <div class="explore-resource-card__row-title">
-        <p class="govuk-body">Resource type</p>
-      </div>
-      <div>
-        <p class="govuk-body">Case study</p>
-      </div>
-    </div>
-
-    <div class="explore-resource-card__row">
-      <div class="explore-resource-card__row-title">
-        <p class="govuk-body">Created by</p>
-      </div>
-      <div>
-        <p class="govuk-body">Kensington Primary School</p>
-      </div>
-    </div>
-  </div>
+  <%= render('/partials/explore_resource_card.*',
+    title: "Using an INSET day to focus on reducing workload",
+    tag:  "Identify workload issues",
+    tag_colour: "pink",
+    details: {
+      resource_type: "Case study",
+      created_by: "Kensington Primary School"
+    }
+  )%>
 </div>
