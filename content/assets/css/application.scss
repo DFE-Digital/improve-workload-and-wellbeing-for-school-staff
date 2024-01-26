@@ -277,18 +277,16 @@ main {
   @include govuk-responsive-padding(8, "bottom");
 }
 
-.resource-tag {
-  height: 30px;
-  width: 120px;
+.govuk-tag {
   background-color: govuk-colour("blue");
   color: govuk-colour("white");
   border-radius: 8px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 20px;
   font-weight: bold;
-  font-size: 16px;
+  max-width: unset;
+}
+
+.govuk-tag--pink {
+  background-color: #d4357f;
 }
 
 .govuk-inset-text {
