@@ -258,9 +258,11 @@ main {
       vertical-align: top;
     }
   }
+}
 
+.markdown-page {
   .govuk-heading-m {
-    @include govuk-responsive-margin(7, "top");
+    @include govuk-responsive-margin(8, "top");
   }
 }
 
