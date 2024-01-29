@@ -4,14 +4,14 @@ layout: /explore_resources.html.erb
 ---
 
 <% content_for :topic_list do %>
-  <%= render('/partials/topic_list.*', active: "evaluate-workload-impact")%>
+  <%= render('/partials/topic_list.*', active: "evaluate-workload-measures")%>
 <% end %>
 
 <div class="explore-resource-card-group">
   <%= render('/partials/explore_resource_card.*',
     title: "Staff workload survey",
     href: "#",
-    tag:  "Evaluate workload impact",
+    tag:  "Evaluate workload measures",
     tag_colour: "green",
     details: {
       resource_type: "Template"
@@ -19,9 +19,9 @@ layout: /explore_resources.html.erb
   )%>
 
   <%= render('/partials/explore_resource_card.*',
-    title: "Evaluating the impact checklist",
+    title: "Evaluating the measures checklist",
     href: "#",
-    tag:  "Evaluate workload impact",
+    tag:  "Evaluate workload measures",
     tag_colour: "green",
     details: {
       resource_type: "Template",
@@ -32,7 +32,7 @@ layout: /explore_resources.html.erb
   <%= render('/partials/explore_resource_card.*',
     title: "Evaluating outcomes template",
     href: "#",
-    tag:  "Evaluate workload impact",
+    tag:  "Evaluate workload measures",
     tag_colour: "green",
     details: {
       resource_type: "Case study",
