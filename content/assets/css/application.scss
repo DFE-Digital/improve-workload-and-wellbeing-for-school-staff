@@ -19,6 +19,7 @@
 
 // Remove margin from the last element
 @mixin remove-last-child-margin {
+
   p:last-child,
   ul:last-child,
   ol:last-child {
@@ -36,19 +37,15 @@
   background: $colour;
 }
 
-@mixin left-bordered-block(
-  $border-colour,
-  $background-colour: govuk-colour("white")
-) {
+@mixin left-bordered-block($border-colour,
+  $background-colour: govuk-colour("white")) {
   @include block;
   border-left: 10px solid $border-colour;
   background: $background-colour;
 }
 
-@mixin emphatic-block(
-  $background-colour,
-  $foreground-colour: govuk-colour("white")
-) {
+@mixin emphatic-block($background-colour,
+  $foreground-colour: govuk-colour("white")) {
   @include coloured-block($background-colour);
   padding: 2em 0;
   text-align: center;
@@ -92,9 +89,16 @@
 }
 
 .dfe-icon-container {
-  text-align: center;
   padding: 40px;
   margin-bottom: 20px;
+}
+
+dfe-icon-container-header {
+  text-align: center;
+}
+
+.dfe-icon-container .govuk-link {
+  font-weight: 700;
 }
 
 .dfe-icon {
