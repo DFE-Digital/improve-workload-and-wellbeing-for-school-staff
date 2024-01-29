@@ -6,3 +6,85 @@ layout: /explore_resources.html.erb
 <% content_for :topic_list do %>
   <%= render('/partials/topic_list.*', active: "staff-wellbeing")%>
 <% end %>
+
+<div class="explore-resource-card-group">
+  <%= render('/partials/explore_resource_card.*',
+    title: "Establishing a wellbeing committee",
+    tag:  "Wellbeing",
+    details: {
+      resource_type: "Template",
+      reading_time: "4 minutes",
+      created_by: "Notre Dame High School"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Establishing a school workload group",
+    tag:  "Wellbeing",
+    details: {
+      resource_type: "Example",
+      reading_time: "20 minutes",
+      created_by: "Baylis Court School"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "21 things we did to improve staff wellbeing",
+    tag:  "Wellbeing",
+    details: {
+      resource_type: "Case study",
+      reading_time: "3 minutes",
+      created_by: "King Charles I Secondary School"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Prioritise wellbeing",
+    tag:  "Wellbeing",
+    details: {
+      resource_type: "Case study",
+      reading_time: "11 minutes",
+      created_by: "Bedford Academy"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Whole school approach to wellbeing",
+    tag:  "Wellbeing",
+    details: {
+      resource_type: "Case study",
+      reading_time: "7 minutes",
+      created_by: "Barr Beacon School"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Academy trust workload agreement",
+    tag:  "Wellbeing",
+    details: {
+      resource_type: "Example",
+      reading_time: "6 minutes",
+      created_by: "Academy Multi Academy Trust"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Wellbeing and Workload Charter",
+    tag:  "Wellbeing",
+    details: {
+      resource_type: "Example",
+      reading_time: "11 minutes",
+      created_by: "Bedford Academy"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Wellbeing policy",
+    tag:  "Wellbeing",
+    details: {
+      resource_type: "Example",
+      reading_time: "9 minutes",
+      created_by: "The Pingle Academy"
+    }
+  )%>
+</div>

@@ -6,3 +6,35 @@ layout: /explore_resources.html.erb
 <% content_for :topic_list do %>
   <%= render('/partials/topic_list.*', active: "evaluate-workload-impact")%>
 <% end %>
+
+<div class="explore-resource-card-group">
+  <%= render('/partials/explore_resource_card.*',
+    title: "Staff workload survey",
+    tag:  "Evaluate workload impact",
+    tag_colour: "green",
+    details: {
+      resource_type: "Template"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Evaluating the impact checklist",
+    tag:  "Evaluate workload impact",
+    tag_colour: "green",
+    details: {
+      resource_type: "Template",
+      create_by: "Bedford Academy"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Evaluating outcomes template",
+    tag:  "Evaluate workload impact",
+    tag_colour: "green",
+    details: {
+      resource_type: "Case study",
+      reading_time: "7 minutes",
+      created_by: "Barr Beacon School"
+    }
+  )%>
+</div>
