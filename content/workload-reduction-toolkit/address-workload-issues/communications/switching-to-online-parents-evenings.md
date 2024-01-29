@@ -28,7 +28,7 @@ title: Switching to online parents' evenings
   <div class="govuk-grid-column-two-thirds">
     <div class="info-box">
       <div class="info-box__corner">
-        <img src="/assets/images/bullseye.png" alt="Bullseye icon">
+        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
       </div>
       <h2 class="govuk-heading-m">
         Impact and outcomes
