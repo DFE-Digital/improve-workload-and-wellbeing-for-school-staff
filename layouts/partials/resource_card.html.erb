@@ -1,6 +1,6 @@
 <li class="resource-card-group__item">
   <div class="resource-card">
-    <a class="govuk-link govuk-!-font-weight-bold" href="#">
+    <a class="govuk-link govuk-!-font-weight-bold" href=<%= href %>>
       <%= title %>
     </a>
     <div class="resource-card__body">
@@ -8,9 +8,7 @@
         <%= body %>
       </p>
       <div class="resource-tag">
-        <span class="govuk-!-font-size-16 govuk-!-font-weight-bold">
-          <%= tag %>
-        </span>
+        <span><%= tag %></span>
       </div>
 
       <% defined?(details) && details.each do |detail, value| %>

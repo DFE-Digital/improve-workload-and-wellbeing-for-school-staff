@@ -199,6 +199,7 @@ main {
 
   h2 {
     @extend %govuk-heading-l;
+    @include govuk-responsive-margin(6, "top");
   }
 
   h3 {
@@ -263,6 +264,12 @@ main {
   }
 }
 
+.markdown-page {
+  .govuk-heading-m {
+    @include govuk-responsive-margin(8, "top");
+  }
+}
+
 .content__section--grey {
   background-color: govuk-colour("light-grey");
   @include govuk-responsive-padding(8, "top");
@@ -281,4 +288,15 @@ main {
   margin-bottom: 20px;
   font-weight: bold;
   font-size: 16px;
+}
+
+.govuk-inset-text {
+  @include govuk-responsive-padding(6, "left");
+  @include govuk-responsive-padding(1, "top");
+  @include govuk-responsive-padding(2, "bottom");
+  border-left: $govuk-border-width-wide solid govuk_colour("purple");
+
+  h2 {
+    @include govuk-font($size: 24, $weight: bold);
+  }
 }

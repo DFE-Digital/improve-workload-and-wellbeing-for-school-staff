@@ -2,8 +2,12 @@
   position: relative;
   background-color: govuk-colour("light-grey");
   border-top: 8px solid govuk-colour("purple");
-  padding: 40px 60px 20px 60px;
-  margin: 40px 0 60px 30px;
+  padding: govuk-spacing(7) govuk-spacing(9) govuk-spacing(4) govuk-spacing(9);
+  margin: govuk-spacing(7) 0 govuk-spacing(6) govuk-spacing(3);
+
+  .govuk-heading-m {
+    margin-top: 0;
+  }
 }
 
 .info-box__corner {
@@ -14,4 +18,7 @@
   top: -20px;
   left: -15px;
   z-index: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
