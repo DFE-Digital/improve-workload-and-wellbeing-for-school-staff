@@ -310,3 +310,20 @@ main {
 .govuk-tag--green {
   background-color: #279b91;
 }
+
+.govuk-footer__contact {
+  .govuk-footer__contact-description {
+    font-size: 1rem;
+
+    a {
+      font-weight: bold;
+      color: govuk-colour("black");
+    }
+  }
+
+  .govuk-footer__contact-title {
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: govuk-spacing(2);
+  }
+}
