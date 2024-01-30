@@ -1,0 +1,34 @@
+.feedback-section-container {
+  display: flex;
+}
+
+.govuk-grid-column-one-third {
+  .feedback-section-container {
+    display: block;
+    margin: 0;
+  }
+
+  .feedback-section {
+    margin: 0;
+    padding-top: govuk-spacing(2);
+  }
+
+  .feedback-section__icon {
+    img {
+      width: 56px;
+    }
+  }
+}
+
+.feedback-section {
+  width: 100%;
+  display: flex;
+  margin: 0 govuk-spacing(6) govuk-spacing(6) govuk-spacing(6);
+}
+
+.feedback-section__icon {
+  margin-right: govuk-spacing(6);
+  img {
+    width: 67px;
+  }
+}

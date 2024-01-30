@@ -3,7 +3,7 @@
   background-color: govuk-colour("light-grey");
   border-top: 8px solid govuk-colour("purple");
   padding: govuk-spacing(7) govuk-spacing(9) govuk-spacing(4) govuk-spacing(9);
-  margin: govuk-spacing(7) 0 govuk-spacing(6) govuk-spacing(3);
+  margin: govuk-spacing(8) 0 govuk-spacing(8) govuk-spacing(3);
 
   .govuk-heading-m {
     margin-top: 0;
@@ -21,4 +21,14 @@
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.markdown-page {
+  .info-box {
+    margin-top: govuk-spacing(2);
+
+    h2 {
+      margin-top: 0;
+    }
+  }
 }

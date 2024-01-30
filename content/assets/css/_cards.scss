@@ -168,6 +168,10 @@ $card-text-hover-color: govuk-colour("purple");
   }
 }
 
+.dfe-card-container {
+  display: flex;
+}
+
 .dfe-card {
   margin: 40px;
   border: 1px solid #b1b4b6;

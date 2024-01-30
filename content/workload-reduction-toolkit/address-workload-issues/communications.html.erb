@@ -3,95 +3,95 @@ title: Communications
 ---
 
 <div class="govuk-main-wrapper">
-  <div class="dfe-width-container govuk-grid-row govuk-!-padding-top-4">
+  <div class="dfe-width-container govuk-grid-row workload-area-page">
     <div class="govuk-grid-column-two-thirds">
-      <h1 class="govuk-heading-l govuk-!-margin-bottom-7">Communications</h1>
-    </div>
-  </div>
+      <div class="dfe-width-container govuk-grid-row">
+        <h1 class="govuk-heading-l">Communications</h1>
 
-  <div class="dfe-width-container govuk-grid-row">
-    <div class="govuk-grid-column-one-half">
-      <p class="govuk-body">
-        These resources are designed to help you address workload issues with
-        communications in your school.
-      </p>
-    </div>
-  </div>
-
-  <div class="govuk-grid-row dfe-width-container">
-    <div class="govuk-grid-column-two-thirds">
-      <hr class="govuk-section-break govuk-section-break--l govuk-section-break--visible">
-    </div>
-  </div>
-
-  <div class="govuk-grid-row dfe-width-container">
-    <div class="govuk-grid-column-two-thirds">
-      <div class="info-box">
-        <div class="info-box__corner">
-          <svg width="55" height="59" fill="none" xmlns="http://www.w3.org/2000/svg">
-            <g clip-path="url(#a)" fill="#fff"><path d="M27.547 21.442a4.675 4.675 0 1 0 0-9.348 4.675 4.675 0 1 0 0 9.348ZM33.28 41.33h-.636c-.65 0-1.179-.527-1.179-1.177V24.218a.618.618 0 0 0-.905-.546l-8.035 4.463c-2.339 1.169-1.217 2.564-.346 2.529.87-.036 3.463-.291 3.463-.291v9.78c0 .65-.528 1.177-1.178 1.177h-1.248a.59.59 0 0 0-.59.59v2.567a.59.59 0 0 0 .59.589h10.063a.59.59 0 0 0 .59-.589V41.92a.59.59 0 0 0-.59-.589Z"/></g>
-            <defs><clipPath id="a"><path fill="#fff" transform="translate(11 12.094)" d="M0 0h33v32.982H0z"/></clipPath></defs>
-          </svg>
+        <div class="dfe-width-container govuk-grid-row">
+          <p class="govuk-body">
+            These resources are designed to help you address workload issues with
+            communications in your school.
+          </p>
         </div>
-        <h2 class="govuk-heading-m">
-          How to use this section
-        </h2>
-        <p class="govuk-body">
-          You can use the resources as they are or adapt them to meet the
-          needs of your school.
-        </p>
-        <p class="govuk-body">
-          The presentation is designed to enable safe discussion with your
-          staff in a staff meeting or INSET day. You can use it to identify
-          which issues with communications workload to prioritise, update,
-          streamline or stop completely.
-        </p>
       </div>
     </div>
-  </div>
 
-  <div class="dfe-width-container govuk-grid-row">
     <div class="govuk-grid-column-two-thirds">
-      <h2 class="govuk-heading-m govuk-!-margin-bottom-0"">Resources to help communications workload</h2>
+      <hr class="govuk-section-break--thick">
+
+      <div class="govuk-grid-row dfe-width-container">
+        <div class="info-box">
+          <div class="info-box__corner">
+            <svg width="55" height="59" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <g clip-path="url(#a)" fill="#fff"><path d="M27.547 21.442a4.675 4.675 0 1 0 0-9.348 4.675 4.675 0 1 0 0 9.348ZM33.28 41.33h-.636c-.65 0-1.179-.527-1.179-1.177V24.218a.618.618 0 0 0-.905-.546l-8.035 4.463c-2.339 1.169-1.217 2.564-.346 2.529.87-.036 3.463-.291 3.463-.291v9.78c0 .65-.528 1.177-1.178 1.177h-1.248a.59.59 0 0 0-.59.59v2.567a.59.59 0 0 0 .59.589h10.063a.59.59 0 0 0 .59-.589V41.92a.59.59 0 0 0-.59-.589Z"/></g>
+              <defs><clipPath id="a"><path fill="#fff" transform="translate(11 12.094)" d="M0 0h33v32.982H0z"/></clipPath></defs>
+            </svg>
+          </div>
+          <h2 class="govuk-heading-m">
+            How to use this section
+          </h2>
+          <p class="govuk-body">
+            You can use the resources as they are or adapt them to meet the
+            needs of your school.
+          </p>
+          <p class="govuk-body">
+            The presentation is designed to enable safe discussion with your
+            staff in a staff meeting or INSET day. You can use it to identify
+            which issues with communications workload to prioritise, update,
+            streamline or stop completely.
+          </p>
+        </div>
+      </div>
+
+      <div class="dfe-width-container govuk-grid-row">
+        <h2 class="govuk-heading-m">
+          Resources to help communications workload
+        </h2>
+      </div>
+
+      <div class="dfe-width-container govuk-grid-row">
+        <ul class="resource-card-group">
+          <%= render('/partials/resource_card.*',
+            title: "Communications presentation",
+            href: "#",
+            body: "Review communications processes with your staff.",
+            tag: "Presentation")%>
+
+          <%= render('/partials/resource_card.*',
+            title: "Example communications policy",
+            href: "#",
+            body: "Develop a communications policy for parental engagement.",
+            tag: "Example",
+            details: { reading_time: "6 minutes", created_by: "St Edward's RC/CoE School (Secondary)" } )%>
+
+          <%= render('/partials/resource_card.*',
+            title: "Example school email protocol",
+            href: "#",
+            body: "Develop an email protocol by reviewing the range of information sent by email.",
+            tag: "Example",
+            details: { reading_time: "3 minutes", created_by: "St Edward's RC/CoE School (Secondary)" } )%>
+
+          <%= render('/partials/resource_card.*',
+            title: "Switching to online parents’ evenings",
+            href: "#{@base_url}/workload-reduction-toolkit/address-workload-issues/communications/switching-to-online-parents-evenings",
+            body: "Develop an email protocol by reviewing the range of information sent by email.",
+            tag: "Example",
+            details: { reading_time: "8 minutes", created_by: "Prince Henry Grammar School (Secondary)" } )%>
+
+          <%= render('/partials/resource_card.*',
+            title: "Streamlining internal school communications",
+            href: "#",
+            body: "A case study showing how to reduce workload by streaming internal communications.",
+            tag: "Case study",
+            details: { reading_time: "9 minutes", created_by: "Hilltop Infant School" } )%>
+        </ul>
+      </div>
     </div>
-  </div>
+    <div class="govuk-grid-column-one-third">
+      <hr class="govuk-section-break--blue govuk-section-break--thick">
 
-  <div class="dfe-width-container govuk-grid-row">
-    <div class="govuk-grid-column-two-thirds">
-      <ul class="resource-card-group">
-        <%= render('/partials/resource_card.*',
-          title: "Communications presentation",
-          href: "#",
-          body: "Review communications processes with your staff.",
-          tag: "Presentation")%>
-
-        <%= render('/partials/resource_card.*',
-          title: "Example communications policy",
-          href: "#",
-          body: "Develop a communications policy for parental engagement.",
-          tag: "Example",
-          details: { reading_time: "6 minutes", created_by: "St Edward's RC/CoE School (Secondary)" } )%>
-
-        <%= render('/partials/resource_card.*',
-          title: "Example school email protocol",
-          href: "#",
-          body: "Develop an email protocol by reviewing the range of information sent by email.",
-          tag: "Example",
-          details: { reading_time: "3 minutes", created_by: "St Edward's RC/CoE School (Secondary)" } )%>
-
-        <%= render('/partials/resource_card.*',
-          title: "Switching to online parents' evenings",
-          href: "#{@base_url}/workload-reduction-toolkit/address-workload-issues/communications/switching-to-online-parents-evenings",
-          body: "Develop an email protocol by reviewing the range of information sent by email.",
-          tag: "Example",
-          details: { reading_time: "8 minutes", created_by: "Prince Henry Grammar School (Secondary)" } )%>
-
-        <%= render('/partials/resource_card.*',
-          title: "Streamlining internal school communications",
-          href: "#",
-          body: "A case study showing how to reduce workload by streaming internal communications.",
-          tag: "Case study",
-          details: { reading_time: "9 minutes", created_by: "Hilltop Infant School" } )%>
-      </ul>
+      <%= render '/partials/feedback.*' %>
+    </div>
   </div>
 </div>
