@@ -1,0 +1,68 @@
+---
+title: Explore resources
+layout: /explore_resources.html.erb
+---
+
+<% content_for :topic_list do %>
+  <%= render('/partials/topic_list.*', active: "communications")%>
+<% end %>
+
+<div class="explore-resource-card-group">
+  <%= render('/partials/explore_resource_card.*',
+    title: "Communications presentation",
+    href: "#",
+    tag:  "Communications",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Presentation"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Example communications policy",
+    href: "#",
+    tag:  "Communications",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Example",
+      reading_time: "6 minutes",
+      created_by: "St Edwards RC/CoE School (Secondary)"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Example school email protocol",
+    href: "#",
+    tag:  "Communications",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Template",
+      reading_time: "10 minutes",
+      created_by: "St Edwards RC/CoE School (Secondary)"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Switching to online parents' evenings",
+    href: "#{@base_url}/workload-reduction-toolkit/address-workload-issues/communications/switching-to-online-parents-evenings",
+    tag:  "Communications",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Example",
+      reading_time: "8 minutes",
+      created_by: "Prince Henry Grammar School (Secondary)"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Streamlining internal school communications",
+    href: "#",
+    tag:  "Communications",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Case study",
+      reading_time: "9 minutes",
+      created_by: "Hilltop Infant School"
+    }
+  )%>
+</div>

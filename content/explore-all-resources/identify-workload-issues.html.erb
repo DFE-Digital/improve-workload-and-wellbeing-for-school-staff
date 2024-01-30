@@ -1,0 +1,51 @@
+---
+title: Explore resources
+layout: /explore_resources.html.erb
+---
+
+<% content_for :topic_list do %>
+  <%= render('/partials/topic_list.*', active: "identify-workload-issues")%>
+<% end %>
+
+<div class="explore-resource-card-group">
+  <%= render('/partials/explore_resource_card.*',
+    title: "Staff workload survey example",
+    href: "#",
+    tag:  "Identify workload issues",
+    tag_colour: "pink",
+    details: {
+      resource_type: "Template"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Identify the issues presentation",
+    href: "#",
+    tag:  "Identify workload issues",
+    tag_colour: "pink",
+    details: {
+      resource_type: "Presentation"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Stuctured conversation template",
+    href: "#",
+    tag:  "Identify workload issues",
+    tag_colour: "pink",
+    details: {
+      resource_type: "Template"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Using an INSET day to focus on reducing workload",
+    href: "#",
+    tag:  "Identify workload issues",
+    tag_colour: "pink",
+    details: {
+      resource_type: "Case study",
+      created_by: "Kensington Primary School"
+    }
+  )%>
+</div>

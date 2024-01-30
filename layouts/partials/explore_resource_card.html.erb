@@ -1,0 +1,23 @@
+<div class="explore-resource-card">
+  <p><a class="govuk-link" href=<%= href %>><%= title %></a></p>
+
+  <div class="explore-resource-card__row">
+    <div class="explore-resource-card__row-title">
+      <p class="govuk-body">Topic</p>
+    </div>
+    <div>
+      <strong class="govuk-tag<%= defined?(tag_colour) && " govuk-tag--#{tag_colour}" %>"><%= tag %></strong>
+    </div>
+  </div>
+
+  <% defined?(details) && details.each do |detail, value| %>
+    <div class="explore-resource-card__row">
+      <div class="explore-resource-card__row-title">
+        <p class="govuk-body"><%= detail.to_s.humanize %></p>
+      </div>
+      <div>
+        <p class="govuk-body"><%= value %></p>
+      </div>
+    </div>
+  <% end %>
+</div>

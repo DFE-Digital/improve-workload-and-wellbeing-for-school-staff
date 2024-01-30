@@ -1,0 +1,46 @@
+---
+title: Explore resources
+layout: /explore_resources.html.erb
+---
+
+<% content_for :topic_list do %>
+  <%= render('/partials/topic_list.*', active: "behaviour-management")%>
+<% end %>
+
+<div class="explore-resource-card-group">
+  <%= render('/partials/explore_resource_card.*',
+    title: "Example behaviour for learning protocols",
+    href: "#",
+    tag:  "Behaviour management",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Example",
+      reading_time: "5 minutes",
+      created_by: "King Charles I Secondary School"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "8 ways we manage behaviour management workload",
+    href: "#",
+    tag:  "Behaviour management",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Case study",
+      reading_time: "TBC",
+      created_by: "King Charles I Secondary School"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Setting up a central referral system for pupil behaviour",
+    href: "#",
+    tag:  "Behaviour management",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Example",
+      reading_time: "5 minutes",
+      created_by: "Redbridge Community School (Secondary)"
+    }
+  )%>
+</div>

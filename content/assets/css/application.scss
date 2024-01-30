@@ -11,6 +11,7 @@
 
 @import "_cards.scss";
 @import "_info-box.scss";
+@import "_topic-list.scss";
 
 @mixin reset {
   margin: 0;
@@ -19,7 +20,6 @@
 
 // Remove margin from the last element
 @mixin remove-last-child-margin {
-
   p:last-child,
   ul:last-child,
   ol:last-child {
@@ -37,15 +37,19 @@
   background: $colour;
 }
 
-@mixin left-bordered-block($border-colour,
-  $background-colour: govuk-colour("white")) {
+@mixin left-bordered-block(
+  $border-colour,
+  $background-colour: govuk-colour("white")
+) {
   @include block;
   border-left: 10px solid $border-colour;
   background: $background-colour;
 }
 
-@mixin emphatic-block($background-colour,
-  $foreground-colour: govuk-colour("white")) {
+@mixin emphatic-block(
+  $background-colour,
+  $foreground-colour: govuk-colour("white")
+) {
   @include coloured-block($background-colour);
   padding: 2em 0;
   text-align: center;
@@ -276,20 +280,6 @@ main {
   @include govuk-responsive-padding(8, "bottom");
 }
 
-.resource-tag {
-  height: 30px;
-  width: 120px;
-  background-color: govuk-colour("blue");
-  color: govuk-colour("white");
-  border-radius: 8px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-bottom: 20px;
-  font-weight: bold;
-  font-size: 16px;
-}
-
 .govuk-inset-text {
   @include govuk-responsive-padding(6, "left");
   @include govuk-responsive-padding(1, "top");
@@ -299,4 +289,24 @@ main {
   h2 {
     @include govuk-font($size: 24, $weight: bold);
   }
+}
+
+.govuk-tag {
+  background-color: govuk-colour("blue");
+  color: govuk-colour("white");
+  border-radius: 8px;
+  font-weight: bold;
+  max-width: unset;
+}
+
+.govuk-tag--pink {
+  background-color: #d4357f;
+}
+
+.govuk-tag--purple {
+  background-color: govuk-colour("purple");
+}
+
+.govuk-tag--green {
+  background-color: #279b91;
 }

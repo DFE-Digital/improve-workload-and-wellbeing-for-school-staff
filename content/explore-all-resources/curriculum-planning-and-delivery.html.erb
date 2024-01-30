@@ -1,0 +1,56 @@
+---
+title: Explore resources
+layout: /explore_resources.html.erb
+---
+
+<% content_for :topic_list do %>
+  <%= render('/partials/topic_list.*', active: "curriculum-planning-and-delivery")%>
+<% end %>
+
+<div class="explore-resource-card-group">
+  <%= render('/partials/explore_resource_card.*',
+    title: "Curriculum planning presentation",
+    href: "#",
+    tag:  "Curriculum planning and delivery",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Presentation"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Using collaboration to create sustainable workload",
+    href: "#",
+    tag:  "Curriculum planning and delivery",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Case study",
+      reading_time: "6 minutes",
+      created_by: "West Meon Church of England (VS) Primary School"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Changing lesson observations to class visits",
+    href: "#",
+    tag:  "Curriculum planning and delivery",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Example",
+      reading_time: "7 minutes",
+      created_by: "Harehills Primary School"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Developing a culture of support and staff development",
+    href: "#",
+    tag:  "Curriculum planning and delivery",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Case study",
+      reading_time: "10 minutes",
+      created_by: "Kensington Primary School"
+    }
+  )%>
+</div>

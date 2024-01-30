@@ -4,7 +4,7 @@ title: Switching to online parents' evenings
 
 # Switching to online parents’ evenings
 
-<div class="resource-tag govuk-!-margin-bottom-9"><span>Example</span></div>
+<strong class="govuk-tag">Example</strong>
 
 {inset-text}
 

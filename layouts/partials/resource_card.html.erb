@@ -7,9 +7,9 @@
       <p class="govuk-body">
         <%= body %>
       </p>
-      <div class="resource-tag">
-        <span><%= tag %></span>
-      </div>
+      <p class="govuk-body">
+        <strong class="govuk-tag"><%= tag %></strong>
+      </p>
 
       <% defined?(details) && details.each do |detail, value| %>
         <p class="govuk-body govuk-!-font-weight-bold">
