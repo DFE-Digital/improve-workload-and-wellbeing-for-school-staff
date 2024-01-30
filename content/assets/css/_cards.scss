@@ -150,14 +150,6 @@ $card-text-hover-color: govuk-colour("purple");
 }
 
 .icon-card--link {
-  // text-decoration: none;
-
-  // p {
-  //   text-decoration: none;
-  //   color: $card-text-color !important;
-  //   margin-bottom: 0;
-  // }
-
   &.icon-card--clickable {
     &:hover,
     &:active {
@@ -224,7 +216,7 @@ $card-text-hover-color: govuk-colour("purple");
 
 .dfe-card-header {
   background-color: #347ca9;
-  padding: 40px 30px;
+  padding: govuk-spacing(4);
   color: govuk-colour("white");
   text-decoration: none;
   font-weight: bold;
@@ -253,5 +245,5 @@ $card-text-hover-color: govuk-colour("purple");
 }
 
 .dfe-card-body {
-  padding: 25px 30px;
+  padding: govuk-spacing(5) govuk-spacing(7);
 }

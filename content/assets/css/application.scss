@@ -83,11 +83,6 @@
   padding: 0px;
 }
 
-.govuk-grid-column-one-half {
-  display: flex;
-  justify-content: center;
-}
-
 .govuk-grid-row {
   align-items: center;
 }
@@ -95,14 +90,6 @@
 .dfe-icon-container {
   padding: 40px;
   margin-bottom: 20px;
-}
-
-dfe-icon-container-header {
-  text-align: center;
-}
-
-.dfe-icon-container .govuk-link {
-  font-weight: 700;
 }
 
 .dfe-icon {
@@ -311,6 +298,18 @@ main {
   background-color: #279b91;
 }
 
+.feedback-section__container {
+  display: flex;
+  margin: govuk-spacing(9) 0;
+}
+
+.feedback-section__icon {
+  margin-right: govuk-spacing(6);
+  img {
+    width: 67px;
+  }
+}
+
 .govuk-footer__contact {
   .govuk-footer__contact-description {
     font-size: 1rem;
@@ -326,4 +325,8 @@ main {
     font-size: 1.2rem;
     margin-bottom: govuk-spacing(2);
   }
+}
+
+.dfe-card-container {
+  display: flex;
 }
