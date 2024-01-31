@@ -36,7 +36,7 @@ DfE has also consulted and engaged with organisations to help reduce workload in
 The resources in the toolkit were provided by school leaders and have been tested with a range of schools across England.
 
 Schools using them in a project with the
-[Teaching Schools Council and Education Development Trust](https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report), saw:
+[Teaching Schools Council and Education Development Trust](https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report) saw:
 
 - significantly reduced teacher time on targeted tasks
 - improvements in overall teacher wellbeing
