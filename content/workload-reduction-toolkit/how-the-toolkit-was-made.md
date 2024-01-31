@@ -18,9 +18,9 @@ It builds on the principles of the Workload Advisory Group report
 [Making data work](https://www.gov.uk/government/publications/teacher-workload-advisory-group-report-and-government-response)
 and 3 independent reports on marking, planning and resources and data management:
 
-- <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-data-management-review-group-report" target="_blank">Data Management Review Group report (opens in new tab)</a>
-- <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-marking-policy-review-group-report" target="_blank">Marking Policy Review Group report (opens in new tab)</a>
-- <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-planning-and-resources-group-report" target="_blank">Planning and Resources Group report (opens in new tab)</a>
+- [Data Management Review Group report](https://www.gov.uk/government/publications/reducing-teacher-workload-data-management-review-group-report)
+- [Marking Policy Review Group report](https://www.gov.uk/government/publications/reducing-teacher-workload-marking-policy-review-group-report)
+- [Planning and Resources Group report](https://www.gov.uk/government/publications/reducing-teacher-workload-planning-and-resources-group-report)
 
 DfE has also consulted and engaged with organisations to help reduce workload in schools, including:
 
@@ -36,8 +36,7 @@ DfE has also consulted and engaged with organisations to help reduce workload in
 The resources in the toolkit were provided by school leaders and have been tested with a range of schools across England.
 
 Schools using them in a project with the
-<a href="https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report" target="_blank">
-Teaching Schools Council and Education Development Trust (opens in new tab)</a>, saw:
+[Teaching Schools Council and Education Development Trust](https://www.gov.uk/government/publications/reducing-teacher-workload-education-development-trust-report) saw:
 
 - significantly reduced teacher time on targeted tasks
 - improvements in overall teacher wellbeing
