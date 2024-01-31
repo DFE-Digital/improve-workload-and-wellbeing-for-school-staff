@@ -32,3 +32,9 @@
     width: 67px;
   }
 }
+
+.feedback-section__content {
+  .govuk-heading-m {
+    margin-top: 0 !important;
+  }
+}

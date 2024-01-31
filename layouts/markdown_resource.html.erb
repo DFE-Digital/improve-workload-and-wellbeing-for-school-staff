@@ -1,0 +1,15 @@
+<% wrapped_content=capture do %>
+  <div class="govuk-main-wrapper">
+    <div class="govuk-grid-row govuk-width-container dfe-width-container markdown-page two-column-page">
+      <div class="govuk-grid-column-two-thirds">
+        <%= yield %>
+      </div>  
+      <div class="govuk-grid-column-one-third">
+        <hr class="govuk-section-break--blue govuk-section-break--thick">
+        <%= render '/partials/feedback.*' %>
+      </div>
+    </div>
+  </div>
+<% end %>
+
+<%= render '/default.html' , content: wrapped_content %>
