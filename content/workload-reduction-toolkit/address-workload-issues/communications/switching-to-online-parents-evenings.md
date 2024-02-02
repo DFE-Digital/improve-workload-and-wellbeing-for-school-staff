@@ -1,5 +1,8 @@
 ---
 title: Switching to online parents' evenings
+layout: /markdown_resource.html.erb
+---
+
 ---
 
 # Switching to online parents’ evenings
@@ -22,10 +25,8 @@ title: Switching to online parents' evenings
 
 {/inset-text}
 
----
-
 <div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-two-thirds">
+  <div class="govuk-grid-column-full">
     <div class="info-box">
       <div class="info-box__corner">
         <img src="/assets/images/bullseye.svg" alt="Bullseye icon">

@@ -26,7 +26,7 @@ title: Home
 
 <div class="govuk-main-wrapper">
   <div class="govuk-grid-row govuk-width-container dfe-width-container">
-    <div class="govuk-grid-column-one-half">
+    <div class="dfe-card-container">
       <div class="dfe-card">
         <div class="dfe-card-header">
           <h2 class="govuk-heading-m">Staff wellbeing</h2>
@@ -35,8 +35,6 @@ title: Home
           <p class="govuk-body">Promote a culture of wellbeing with resources made by school leaders.</p>
         </div>
       </div>
-    </div>
-    <div class="govuk-grid-column-one-half">
       <div class="dfe-card">
         <div class="dfe-card-header">
           <h2 class="govuk-heading-m">Workload reduction toolkit</h2>
@@ -50,14 +48,18 @@ title: Home
 </div>
 
 <div class="dfe-content-page--row">
-  <div class="govuk-grid-row  govuk-width-container dfe-width-container">
-    <div class="govuk-grid-column-full">
+  <div class="govuk-grid-row govuk-width-container dfe-width-container">
+    <div class="govuk-grid-column-two-thirds">
       <h2 class="govuk-heading-m">Explore all resources</h2>
       <p class="govuk-body">Browse through all our staff wellbeing and workload reduction resources. They are
         contributed by school leaders from their experiences improving workload and wellbeing in their schools.</p>
-      <a href="<%= @base_url %>/explore-all-resources/identify-workload-issues" class="govuk-button" data-module="govuk-button">Explore all resources</a>
+      <a class="govuk-button govuk-!-margin-top-2 govuk-!-font-weight-bold" data-module="govuk-button" href="<%= @base_url %>/explore-all-resources/identify-workload-issues">
+        Explore all resources
+      </a>
     </div>
   </div>
 </div>
 
-<%= render '/partials/feedback.*' %>
+<div class="govuk-main-wrapper">
+  <%= render '/partials/feedback.*' %>
+</div>

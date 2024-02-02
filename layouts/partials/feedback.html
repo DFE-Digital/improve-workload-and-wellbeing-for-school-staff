@@ -1,35 +1,48 @@
-<div class="govuk-grid-row  govuk-width-container dfe-width-container">
-  <div class="govuk-grid-column-one-third">
-    <div class="dfe-icon-container">
-      <img src="<%= @base_url %>/assets/images/chat.svg" alt="Chat icon" class="dfe-icon">
-      <h2 class="govuk-heading-m">Help to improve our service</h2>
-      <p class="govuk-body">Provide us with your feedback to help us improve our service on workload and wellbeing for
-        all school staff.</p>
+<div
+  class="govuk-grid-row govuk-width-container dfe-width-container feedback-section-container"
+>
+  <div class="feedback-section">
+    <div class="feedback-section__icon">
+      <img
+        src="<%= @base_url %>/assets/images/idea.svg"
+        alt="Idea icon"
+        class="dfe-icon"
+      />
+    </div>
+    <div class="feedback-section__content">
+      <h3 class="govuk-heading-m">Share your ideas</h3>
       <p class="govuk-body">
-        <a href="#" class="govuk-link">Complete our feedback form</a>
+        You can help other school leaders by sharing what has worked in your
+        school.
+      </p>
+      <p class="govuk-body">
+        <a href="#" class="govuk-link govuk-link--no-visited-state">
+          Share your ideas
+        </a>
       </p>
     </div>
   </div>
-  <div class="govuk-grid-column-one-third">
-    <div class="dfe-icon-container">
-      <img src="<%= @base_url %>/assets/images/idea.svg" alt="Idea icon" class="dfe-icon">
-      <h2 class="govuk-heading-m">Share your ideas with us</h2>
-      <p class="govuk-body">We'd love to know what you are doing or have done to help with workload and wellbeing in
-        your school.</p>
-      <p class="govuk-body">
-        <a href="#" class="govuk-link">Share your ideas with us</a>
-      </p>
+  <div class="feedback-section">
+    <div class="feedback-section__icon">
+      <img
+        src="<%= @base_url %>/assets/images/chat.svg"
+        alt="Chat icon"
+        class="dfe-icon"
+      />
     </div>
-  </div>
-  <div class="govuk-grid-column-one-third">
-    <div class="dfe-icon-container">
-      <div class="dfe-icon-container-header">
-        <img src="<%= @base_url %>/assets/images/mail.svg" alt="Mail icon" class="dfe-icon">
-      </div>
-      <h2 class="govuk-heading-m">Contact us for support</h2>
-      <p class="govuk-body">Contact us via this email: support@education.gov.uk, if you need further support.</p>
+    <div class="feedback-section__content">
+      <h3 class="govuk-heading-m">Help improve our service</h3>
       <p class="govuk-body">
-        <a href="mailto:support@education.gov.uk" class="govuk-link">Contact us for support</a>
+        Your feedback will help us improve our service on workload and wellbeing
+        for all school staff.
+      </p>
+      <p class="govuk-body">
+        <a
+          href="https://forms.office.com/e/sEhZxVyw29"
+          class="govuk-link govuk-link--no-visited-state"
+        >
+          Complete our feedback form
+        </a>
       </p>
     </div>
   </div>

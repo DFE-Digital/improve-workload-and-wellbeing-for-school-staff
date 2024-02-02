@@ -29,8 +29,7 @@ compile '/**/*.md' do
   next if item.identifier.without_ext =~ %r{^/assets/css/}
 
   filter :govuk_markdown
-  # layout '/default.*'
-  layout '/markdown_layout.*'
+  layout item.fetch(:layout, '/markdown_layout.*')
 
   if item.identifier =~ '**/index.*'
     write item.identifier.to_s
