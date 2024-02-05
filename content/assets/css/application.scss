@@ -336,3 +336,40 @@ main {
     padding-left: govuk-spacing(6);
   }
 }
+
+.share-resource-container {
+  display: flex;
+}
+
+.share-resource {
+  display: flex;
+  margin-right: govuk-spacing(7);
+  align-items: center;
+  line-height: 0;
+}
+
+.share-resource__icon {
+  margin-right: govuk-spacing(4);
+  img {
+    width: 43px;
+  }
+}
+
+// Style a button like a govuk-link
+.button-link {
+  @include govuk-link-style-default;
+  @include govuk-link-print-friendly;
+  background: none;
+  margin: 0;
+  padding: 0;
+  border: none;
+  color: $govuk-link-colour;
+  box-shadow: none;
+  text-decoration: underline;
+  font-size: 1rem;
+
+  &:hover {
+    cursor: pointer;
+    text-decoration-thickness: 3px;
+  }
+}

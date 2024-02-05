@@ -3,6 +3,19 @@
     <div class="govuk-grid-row govuk-width-container dfe-width-container markdown-page two-column-page">
       <div class="govuk-grid-column-two-thirds">
         <%= yield %>
+        <h2 class="govuk-heading-m">Share this resource</h2>
+        <div class="share-resource-container">
+          <div class="share-resource">
+            <img src="<%= @base_url %>/assets/images/link-purple.svg" alt="Link icon" class="share-resource__icon"/>
+            <button onclick="window.navigator.clipboard.writeText(window.location.href);" class="button-link">
+              Copy link
+            </button>
+          </div>
+          <div class="share-resource">
+            <img src="<%= @base_url %>/assets/images/mail-purple.svg" alt="Mail icon" class="share-resource__icon"/>
+            <a href="mailto:school.workloadandwellbeing@education.gov.uk?subject=Resource to help with workload and wellbeing for school staff&body=Check out <%= @item[:title] %> to help improve workload and wellbeing for staff in your school: <%= @base_url %><%= @item.path %>">Email</a>
+          </div>
+        </div>
       </div>  
       <div class="govuk-grid-column-one-third">
         <hr class="govuk-section-break--blue govuk-section-break--thick">
