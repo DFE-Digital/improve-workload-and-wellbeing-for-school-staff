@@ -298,6 +298,12 @@ main {
   background-color: #279b91;
 }
 
+.markdown-page {
+  .govuk-tag {
+    margin-bottom: govuk-spacing(4);
+  }
+}
+
 .govuk-footer__contact {
   .govuk-footer__contact-description {
     font-size: 1rem;
@@ -334,6 +340,12 @@ main {
 
   .govuk-grid-column-one-third {
     padding-left: govuk-spacing(6);
+  }
+}
+
+.markdown-page {
+  h1 {
+    margin-bottom: govuk-spacing(3);
   }
 }
 
