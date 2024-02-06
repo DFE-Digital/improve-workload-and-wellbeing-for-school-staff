@@ -57,12 +57,8 @@ written inline in HTML. The following code snippets are used in
       </p>
       <p>
         <ul>
-          <li>
-            first list item
-          </li>
-          <li>
-            second list item
-          </li>
+          <li>first list item</li>
+          <li>second list item</li>
         </ul>
       </p>
     </div>
@@ -85,17 +81,37 @@ is a staff wellbeing topic, open `content/explore-all-resources/staff-wellbeing.
 
 Add your new resource's URL to the correct render block:
 
-```erb
-  <%= render('/partials/explore_resource_card.*',
-    title: "Establish a wellbeing committee",
-    href: "#{@base_url}/staff-wellbeing/establish-a-wellbeing-committee", # <- ADD URL HERE
-    tag:  "Wellbeing",
-    details: {
-      resource_type: "Template",
-      reading_time: "4 minutes",
-      created_by: "Notre Dame High School"
-    }
-  )%>
+```ruby
+<%= render('/partials/explore_resource_card.*',
+  title: "Establishing a wellbeing committee",
+  href: "#{@base_url}/staff-wellbeing/establish-a-wellbeing-committee", # <- ADD URL HERE
+  tag:  "Wellbeing",
+  details: {
+    resource_type: "Template",
+    reading_time: "4 minutes",
+    created_by: "Notre Dame High School"
+  }
+)%>
+```
+
+## Add a link to your resource from the topic page
+
+You may need to add a link to your page from the corresponding topic page.
+
+e.g. if you are creating the 'Establish a wellbeing committee' resource it will
+be linked from the `content/staff-wellbeing.html.erb` topic page.
+
+```ruby
+<%= render('/partials/resource_card.*',
+  title: "Establishing a wellbeing committee",
+  href: "#{@base_url}/staff-wellbeing/establish-a-wellbeing-committee", # <- ADD URL HERE
+  body: "Learn how to set up a wellbeing committee.",
+  tag: "Example",
+  details: {
+    reading_time: "4 minutes",
+    created_by: "Notre Dame High School"
+  }
+)%>
 ```
 
 ## 5. Make a PR!
