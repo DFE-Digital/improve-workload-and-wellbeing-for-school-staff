@@ -259,6 +259,10 @@ main {
   hr {
     border-width: 4px;
   }
+
+  hr.section-break--thin {
+    border-width: 2px;
+  }
 }
 
 .content__section--grey {
@@ -302,6 +306,10 @@ main {
   .govuk-tag {
     margin-bottom: govuk-spacing(4);
   }
+}
+
+.govuk-footer {
+  margin-top: govuk-spacing(9);
 }
 
 .govuk-footer__contact {
