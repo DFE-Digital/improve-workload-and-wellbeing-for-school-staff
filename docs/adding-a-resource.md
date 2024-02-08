@@ -13,7 +13,7 @@ Useful links:
   added. If you make the same changes as in this pull request, you will also
   add a new resource!
 
-## 1. Create your resource file
+## 1. Create your resource file 👩‍💻
 
 Create a new Markdown `.md` file in the correct folder within `content`.
 
@@ -24,12 +24,12 @@ e.g. if you create a file `establish-a-wellbeing-committee.md` in the
 
 improve-workload-and-wellbeing-for-school-staff.education.gov.uk/**staff-wellbeing/establish-a-wellbeing-committee**
 
-## 2. Add your resource Markdown
+## 2. Add your resource Markdown ✍️
 
 Using the code in `example-resource.md` as a guide, copy the Markdown for your
 resource into your new file.
 
-## 3. Add your resource HTML
+## 3. Add your resource HTML 🎨
 
 Due to their complexity, some elements of your Markdown page will need to be
 written in HTML. The following code snippets are used in
@@ -74,7 +74,7 @@ written in HTML. The following code snippets are used in
 **TODO:** How do you pick a different colour for the info box? Dependent on
 Staff Wellbeing PR.
 
-## 4. Add a link to your resource from the 'Explore all resources' page
+## 4. Add a link to your resource from the 'Explore all resources' page 🔗
 
 Identify the correct topic for your resource and update the link in the
 corresponding explore-all-resources file.
@@ -97,7 +97,7 @@ Add your new resource's URL to the correct render block:
 )%>
 ```
 
-## Add a link to your resource from the topic page
+## Add a link to your resource from the topic page 🔗
 
 You may need to add a link to your page from the corresponding topic page.
 
@@ -117,6 +117,27 @@ be linked from the `content/staff-wellbeing.html.erb` topic page.
 )%>
 ```
 
-## 5. Make a PR!
+## 5. Make a pull request 🔨
 
-See general guidance on creating a PR here in [these docs](docs/creating-a-pull-request.md).
+See general guidance on creating a pull request here in [these docs](docs/creating-a-pull-request.md).
+
+## 6. Get your pull request reviewed 🧐
+
+You should get at least one developer and one policy-person to review your pull
+request before you merge it and it goes live.
+
+When you make a pull request, you should see a comment appear on GitHub like this:
+
+![netlify preview](<Screenshot 2024-02-08 at 13.50.35.png>)
+
+If you click on the link next to 'Deploy Preview' this will take
+you to a preview version of the site with your changes.
+
+You and your reviewers can use this deploy preview to check your
+changes.
+
+## 7. Merge your pull request! 🚀
+
+Once your pull request has been reviewed and approved in GitHub you
+can click 'Merge pull request'. This will deploy your changes to
+production!
