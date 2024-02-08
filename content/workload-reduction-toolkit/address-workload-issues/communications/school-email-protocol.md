@@ -35,7 +35,7 @@ layout: /markdown_resource.html.erb
       <p>
         As a result of this school email protocol the: 
       </p>
-            <p>
+      <p>
         <ul>
           <li>volume of emails we send has reduced</li>
           <li>use of centralised bulletins has gathered important general communications into one place</li>
@@ -50,6 +50,7 @@ layout: /markdown_resource.html.erb
 {inset-text}
 
 We developed an email protocol by reviewing the range of information sent by email across the school. It became apparent to us that a significant number of emails were sent unnecessarily to all staff, and emails were being used for matters that could be resolved more easily in other ways. 
+
 {/inset-text}
 
 ##Why we created the email protocol  
