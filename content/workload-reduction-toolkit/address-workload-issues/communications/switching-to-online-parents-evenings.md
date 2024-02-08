@@ -32,21 +32,21 @@ layout: /markdown_resource.html.erb
       <h2 class="govuk-heading-m">
         Impact and outcomes
       </h2>
-      <p class="govuk-body">
+      <p>
        There were far more benefits to the online system than drawbacks. It led
        to higher attendance from parents and the majority of stakeholders when questioned were keen to keep it post-pandemic.
       </p>
-      <p class="govuk-body">
+      <p>
          The following two quotes are from classroom teachers.
       </p>
-      <p class="govuk-body">
+      <p>
          “I feel very strongly that it is much less stressful for all parties.
          It ensures all staff/parents stick to time meaning all those with an
          appointment do get a fair equal opportunity to talk. So much time is
          saved by not moving around so that 5 minutes is usually more than
          sufficient time for productive discussion.”  
       </p>
-      <p class="govuk-body">
+      <p>
          “This really helped with the timings and engagement of parents, and it
          gives more flexibility as a parent of young children myself.”
       </p>
