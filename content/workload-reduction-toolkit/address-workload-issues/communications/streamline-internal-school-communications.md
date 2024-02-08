@@ -33,19 +33,23 @@ layout: /markdown_resource.html.erb
         Impact and outcomes
       </h2>
       <p>
-        The total number of minutes spent on communication in school was collated both pre and post intervention. There was an 18% reduction in the number of minutes spent per week.</p>
- 
-<p>Staff surveys at the beginning and end of the project showed that staff perceptions of communications had improved in four out of five areas: 
+        The total number of minutes spent on communication in school was collated both pre and post intervention. There was an 18% reduction in the number of minutes spent per week.
+      </p>
+      <p>
+        Staff surveys at the beginning and end of the project showed that staff perceptions of communications had improved in four out of five areas:
+      </p>
+      <ul>
+        <li>efficiency</li>
+        
+        <li>less time wasted</li>
+      
+        <li>being kept informed</li>
+      
+        <li>sufficient notice of changes</li>
+      </ul>
 
-<ul><li>efficiency </li>
-
-<li>less time wasted</li>
-
-<li>being kept informed</li>
-
-<li>sufficient notice of changes.</li></ul></p>
-
-<p>There was no change in teacher perception on responding to emails outside of work.
+      <p>
+        There was no change in teacher perception on responding to emails outside of work.
       </p>
     </div>
   </div>
