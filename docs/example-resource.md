@@ -5,7 +5,7 @@ layout: /markdown_resource.html.erb
 
 # INSERT-TITLE
 
-<strong class="govuk-tag">INSERT-RESOURCE-NAME</strong>
+<strong class="govuk-tag">INSERT-RESOURCE-TYPE</strong>
 
 {inset-text}
 

@@ -1,4 +1,4 @@
-# Improve school workload and wellbeing
+# Improve workload and wellbeing for school staff
 
 This application is built using Nanoc, a powerful static site generator that
 offers flexibility and a rich set of features for building static websites. Our

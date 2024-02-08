@@ -8,7 +8,10 @@ Useful links:
 
 - [Example resource file](docs/example-resource.md)
 
-- [Example PR](https://github.com/DFE-Digital/improve-school-workload-and-wellbeing/pull/39)
+- [Example pull request](https://github.com/DFE-Digital/improve-school-workload-and-wellbeing/pull/39) -
+  this is an example pull request on Github, where a single resource has been
+  added. If you make the same changes as in this pull request, you will also
+  add a new resource!
 
 ## 1. Create your resource file
 
@@ -29,7 +32,7 @@ resource into your new file.
 ## 3. Add your resource HTML
 
 Due to their complexity, some elements of your Markdown page will need to be
-written inline in HTML. The following code snippets are used in
+written in HTML. The following code snippets are used in
 `example-resource.md`:
 
 ### Resource tag
@@ -83,7 +86,7 @@ Add your new resource's URL to the correct render block:
 
 ```ruby
 <%= render('/partials/explore_resource_card.*',
-  title: "Establishing a wellbeing committee",
+  title: "Establish a wellbeing committee",
   href: "#{@base_url}/staff-wellbeing/establish-a-wellbeing-committee", # <- ADD URL HERE
   tag:  "Wellbeing",
   details: {
@@ -103,7 +106,7 @@ be linked from the `content/staff-wellbeing.html.erb` topic page.
 
 ```ruby
 <%= render('/partials/resource_card.*',
-  title: "Establishing a wellbeing committee",
+  title: "Establish a wellbeing committee",
   href: "#{@base_url}/staff-wellbeing/establish-a-wellbeing-committee", # <- ADD URL HERE
   body: "Learn how to set up a wellbeing committee.",
   tag: "Example",
