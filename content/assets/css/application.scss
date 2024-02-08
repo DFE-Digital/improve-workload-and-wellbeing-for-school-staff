@@ -21,6 +21,7 @@
 
 // Remove margin from the last element
 @mixin remove-last-child-margin {
+
   p:last-child,
   ul:last-child,
   ol:last-child {
@@ -38,19 +39,15 @@
   background: $colour;
 }
 
-@mixin left-bordered-block(
-  $border-colour,
-  $background-colour: govuk-colour("white")
-) {
+@mixin left-bordered-block($border-colour,
+  $background-colour: govuk-colour("white")) {
   @include block;
   border-left: 10px solid $border-colour;
   background: $background-colour;
 }
 
-@mixin emphatic-block(
-  $background-colour,
-  $foreground-colour: govuk-colour("white")
-) {
+@mixin emphatic-block($background-colour,
+  $foreground-colour: govuk-colour("white")) {
   @include coloured-block($background-colour);
   padding: 2em 0;
   text-align: center;
@@ -157,6 +154,26 @@
   width: 100%;
   height: auto;
   display: block;
+}
+
+.dfe-body-wrapped-text {
+  max-width: 30em;
+}
+
+.dfe-card-header .govuk-link,
+.dfe-card-header .govuk-link:hover,
+.dfe-card-header .govuk-link:focus,
+.dfe-card-header .govuk-link:visited {
+  color: white;
+  text-decoration: none;
+}
+
+.border-top-blue {
+  border-top: 8px solid govuk-colour("blue");
+}
+
+.bg-blue {
+  background: govuk-colour("blue");
 }
 
 .govuk-button {
