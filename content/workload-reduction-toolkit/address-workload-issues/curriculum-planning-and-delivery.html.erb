@@ -1,0 +1,76 @@
+---
+title: Curriculum planning and delivery
+---
+
+<div class="govuk-main-wrapper">
+  <div class="dfe-width-container govuk-grid-row two-column-page">
+    <div class="govuk-grid-column-two-thirds">
+      <div class="dfe-width-container govuk-grid-row">
+        <h1 class="govuk-heading-l">Curriculum planning and delivery</h1>
+        <div class="dfe-width-container govuk-grid-row">
+          <p>
+            These resources are designed to help you address workload issues
+            with curriculum planning and delivery in your school.
+          </p>
+        </div>
+      </div>
+    </div>
+
+    <div class="govuk-grid-column-two-thirds">
+      <hr class="govuk-section-break--thick">
+
+      <div class="govuk-grid-row dfe-width-container">
+        <%= render("/partials/topic_section_info_box.*")%>
+      </div>
+
+      <div class="dfe-width-container govuk-grid-row">
+        <h2 class="govuk-heading-m">
+          Resources to help curriculum planning and delivery workload
+        </h2>
+      </div>
+
+      <div class="dfe-width-container govuk-grid-row">
+        <ul class="resource-card-group">
+          <%= render('/partials/resource_card.*',
+            title: "Review and streamline lesson planning",
+            href: "#",
+            body: "TBC",
+            tag: "Presentation")%>
+
+          <%= render('/partials/resource_card.*',
+            title: "Use time effectively and work together when planning your curriculum",
+            href: "#",
+            body: "TBC",
+            tag: "Case study",
+            details: { reading_time: "TBC", created_by: "West Meon Church of England Voluntary Controlled Primary School" } )%>
+
+          <%= render('/partials/resource_card.*',
+            title: "Try ideas to manage planning and curriculum workload",
+            href: "#",
+            body: "TBC",
+            tag: "Case study",
+            details: { reading_time: "TBC", created_by: "King Charles I School" } )%>
+
+          <%= render('/partials/resource_card.*',
+            title: "Change lesson observations to class visits",
+            href: "#",
+            body: "TBC",
+            tag: "Example",
+            details: { reading_time: "TBC", created_by: "Harehills Primary School" } )%>
+
+          <%= render('/partials/resource_card.*',
+            title: "Develop a culture of support and staff development",
+            href: "#",
+            body: "TBC",
+            tag: "Case study",
+            details: { reading_time: "TBC", created_by: "Kensington Primary School" } )%>
+        </ul>
+      </div>
+    </div>
+    <div class="govuk-grid-column-one-third">
+      <hr class="govuk-section-break--blue govuk-section-break--thick">
+
+      <%= render '/partials/feedback.*' %>
+    </div>
+  </div>
+</div>
