@@ -103,6 +103,16 @@
   /* Keep the height proportional to the width */
 }
 
+.dfe-icon-container--left {
+  float: left;
+}
+
+.dfe-icon-container--left .dfe-icon {
+  width: 75px;
+  height: auto;
+}
+
+
 .dfe-content-page--header {
   background-color: #347ca9;
   color: white;
@@ -179,6 +189,23 @@
 .govuk-button {
   background-color: #003a69;
   color: #ffffff;
+  padding: 12px 15px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.govuk-button:hover {
+  background-color: #1D70B8;
+}
+
+.govuk-button:active {
+  background-color: #1D70B8;
+  border: 2px solid #FFDD00;
+}
+
+.govuk-button:focus {
+  // outline: 4px solid #FFDD00;
+  outline-offset: 2px;
 }
 
 .govuk-list.govuk-list--bullet li {
@@ -387,6 +414,7 @@ main {
 
 .share-resource__icon {
   margin-right: govuk-spacing(4);
+
   img {
     width: 43px;
   }
