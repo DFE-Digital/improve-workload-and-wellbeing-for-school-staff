@@ -11,7 +11,7 @@ layout: /markdown_resource.html.erb
 
 ## School details
 
-**School name:** St Edward's RC/CoE school
+**School name:** St Edward’s RC/CoE school
 
 **Location:** Dorset
 
