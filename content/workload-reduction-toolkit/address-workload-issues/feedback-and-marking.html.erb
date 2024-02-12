@@ -1,97 +1,61 @@
 ---
 title: Feedback and marking
+layout: /workload_topic_section.html.erb
 ---
 
-<div class="govuk-main-wrapper">
-  <div class="dfe-width-container govuk-grid-row two-column-page">
-    <div class="govuk-grid-column-two-thirds">
-      <div class="dfe-width-container govuk-grid-row">
-        <h1 class="govuk-heading-l">Feedback and marking</h1>
-        <div class="dfe-width-container govuk-grid-row">
-          <p>
-            These resources are designed to help you address workload issues
-            with feedback and marking in your school.
-          </p>
-        </div>
-      </div>
-    </div>
+<ul class="resource-card-group">
+  <%= render('/partials/resource_card.*',
+    title: "Review and streamline feedback and marking",
+    href: "#",
+    body: "TBC",
+    tag: "Presentation")%>
 
-    <div class="govuk-grid-column-two-thirds">
-      <hr class="govuk-section-break--thick">
+  <%= render('/partials/resource_card.*',
+    title: "Review marking practice with an impact matrix",
+    href: "#",
+    body: "TBC",
+    tag: "Example",
+    details: { reading_time: "TBC", created_by: "The City of Norwich School" } )%>
 
-      <div class="govuk-grid-row dfe-width-container">
-        <%= render("/partials/topic_section_info_box.*")%>
-      </div>
+  <%= render('/partials/resource_card.*',
+    title: "Improve how you give feedback to primary pupils",
+    href: "#",
+    body: "TBC",
+    tag: "Example",
+    details: { reading_time: "TBC", created_by: "Kensington Primary School" } )%>
 
-      <div class="dfe-width-container govuk-grid-row">
-        <h2 class="govuk-heading-m">
-          Resources to help feedback and marking workload
-        </h2>
-      </div>
+  <%= render('/partials/resource_card.*',
+    title: "Give feedback and avoid marking in primary schools",
+    href: "#",
+    body: "TBC",
+    tag: "Example",
+    details: { reading_time: "TBC", created_by: "Godmanchester Community Academy" } )%>
 
-      <div class="dfe-width-container govuk-grid-row">
-        <ul class="resource-card-group">
-          <%= render('/partials/resource_card.*',
-            title: "Review and streamline feedback and marking",
-            href: "#",
-            body: "TBC",
-            tag: "Presentation")%>
+  <%= render('/partials/resource_card.*',
+    title: "Secondary school feedback policy",
+    href: "#",
+    body: "TBC",
+    tag: "Example",
+    details: { reading_time: "TBC", created_by: "St Joseph’s RC High School" } )%>
 
-          <%= render('/partials/resource_card.*',
-            title: "Review marking practice with an impact matrix",
-            href: "#",
-            body: "TBC",
-            tag: "Example",
-            details: { reading_time: "TBC", created_by: "The City of Norwich School" } )%>
+  <%= render('/partials/resource_card.*',
+    title: "Give feedback effectively without creating an unmanageable workload",
+    href: "#",
+    body: "TBC",
+    tag: "Example",
+    details: { reading_time: "TBC", created_by: "Outwood Grange Academies Trust" } )%>
 
-          <%= render('/partials/resource_card.*',
-            title: "Improve how you give feedback to primary pupils",
-            href: "#",
-            body: "TBC",
-            tag: "Example",
-            details: { reading_time: "TBC", created_by: "Kensington Primary School" } )%>
+  <%= render('/partials/resource_card.*',
+    title: "Try ideas to manage feedback and marking workload",
+    href: "#",
+    body: "TBC",
+    tag: "Case study",
+    details: { reading_time: "TBC", created_by: "King Charles I school" } )%>
 
-          <%= render('/partials/resource_card.*',
-            title: "Give feedback and avoid marking in primary schools",
-            href: "#",
-            body: "TBC",
-            tag: "Example",
-            details: { reading_time: "TBC", created_by: "Godmanchester Community Academy" } )%>
-
-          <%= render('/partials/resource_card.*',
-            title: "Secondary school feedback policy",
-            href: "#",
-            body: "TBC",
-            tag: "Example",
-            details: { reading_time: "TBC", created_by: "St Joseph’s RC High School" } )%>
-
-          <%= render('/partials/resource_card.*',
-            title: "Give feedback effectively without creating an unmanageable workload",
-            href: "#",
-            body: "TBC",
-            tag: "Example",
-            details: { reading_time: "TBC", created_by: "Outwood Grange Academies Trust" } )%>
-
-          <%= render('/partials/resource_card.*',
-            title: "Try ideas to manage feedback and marking workload",
-            href: "#",
-            body: "TBC",
-            tag: "Case study",
-            details: { reading_time: "TBC", created_by: "King Charles I school" } )%>
-
-          <%= render('/partials/resource_card.*',
-            title: "Cut down your marking workload",
-            href: "#",
-            body: "TBC",
-            tag: "Case study",
-            details: { reading_time: "TBC", created_by: "Barr Beacon School" } )%>
-        </ul>
-      </div>
-    </div>
-    <div class="govuk-grid-column-one-third">
-      <hr class="govuk-section-break--blue govuk-section-break--thick">
-
-      <%= render '/partials/feedback.*' %>
-    </div>
-  </div>
-</div>
+  <%= render('/partials/resource_card.*',
+    title: "Cut down your marking workload",
+    href: "#",
+    body: "TBC",
+    tag: "Case study",
+    details: { reading_time: "TBC", created_by: "Barr Beacon School" } )%>
+</ul>

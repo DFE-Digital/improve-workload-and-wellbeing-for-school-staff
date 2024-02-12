@@ -1,48 +1,12 @@
 ---
 title: Data management
+layout: /workload_topic_section.html.erb
 ---
 
-<div class="govuk-main-wrapper">
-  <div class="dfe-width-container govuk-grid-row two-column-page">
-    <div class="govuk-grid-column-two-thirds">
-      <div class="dfe-width-container govuk-grid-row">
-        <h1 class="govuk-heading-l">Data management</h1>
-        <div class="dfe-width-container govuk-grid-row">
-          <p>
-            These resources are designed to help you address workload issues
-            with data management in your school.
-          </p>
-        </div>
-      </div>
-    </div>
-
-    <div class="govuk-grid-column-two-thirds">
-      <hr class="govuk-section-break--thick">
-
-      <div class="govuk-grid-row dfe-width-container">
-        <%= render("/partials/topic_section_info_box.*")%>
-      </div>
-
-      <div class="dfe-width-container govuk-grid-row">
-        <h2 class="govuk-heading-m">
-          Resources to help data management workload
-        </h2>
-      </div>
-
-      <div class="dfe-width-container govuk-grid-row">
-        <ul class="resource-card-group">
-          <%= render('/partials/resource_card.*',
-            title: "Review and streamline data management",
-            href: "#",
-            body: "TBC",
-            tag: "Presentation")%>
-        </ul>
-      </div>
-    </div>
-    <div class="govuk-grid-column-one-third">
-      <hr class="govuk-section-break--blue govuk-section-break--thick">
-
-      <%= render '/partials/feedback.*' %>
-    </div>
-  </div>
-</div>
+<ul class="resource-card-group">
+  <%= render('/partials/resource_card.*',
+    title: "Review and streamline data management",
+    href: "#",
+    body: "TBC",
+    tag: "Presentation")%>
+</ul>

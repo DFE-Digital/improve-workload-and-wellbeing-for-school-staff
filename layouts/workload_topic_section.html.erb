@@ -1,0 +1,63 @@
+<% wrapped_content=capture do %>
+  <div class="govuk-main-wrapper">
+    <div class="dfe-width-container govuk-grid-row two-column-page">
+      <div class="govuk-grid-column-two-thirds">
+        <div class="dfe-width-container govuk-grid-row">
+          <h1 class="govuk-heading-l"><%= @item[:title] %></h1>
+          <div class="dfe-width-container govuk-grid-row">
+            <p>
+              These resources are designed to help you address workload issues
+              with <%= @item[:title].downcase %> in your school.
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="govuk-grid-column-two-thirds">
+        <hr class="govuk-section-break--thick">
+
+        <div class="govuk-grid-row dfe-width-container">
+          <div class="info-box">
+            <div class="info-box__corner">
+              <img src="/assets/images/i-icon.svg" alt="info icon">
+            </div>
+            <h2 class="govuk-heading-m">
+              How to use this section
+            </h2>
+            <p>
+              You can use the resources as they are or adapt them to meet the
+              needs of your school.
+            </p>
+            <p>
+              The presentation is designed to enable safe discussion with your
+              staff in a staff meeting or INSET day. You can use it to identify
+              which issues with <%= @item[:title].downcase %> workload to
+              prioritise, update, streamline or stop completely.
+            </p>
+            <p>
+              You can also read case studies and see examples of how other schools
+              have reduced <%= @item[:title].downcase %> workload.
+            </p>
+          </div>
+        </div>
+
+        <div class="dfe-width-container govuk-grid-row">
+          <h2 class="govuk-heading-m">
+            Resources to help <%= @item[:title].downcase %> workload
+          </h2>
+        </div>
+
+        <div class="dfe-width-container govuk-grid-row">
+          <%= yield %>
+        </div>
+      </div>
+      <div class="govuk-grid-column-one-third">
+        <hr class="govuk-section-break--blue govuk-section-break--thick">
+
+        <%= render '/partials/feedback.*' %>
+      </div>
+    </div>
+  </div>
+<% end %>
+
+<%= render '/default.html' , content: wrapped_content %>
