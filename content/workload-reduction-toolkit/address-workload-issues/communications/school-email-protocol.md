@@ -53,25 +53,25 @@ We developed an email protocol by reviewing the range of information sent by ema
 
 {/inset-text}
 
-##Why we created the email protocol  
+## Why we created the email protocol  
 
 Email can be a useful form of communication, but high volumes to read or write can cause pressures for staff.  
 
 This protocol aims to alleviate the pressure of perceived expectations and contribute positively to work-life balance by making it clear when emails should, and should not, be sent. It aims to reduce the volume of emails sent and received within the school day, especially those sent to ‘All staff’.  
 
-##The school email protocol 
+## The school email protocol 
 
 Staff are not expected to check email after 6pm, or over the weekend. For those who want to prepare for the week ahead, a Sunday evening check should be enough. It is a good idea to draw a line under your working day, to maintain a distinction between work life and school life. 
 
 We also decided all emails must have a descriptive heading to make it clear what the email is about. These protocols will be kept under regular review.   
 
-##When emails do not have to be sent 
+## When emails do not have to be sent 
 
 For lost property, no emails need to be sent. The pupil should be sent to check in the lost property area in the pupil office. 
 
 Issues about pupils being sat together should also not be emailed but issued on a weekly bulletin from the staff briefing. 
 
-##How emails should be sent 
+## How emails should be sent 
 
 Issues relating to teaching and learning (deadlines for assessment, CPD meetings) should only be sent in the weekly teaching and learning bulletin, emailed out centrally. 
 
