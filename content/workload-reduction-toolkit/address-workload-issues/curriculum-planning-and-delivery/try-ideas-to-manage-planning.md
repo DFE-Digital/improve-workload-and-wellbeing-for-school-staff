@@ -51,7 +51,7 @@ layout: /markdown_resource.html.erb
   </div>
 </div>
 
-## Background from INSERT-CONTACT-NAME
+## Background from Ruth Allen, Deputy Headteacher
 
 {inset-text}
 
