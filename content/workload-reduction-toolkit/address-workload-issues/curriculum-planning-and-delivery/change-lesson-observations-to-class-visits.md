@@ -79,14 +79,6 @@ The school therefore revised their approach, moving from formal lesson observati
 This change is about supporting everyone’s well-being, decreasing everyone’s workload and helping everyone develop. 
 {/inset-text}
 
-## Background from Jo Summerfield, Headteacher 
-
-In consultation with the staff, we decided to review our lesson observation format. The process was often stressful for colleagues due to the build-up prior to the observation, including anxiety, excessive and detailed lesson planning and a ‘them and us’ culture. Fundamentally, the pressure to perform ‘the perfect lesson’ was identified as adding to workload with no benefit to the quality of education provided to the children. 
-
-The school therefore revised their approach, moving from formal lesson observations to an open-door policy where leaders regularly visit classrooms then share their feedback with the teacher later that day. Where possible, the leaders visit classes in pairs to ensure that there is peer on peer challenge around what has been seen.  
-
-This change is about supporting everyone’s well-being, decreasing everyone’s workload and helping everyone develop. 
-
 ## Create a culture of trust 
 
 There needs to be a culture of trust that goes both ways: 
