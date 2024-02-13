@@ -37,13 +37,13 @@ layout: /markdown_resource.html.erb
       </p>
       <ul>
         <li>
-        * ensuring every teacher has time to focus on what is important - planning, teaching and feedback
+        ensuring every teacher has time to focus on what is important - planning, teaching and feedback
         </li>
         <li>
-        * believing in simplicity, always taking the shortest route and aiming for maximum impact on student learning with minimal workload for staff 
+        believing in simplicity, always taking the shortest route and aiming for maximum impact on student learning with minimal workload for staff 
         </li>
         <li>
-        * continuously reviewing and evaluating our systems in order to support all staff to achieve a healthy work life balance
+        continuously reviewing and evaluating our systems in order to support all staff to achieve a healthy work life balance
         </li>
      </ul> 
       </p>
