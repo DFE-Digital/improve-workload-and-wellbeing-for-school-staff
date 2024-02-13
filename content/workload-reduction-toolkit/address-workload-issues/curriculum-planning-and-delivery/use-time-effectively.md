@@ -75,11 +75,10 @@ We review core subjects every year, and foundation subjects every 3 years.
 
 We give teachers a proforma or outline to refer to. It helps teachers:  
 
-develop their plans 
-
-engage with colleagues, senior leaders and governors about their plans 
-
-It also saves time and helps teachers develop confidence.  
+* develop their plans 
+* engage with colleagues, senior leaders and governors about their plans 
+* save time
+* develop confidence
 
 ### Build in subject leadership time 
 
