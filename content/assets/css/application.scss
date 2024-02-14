@@ -104,6 +104,10 @@
 
 .dfe-icon-container--left {
   float: left;
+  margin: 0 govuk-spacing(4);
+  @include govuk-media-query($from: tablet) {
+    margin-top: govuk-spacing(4);
+  }
 }
 
 .dfe-icon-container--left .dfe-icon {
