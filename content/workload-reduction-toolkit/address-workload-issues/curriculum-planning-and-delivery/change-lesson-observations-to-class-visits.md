@@ -37,31 +37,31 @@ layout: /markdown_resource.html.erb
       </p>
       <ul>
         <li>
-        reduced workload in terms of planning and preparation for leaders and teachers
+          reduced workload in terms of planning and preparation for leaders and teachers
         </li>
         <li>
-        a truer and more authentic reflection of what happens in classrooms 
+          a truer and more authentic reflection of what happens in classrooms 
         </li>
         <li>
-        less stress for teachers with focused feedback 
+          less stress for teachers with focused feedback 
         </li>
         <li>
-        the process being valued by teachers and a perception it’s not ‘being done’ to them
+          the process being valued by teachers and a perception it’s not ‘being done’ to them
         </li>
         <li>
-        development of a genuine 'open door' culture 
+          development of a genuine 'open door' culture 
         </li>
         <li>
-        an effective improvement in quality of education 
+          an effective improvement in quality of education 
         </li>
         <li>
-        notes from lesson visits feeding into teacher’s appraisals alongside other evidence 
+          notes from lesson visits feeding into teacher’s appraisals alongside other evidence 
         </li>
         <li>
-        opportunities for leaders to learn from each other  
+          opportunities for leaders to learn from each other  
         </li>
         <li>
-        better support for professional development
+          better support for professional development
         </li>
       </ul>      
     </div>
