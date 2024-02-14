@@ -82,6 +82,6 @@ There is no pointless requesting or completing of lesson plans. In fact, there i
 
 There is no requirement to run lunch time or after school revision sessions. Instead, we focus on what is going on in lessons.  
 
-We creatively timetable with workload in mind. Teachers generally don't have classes from all year groups, to reduce planning time and attendance at parents’ evenings.
+We creatively timetable with workload in mind. Teachers generally don’t have classes from all year groups, to reduce planning time and attendance at parents’ evenings.
 
 We do not do walks to check that everyone is meeting the identified standards. 
