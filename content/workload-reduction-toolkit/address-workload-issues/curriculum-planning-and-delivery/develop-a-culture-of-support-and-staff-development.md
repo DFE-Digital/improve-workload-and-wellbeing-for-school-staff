@@ -101,7 +101,7 @@ Alongside assessment data, we measure our impact against our stated aims in a va
 
 ### Share best practice and awards  
 
-We have a variety of awards and accreditations, all of which provide opportunities for reflection and analysis. We've also been helped by schools who visit us to find out how we do things, providing us with feedback to reflect and move forward.
+We have a variety of awards and accreditations, all of which provide opportunities for reflection and analysis. We’ve also been helped by schools who visit us to find out how we do things, providing us with feedback to reflect and move forward.
 
 ### Provide coaching for all staff  
 
