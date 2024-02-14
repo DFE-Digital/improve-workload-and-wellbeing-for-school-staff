@@ -43,7 +43,7 @@ layout: /markdown_resource.html.erb
   </div>
 </div>
 
-## Background from headteacher Julie Kelly 
+## Background from Julie Kelly, Headteacher 
 
 {inset-text}
 Being a small school means that we have to strategically plan how to manage all the various roles every school has to undertake.  
