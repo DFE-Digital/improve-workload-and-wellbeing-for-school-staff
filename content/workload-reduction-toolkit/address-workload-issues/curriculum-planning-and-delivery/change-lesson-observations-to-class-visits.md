@@ -49,7 +49,7 @@ layout: /markdown_resource.html.erb
           the process being valued by teachers and a perception it’s not ‘being done’ to them
         </li>
         <li>
-          development of a genuine 'open door' culture 
+          development of a genuine ‘open door’ culture 
         </li>
         <li>
           an effective improvement in quality of education 
