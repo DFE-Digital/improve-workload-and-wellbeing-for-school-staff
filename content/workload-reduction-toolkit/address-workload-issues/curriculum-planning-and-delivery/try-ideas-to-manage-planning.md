@@ -64,24 +64,24 @@ Collaborative planning enables teachers to discuss and share best practice rathe
 
 Staff within departments, where possible, have preparation, planning and assessment time (PPA) together to allow for collaborative planning. 
 
-Departmental resources are shared centrally to stop individuals having to reinvent the wheel with new plans. 
+Departmental resources are shared centrally to stop individuals having to create new plans from scratch.
 
-We provided better quality schemes of work that specify the sequence of key knowledge, deliberate practice to develop skills, a clear progression model, alongside homework tasks and resources to be used in lessons. This means there is no more endless searching for online resources for single activities, homework tasks and lesson ideas. 
+We provided better quality schemes of work that specify the sequence of key knowledge, deliberate practice to develop skills, and a clear progression model. Homework tasks and resources are also provided to be used in lessons. This has reduced the workload caused by searching for online resources for single activities, homework tasks and lesson ideas.
 
-All teachers follow research driven teaching models that focus on activities that have a significant impact on progress. No more time spent creating time wasting teaching resources such as card sorts and slideshows.   
+All teachers follow research-driven teaching models that focus on activities that have a significant impact on progress. In our school, we do not waste time creating teaching resources such as card sorts and slideshows.
 
 We focus on the use of textbooks and ready-made quality assured resources to help reduce planning time and support better teaching. 
 
 No ‘all, most, some’ learning objectives or creation of different worksheets for different abilities. There is no need for any differentiation by task. 
 
-The PPA allocation for teachers is more than the requirements set out in the School Teachers’ Pay and Conditions Document and amounts to 12% of a teacher’s timetabled teaching hours. 
+The PPA allocation for teachers is more than the requirements set out in the School Teachers’ Pay and Conditions Document. This amounts to 12% of a teacher’s timetabled teaching hours.
 
-There is no pressure to 'put on a show' in lessons: observations are not graded to help reinforce this. The number of lesson observations per year has been reduced.  
+There is no pressure to perform in lessons and observations are not graded to help reinforce this. The number of lesson observations per year has been reduced.  
 
 There is no pointless requesting or completing of lesson plans. In fact, there is no need to write lesson plans of any kind.  
 
 There is no requirement to run lunch time or after school revision sessions. Instead, we focus on what is going on in lessons.  
 
-We creatively timetable with workload in mind. We aim for teachers to have not have classes from all year groups to reduce planning time and attendance at parents’ evenings.  
+We creatively timetable with workload in mind. Teachers generally don't have classes from all year groups, to reduce planning time and attendance at parents’ evenings.
 
 We do not do walks to check that everyone is meeting the identified standards. 
