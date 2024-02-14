@@ -91,7 +91,7 @@ There needs to be a culture of trust that goes both ways:
 
 ## Change formal observations to lesson visits 
 
-Lesson observations have been replaced by informal lesson visits and this has created a permanent 'open door' culture.  
+Lesson observations have been replaced by informal lesson visits and this has created a permanent ’open door’ culture.  
 
 ### Be clear on why and when class visits happen 
 
