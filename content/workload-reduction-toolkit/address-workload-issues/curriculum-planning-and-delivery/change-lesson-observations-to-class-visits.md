@@ -126,9 +126,13 @@ Leaders make a few notes if they want to, linked to the chosen teacher standard.
 Leaders give teachers feedback as soon as they can – this might be straight after the lesson visit or that afternoon. The idea is that the faster the feedback, the sooner the teacher can act upon it. 
 
 The feedback is short and informal and leaders are expected to: 
+
 * thank the teacher
+
 * say something they liked
+
 * suggest something to work on
+
 * suggest an area of professional development for them to look into
 
 As a staff we have agreed to do this by a quick email with a feedback document attached. 
