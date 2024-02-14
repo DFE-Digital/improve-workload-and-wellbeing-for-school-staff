@@ -1,5 +1,7 @@
 .feedback-section-container {
-  display: flex;
+  @include govuk-media-query($from: tablet) {
+    display: flex;
+  }
 }
 
 .govuk-grid-column-one-third {
@@ -23,7 +25,10 @@
 .feedback-section {
   width: 100%;
   display: flex;
-  margin: 0 govuk-spacing(6);
+  margin-top: govuk-spacing(4);
+  @include govuk-media-query($from: tablet) {
+    margin: 0 govuk-spacing(6);
+  }
 }
 
 .feedback-section__icon {
