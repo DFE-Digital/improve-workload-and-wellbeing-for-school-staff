@@ -113,7 +113,7 @@ Leaders divide up into pairs to walk around the school for about thirty minutes.
 
 Feedback is given to teachers the same day. The pairs change over the year so leaders can learn from each other as well as seeing different teachers each time. Not all classes might be seen every time, but the aim is for all classes to be seen during a lesson visit fortnight. Sometimes there will be an EYFS, KS1 or KS2 focus. 
 
-All classrooms have an 'open door' policy. Teachers and children are used to leaders popping in and out regularly, so it doesn’t feel like a big deal when they come in. 
+All classrooms have an ’open door’ policy. Teachers and children are used to leaders popping in and out regularly, so it doesn’t feel like a big deal when they come in. 
 
 ### What happens in a class visit 
 
