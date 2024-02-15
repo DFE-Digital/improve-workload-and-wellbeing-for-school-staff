@@ -1,6 +1,6 @@
 <% wrapped_content=capture do %>
   <div class="govuk-main-wrapper">
-    <div class="govuk-grid-row govuk-width-container dfe-width-container markdown-page two-column-page">
+    <div class="govuk-grid-row govuk-width-container dfe-width-container markdown-page <%= @item[:colour] ? 'content-section--' + @item[:colour] : nil %> two-column-page">
       <div class="govuk-grid-column-two-thirds">
         <%= yield %>
         <h2 class="govuk-heading-m">Share this resource</h2>
