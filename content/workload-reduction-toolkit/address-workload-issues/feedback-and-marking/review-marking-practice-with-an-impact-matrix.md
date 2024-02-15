@@ -50,6 +50,44 @@ We developed a simple department activity to help prioritise and streamline mark
 
 {/inset-text}
 
+      <div class="dfe-width-container govuk-grid-row">
+        <ul class="resource-card-group govuk-!-margin-top-8 govuk-!-margin-bottom-0">
+
+          <div class="govuk-grid-row dfe-width-container">
+            <div class="govuk-grid-column-full">
+              <div class="info-box govuk-!-margin-top-0 govuk-!-margin-bottom-0">
+                <div class="info-box__corner">
+                  <img src="/assets/images/download-icon.svg" alt="Download icon">
+                </div>
+                <h2 class="govuk-heading-m">
+                  Download the impact matrix
+                </h2>
+                <div class="govuk-grid-row" style="align-items: center;">
+                  <div class="govuk-grid-column-one-half">
+                    <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image"
+                      class="dfe-file-preview-image">
+                  </div>
+                  <div class="govuk-grid-column-one-half">
+                    <div class="info-box__content">
+                      <p class="govuk-body-s govuk-!-margin-bottom-6">
+                        <strong>Resource type:</strong> Template
+                      </p>
+                      <p class="govuk-body-s govuk-!-margin-bottom-6">
+                        <strong>File type:</strong> Document, 6KB, 1 page
+                      </p>
+                      <a class="govuk-link govuk-link--no-visited-state govuk-!-font-weight-bold"
+                        href="<%= @base_url %>/assets/files/Impact matrix.odt">
+                        Download
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </ul>
+      </div>
+
 ## Using the impact matrix to review marking 
 
 The impact matrix can be downloaded and used to review your own practice or approach to marking. It can be adapted as necessary for other tasks such as planning, communications or data management. You can read more about The City of Norwich School’s approach to tackling workload in their [blog](https://teaching.blog.gov.uk/2018/01/19/using-curriculum-area-development-time-to-reduce-teacher-workload/). 
