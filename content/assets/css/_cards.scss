@@ -28,6 +28,7 @@ $card-text-hover-color: govuk-colour("purple");
 
 .explore-resource-card__row-title {
   min-width: 30%;
+  margin-right: govuk-spacing(4);
 
   p {
     font-weight: bold;
