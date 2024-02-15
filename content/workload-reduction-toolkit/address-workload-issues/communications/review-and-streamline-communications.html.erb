@@ -1,0 +1,154 @@
+---
+title: Review and streamline how we communicate
+---
+
+<div class="govuk-main-wrapper">
+  <div class="dfe-width-container govuk-grid-row two-column-page">
+    <div class="govuk-grid-column-two-thirds">
+      <div class="dfe-width-container govuk-grid-row">
+        <h1 class="govuk-heading-l govuk-!-margin-bottom-3">Review and streamline how we communicate</h1>
+        <div class="dfe-width-container govuk-grid-row govuk-!-margin-bottom-7">
+          <strong class="govuk-tag">Presentation</strong>
+        </div>
+        <div class="dfe-width-container govuk-grid-row">
+          <p>
+            Use this presentation in a staff meeting or INSET day to review and streamline your internal and external
+            communication processes.
+          </p>
+          <p>
+            The presentation includes:
+          <ul>
+            <li>background and context about managing communications</li>
+            <li>a discussion to reflect on why we communicate and whether the processes should be updated, streamlined
+              or stopped altogether</li>
+            <li>a reflection on why we communicate</li>
+            <li>a discussion on whether current communication processes should be updated, streamlined or stopped altogether</li>
+          </ul>
+          </p>
+        </div>
+      </div>
+
+      <div class="dfe-width-container govuk-grid-row">
+        <ul class="resource-card-group govuk-!-margin-top-8 govuk-!-margin-bottom-0">
+
+          <div class="govuk-grid-row dfe-width-container">
+            <div class="govuk-grid-column-full">
+              <div class="info-box govuk-!-margin-top-0 govuk-!-margin-bottom-0">
+                <div class="info-box__corner">
+                  <img src="/assets/images/download-icon.svg" alt="Bullseye icon">
+                </div>
+                <h2 class="govuk-heading-m">
+                  Download the presentation
+                </h2>
+                <div class="govuk-grid-row" style="align-items: center;">
+                  <div class="govuk-grid-column-one-half">
+                    <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image"
+                      class="dfe-file-preview-image">
+                  </div>
+                  <div class="govuk-grid-column-one-half">
+                    <div class="info-box__content">
+                      <p class="govuk-body-s govuk-!-margin-bottom-6">
+                        <strong>Presentation length:</strong> 1 hour
+                      </p>
+                      <p class="govuk-body-s govuk-!-margin-bottom-6">
+                        <strong>Resource type:</strong> Presentation
+                      </p>
+                      <p class="govuk-body-s govuk-!-margin-bottom-6">
+                        <strong>File type:</strong> OpenDocument Presentation, 198KB, 6 pages
+                      </p>
+                      <a class="govuk-link govuk-link--no-visited-state govuk-!-font-weight-bold"
+                        href="<%= @base_url %>/assets/files/Review and streamline communications.odp">
+                        Download
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </ul>
+      </div>
+
+      <div class="dfe-width-container govuk-grid-row">
+        <h2 class="govuk-heading-m govuk-!-margin-top-7 govuk-!-margin-bottom-7">
+          Audience
+        </h2>
+
+        <p>
+          The presentation and facilitator notes will support senior leadership teams to run a staff meeting with the
+          whole school, teams or departments.
+        </p>
+      </div>
+
+      <div class="dfe-width-container govuk-grid-row">
+        <h2 class="govuk-heading-m govuk-!-margin-top-7 govuk-!-margin-bottom-7">
+          Presentation length
+        </h2>
+
+        <p>
+          The presentation should take 1 hour. You should also allocate time for the facilitator to prepare the
+          session for use in
+          your school.
+        </p>
+      </div>
+
+      <div class="dfe-width-container govuk-grid-row">
+        <h2 class="govuk-heading-m govuk-!-margin-top-7 govuk-!-margin-bottom-7">
+          How to run with your staff
+        </h2>
+
+        <p>
+          You can run the exercises in a staff meeting or they can be completed individually or by teams ahead of
+          the meeting.
+        </p>
+        <p>
+          Supporting resources can be printed or shared digitally and they are editable. For example, you could adapt
+          the table to
+          suit the needs of the staff group, by populating the 'how' column or changing the 'who we communicate with'
+          column. If
+          the group is largely teachers, they could complete the table together to consider how, as teachers, they
+          communicate
+          with other staff, each other, parents or governors.
+        </p>
+        <p>
+          You could address internal and external communications separately or choose one to focus on for this
+          exercise.
+        </p>
+        <p>
+          Senior leadership teams are likely to want to oversee the process. You could consider if it is more
+          appropriate for
+          another member of staff to facilitate the session and lead on follow-up. You could also consider asking
+          somebody
+          independent to facilitate the workshop to free up time to take part.
+        </p>
+        <p>
+          Provide a supportive environment for open and honest professional dialogue.
+        </p>
+      </div>
+
+      <div class="dfe-width-container govuk-grid-row">
+        <h2 class="govuk-heading-m govuk-!-margin-top-7 govuk-!-margin-bottom-7">
+          Supporting resources
+        </h2>
+
+        <ul class="resource-card-group">
+          <%= render('/partials/resource_card.*', title: "How we communicate" ,
+            href: "#{@base_url}/assets/files/Review school communications.odt" ,
+            body: "A template to help you explore how effective and efficient your communications are." ,
+            tag: "Template" , download_link: true) %>
+
+            <%= render('/partials/resource_card.*', title: "Impact graph" ,
+              href: "#{@base_url}/assets/files/Impact graph.odt" ,
+              body: "A template to help you prioritise what to address first." , tag: "Template" , download_link: true )
+              %>
+        </ul>
+      </div>
+    </div>
+
+    <div class="govuk-grid-column-one-third govuk-!-padding-top-7">
+      <div class="govuk-!-margin-top-9 govuk-!-padding-top-9">
+        <%= render '/partials/feedback.*' %>
+      </div>
+    </div>
+  </div>
+</div>

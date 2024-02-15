@@ -1,6 +1,6 @@
 <li class="resource-card-group__item">
   <div class="resource-card">
-    <a class="govuk-link govuk-!-font-weight-bold" href=<%= href %>>
+    <a class="govuk-link govuk-!-font-weight-bold" href="<%= href %>">
       <%= title %>
     </a>
     <div class="resource-card__body">
@@ -8,7 +8,18 @@
         <%= body %>
       </p>
       <p class="govuk-body">
-        <strong class="govuk-tag"><%= tag %></strong>
+        <% if defined?(download_link) && (download_link == true) %>
+          <div class="govuk-grid-row" style="align-items: center;">
+            <div class="govuk-grid-column-three-quarters">
+              <strong class="govuk-tag"><%= tag %></strong>
+            </div>
+            <div class="govuk-grid-column-one-quarter" >
+              <a class="govuk-link govuk-body-m govuk-!-font-weight-bold" href="<%= href %>">Download</a>
+            </div>
+          </div>
+        <% else %>
+          <strong class="govuk-tag"><%= tag %></strong>
+        <% end %>
       </p>
 
       <% defined?(details) && details.each do |detail, value| %>
@@ -17,6 +28,7 @@
           <span class="govuk-!-font-weight-regular"><%= value %></span>
         </p>
       <% end %>
+
     </div>
   </div>
 </li>
