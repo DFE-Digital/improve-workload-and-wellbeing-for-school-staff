@@ -7,6 +7,7 @@ gem 'govuk_markdown'
 gem 'nanoc'
 gem 'nokogiri'
 gem 'rubocop-govuk'
+gem 'rubypants'
 gem 'sassc'
 gem 'webrick'
 
