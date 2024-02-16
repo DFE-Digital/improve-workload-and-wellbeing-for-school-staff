@@ -42,3 +42,13 @@
     background: govuk-colour("blue");
   }
 }
+
+.content-section--pink {
+  .info-box {
+    border-color: #d4357f;
+  }
+
+  .info-box__corner {
+    background: #d4357f;
+  }
+}

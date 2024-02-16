@@ -1,0 +1,103 @@
+---
+title: Identify workload issues
+---
+
+<div class="govuk-main-wrapper">
+  <div class="dfe-width-container govuk-grid-row two-column-page">
+    <div class="dfe-width-container govuk-grid-row">
+      <div class="govuk-grid-column-one-half">
+        <h1 class="govuk-heading-l">Identify workload issues</h1>
+        <p>
+          These resources are designed to help you understand workload issues
+          in your school.
+        </p>
+      </div>
+    </div>
+    
+    <div class="dfe-width-container govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <hr class="govuk-section-break--thick">
+
+        <div class="govuk-grid-row dfe-width-container content-section--pink">
+          <div class="info-box">
+            <div class="info-box__corner">
+              <img src="/assets/images/i-icon.svg" alt="info icon">
+            </div>
+            <h2 class="govuk-heading-m">
+              How to use this section
+            </h2>
+            <p>
+              You can use the resources you want to use and adapt them for your
+              school context. They will help you:
+            </p>
+            <p>
+              <ul>
+                <li>Identify the causes of the biggest workload issues</li>
+                <li>understand how your staff feel about workload</li>
+                <li>prioritise specific workload areas</li>
+              </ul>
+            </p>
+            <p>
+              As a senior leadership team, decide whether you will address
+              workload across the whole school, by department or in individual
+              teams.
+            </p>
+            <p>
+              Regularly reviewing workload with all your staff will help you to
+              understand workload issues and evaluate the impact you are having.
+            </p>
+          </div>
+        </div>
+
+        <div class="dfe-width-container govuk-grid-row">
+          <h2 class="govuk-heading-m">
+            Resources to help identify workload issues
+          </h2>
+
+          <ul class="resource-card-group">
+            <%= render('/partials/resource_card.*',
+              title: "Staff workload survey",
+              href: "#",
+              body: "Gather information from staff and teachers about their biggest workload issues.",
+              tag: "Template") %>
+
+            <%= render('/partials/resource_card.*',
+              title: "Act on your staff survey",
+              href: "#",
+              body: "Share the results of your survey with staff and decide how to act.",
+              tag: "Presentation") %>
+
+            <%= render('/partials/resource_card.*',
+              title: "Plan your yearly calendar",
+              href: "#",
+              body: "Review your calendar with staff to identify workload issues and resolve them.",
+              tag: "Presentation") %>
+
+            <%= render('/partials/resource_card.*',
+              title: "Prioritise change using impact graphs",
+              href: "#",
+              body: "Use an impact graph to measure the impact of different tasks and prioritise change.",
+              tag: "Template") %>
+
+            <%= render('/partials/resource_card.*',
+              title: "Have structured conversations with staff",
+              href: "#",
+              body: "Talk to staff and teachers about their biggest workoad issues.",
+              tag: "Template") %>
+
+            <%= render('/partials/resource_card.*',
+              title: "Use an INSET day to focus on reducing workload",
+              href: "#",
+              body: "Read how a school used an INSET day to focus on “what gets in the way of teaching?”" ,
+              tag: "Case study") %>
+          </ul>
+        </div>
+      </div>
+
+      <div class="govuk-grid-column-one-third">
+        <hr class="govuk-section-break--blue govuk-section-break--thick">
+        <%= render '/partials/feedback.*' %>
+      </div> 
+    </div>
+  </div>
+</div>

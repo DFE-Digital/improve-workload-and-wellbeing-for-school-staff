@@ -336,6 +336,12 @@ main {
   }
 }
 
+.content-section--pink {
+  .govuk-inset-text {
+    border-color: #d4357f;
+  }
+}
+
 .govuk-tag {
   background-color: govuk-colour("blue");
   color: govuk-colour("white");
