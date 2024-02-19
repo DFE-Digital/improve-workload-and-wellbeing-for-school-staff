@@ -4,7 +4,8 @@
   "description": "Welcome to the README for our static site generator app using Nanoc. This document provides instructions for setting up the application on both MacOS and Windows devices.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "shx cp node_modules/dfe-frontend-alpha/dist/dfefrontend.js content/assets/javascripts/dfefrontend.js"
   },
   "author": "",
   "license": "MIT",
@@ -12,5 +13,8 @@
     "dfe-frontend-alpha": "^1.0.1",
     "govuk-frontend": "^5.0.0",
     "sass": "^1.71.0"
+  },
+  "devDependencies": {
+    "shx": "^0.3.4"
   }
 }
