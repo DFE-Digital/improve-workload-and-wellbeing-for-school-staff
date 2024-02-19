@@ -6,7 +6,10 @@ $card-text-color: govuk-colour("purple");
 $card-text-hover-color: govuk-colour("purple");
 
 .explore-resource-card-group {
-  margin: govuk-spacing(5) govuk-spacing(9);
+  margin-top: govuk-spacing(7);
+  @include govuk-media-query($from: tablet) {
+    margin: govuk-spacing(5) govuk-spacing(9);
+  }
 }
 
 .explore-resource-card {
@@ -25,6 +28,7 @@ $card-text-hover-color: govuk-colour("purple");
 
 .explore-resource-card__row-title {
   min-width: 30%;
+  margin-right: govuk-spacing(4);
 
   p {
     font-weight: bold;
@@ -57,6 +61,7 @@ $card-text-hover-color: govuk-colour("purple");
   position: relative;
   width: 100%;
   text-decoration: none;
+  margin: 0 govuk-spacing(5);
 
   p {
     text-decoration: none;
@@ -123,10 +128,9 @@ $card-text-hover-color: govuk-colour("purple");
 
 .card-group__item {
   display: flex;
-
   list-style-type: none;
   margin-bottom: 0;
-  padding: 0 govuk-spacing(5);
+  padding: 0;
 
   .icon-card,
   .dfe-card {
@@ -134,7 +138,6 @@ $card-text-hover-color: govuk-colour("purple");
   }
 
   @include mq($until: desktop) {
-
     .icon-card,
     .dfe-card {
       margin-bottom: govuk-spacing(3);
@@ -155,7 +158,6 @@ $card-text-hover-color: govuk-colour("purple");
 
 .icon-card--link {
   &.icon-card--clickable {
-
     &:hover,
     &:active {
       p {
@@ -174,7 +176,9 @@ $card-text-hover-color: govuk-colour("purple");
 }
 
 .dfe-card-container {
-  display: flex;
+  @include govuk-media-query($from: tablet) {
+    display: flex;
+  }
 }
 
 .dfe-card {
@@ -231,6 +235,8 @@ $card-text-hover-color: govuk-colour("purple");
   color: govuk-colour("white");
   text-decoration: none;
   font-weight: bold;
+  padding: govuk-spacing(7);
+  margin-bottom: 0;
 }
 
 .dfe-card-header .govuk-heading-m {
@@ -256,5 +262,5 @@ $card-text-hover-color: govuk-colour("purple");
 }
 
 .dfe-card-body {
-  padding: govuk-spacing(5) govuk-spacing(7);
+  padding: govuk-spacing(7);
 }

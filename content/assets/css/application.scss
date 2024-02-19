@@ -80,10 +80,6 @@
   max-width: 1200px;
 }
 
-.govuk-grid-column-one-third {
-  padding: 0px;
-}
-
 .govuk-grid-row {
   align-items: center;
 }
@@ -108,6 +104,10 @@
 
 .dfe-icon-container--left {
   float: left;
+  margin: 0 govuk-spacing(4);
+  @include govuk-media-query($from: tablet) {
+    margin-top: govuk-spacing(4);
+  }
 }
 
 .dfe-icon-container--left .dfe-icon {
@@ -392,12 +392,14 @@ main {
     margin-bottom: govuk-spacing(7);
   }
 
-  .govuk-grid-column-two-thirds {
-    padding-right: govuk-spacing(9);
-  }
+  @include govuk-media-query($from: tablet) {
+    .govuk-grid-column-two-thirds {
+      padding-right: govuk-spacing(9);
+    }
 
-  .govuk-grid-column-one-third {
-    padding-left: govuk-spacing(6);
+    .govuk-grid-column-one-third {
+      padding-left: govuk-spacing(6);
+    }
   }
 }
 
