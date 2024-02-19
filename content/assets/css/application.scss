@@ -21,7 +21,6 @@
 
 // Remove margin from the last element
 @mixin remove-last-child-margin {
-
   p:last-child,
   ul:last-child,
   ol:last-child {
@@ -39,15 +38,19 @@
   background: $colour;
 }
 
-@mixin left-bordered-block($border-colour,
-  $background-colour: govuk-colour("white")) {
+@mixin left-bordered-block(
+  $border-colour,
+  $background-colour: govuk-colour("white")
+) {
   @include block;
   border-left: 10px solid $border-colour;
   background: $background-colour;
 }
 
-@mixin emphatic-block($background-colour,
-  $foreground-colour: govuk-colour("white")) {
+@mixin emphatic-block(
+  $background-colour,
+  $foreground-colour: govuk-colour("white")
+) {
   @include coloured-block($background-colour);
   padding: 2em 0;
   text-align: center;
@@ -111,7 +114,6 @@
   width: 75px;
   height: auto;
 }
-
 
 .dfe-content-page--header {
   background-color: #347ca9;
@@ -178,14 +180,6 @@
   text-decoration: none;
 }
 
-.border-top-blue {
-  border-top: 8px solid govuk-colour("blue");
-}
-
-.bg-blue {
-  background: govuk-colour("blue");
-}
-
 .govuk-button {
   background-color: #003a69;
   color: #ffffff;
@@ -195,12 +189,12 @@
 }
 
 .govuk-button:hover {
-  background-color: #1D70B8;
+  background-color: #1d70b8;
 }
 
 .govuk-button:active {
-  background-color: #1D70B8;
-  border: 2px solid #FFDD00;
+  background-color: #1d70b8;
+  border: 2px solid #ffdd00;
 }
 
 .govuk-button:focus {
@@ -329,6 +323,12 @@ main {
 
   h2 {
     @include govuk-font($size: 24, $weight: bold);
+  }
+}
+
+.content-section--blue {
+  .govuk-inset-text {
+    border-color: govuk_colour("blue");
   }
 }
 

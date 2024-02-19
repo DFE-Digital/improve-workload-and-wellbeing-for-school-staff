@@ -32,3 +32,13 @@
     }
   }
 }
+
+.content-section--blue {
+  .info-box {
+    border-color: govuk-colour("blue");
+  }
+
+  .info-box__corner {
+    background: govuk-colour("blue");
+  }
+}
