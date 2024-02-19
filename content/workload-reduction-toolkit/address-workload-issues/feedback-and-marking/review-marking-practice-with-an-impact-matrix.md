@@ -5,7 +5,7 @@ layout: /markdown_resource.html.erb
 
 # Review marking practice with an impact matrix
 
-<strong class="govuk-tag">Example</strong>
+<strong class="govuk-tag">Template</strong>
 
 {inset-text}
 
