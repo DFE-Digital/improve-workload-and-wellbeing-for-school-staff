@@ -40,6 +40,7 @@ layout: /markdown_resource.html.erb
         <ul>
           <li>give feedback and mark in a way that best suits their subject and pupils</li>
           <li>use a wide variety of feedback strategies such as verbal feedback and live marking</li>
+        </ul>
       </p>
       <p>
         Teachers are also more selective in what, why and how they mark. They:
