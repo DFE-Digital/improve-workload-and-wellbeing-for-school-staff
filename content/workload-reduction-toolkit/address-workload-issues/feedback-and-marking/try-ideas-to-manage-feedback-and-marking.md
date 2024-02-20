@@ -55,7 +55,7 @@ layout: /markdown_resource.html.erb
 
 {inset-text}
 
-At King Charles I school we know that teaching is exhilarating and rewarding but recognise that it can also be exhausting. We understand that time is precious and that tired teachers do not make effective teachers. Our aim is for staff to not have to take work home. 
+At King Charles I School we know that teaching is exhilarating and rewarding but recognise that it can also be exhausting. We understand that time is precious and that tired teachers do not make effective teachers. Our aim is for staff to not have to take work home. 
 {/inset-text}
 
 ## 10 ways that we manage feedback and marking workload 
