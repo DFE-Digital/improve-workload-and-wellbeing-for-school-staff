@@ -35,16 +35,19 @@ layout: /markdown_resource.html.erb
       <p>
         Outwood Grange Academies Trust has created a culture where teachers give feedback effectively without creating an unmanageable workload. 
       </p>
-      <ul>
+      <p>
         Thanks to their approach, teachers are innovative in how they provide feedback. They’re empowered to:
+        <ul>
           <li>give feedback and mark in a way that best suits their subject and pupils</li>
           <li>use a wide variety of feedback strategies such as verbal feedback and live marking</li>
-      </ul>
-      <ul>
-        Teachers are also more selective in what, why and how they mark. They: 
-        <li>focus on what makes a difference in written marking</li>
-        <li>mark for pupils - not leaders</li>
-      </ul>
+      </p>
+      <p>
+        Teachers are also more selective in what, why and how they mark. They:
+        <ul>
+          <li>focus on what makes a difference in written marking</li>
+          <li>mark for pupils - not leaders</li>
+        </ul>
+      </p>
       <p>
       Workload has also reduced and there is a better balance between time spent on planning and marking. Pupils are more actively engaged in checking their own work and responding to feedback.
       </p>
