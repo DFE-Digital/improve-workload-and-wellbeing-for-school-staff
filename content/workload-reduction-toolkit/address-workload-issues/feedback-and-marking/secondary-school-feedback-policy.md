@@ -52,21 +52,28 @@ We developed this policy because we found that teachers spent a lot of time mark
 We shared these time saving examples across the school and out of this ‘best practice’ grew our impact marking policy, which focuses solely on marking for progress. 
 {/inset-text}
 
-# Our feedback principles  
+## Our feedback principles  
 
 All feedback: 
-* informs pupil progress 
-* has a positive impact on pupil outcomes  
+
+* informs pupil progress
+  
+* has a positive impact on pupil outcomes
+
 * is a good use of teachers’ time 
 
 The more immediate the feedback the greater the impact. All subject areas have identified a bare minimum standard in terms of regularity of feedback, taking into consideration the frequency of lessons, and the nature of the subject.  
 
 ## When to give written and verbal feedback 
 
-Other than a tick for completion, a teacher should only write in books if:  
-* they are pointing out a good attribute that a pupil must cont
-* they are pointing out a literacy error  
-* they are pointing out an area for development (this can be highlighted in the text) 
+Other than a tick for completion, a teacher should only write in books if:
+
+* they are pointing out a good attribute that a pupil must continue to use
+  
+* they are pointing out a literacy error
+  
+* they are pointing out an area for development (this can be highlighted in the text)
+  
 * the work will conclude with a GCSE style mark (where appropriate) and a tangible next step to move learning on 
 
 Where verbal feedback is given teachers should only record the feedback if it will reinforce the implementation of the next step, not purely for the benefit of book looks. 
