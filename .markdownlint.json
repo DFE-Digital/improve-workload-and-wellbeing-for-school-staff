@@ -14,7 +14,9 @@
       "p",
       "img",
       "strong",
-      "hr"
+      "hr",
+      "ul",
+      "li"
     ]
   }
 }
