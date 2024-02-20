@@ -12,7 +12,7 @@ Use this survey template to gather information from school staff
 about their workload. You can address issues you identify with
 resources from the workload reduction toolkit.
 
-<div class="dfe-width-container govuk-grid-row">
+<div class="dfe-width-container govuk-grid-row govuk-!-padding-bottom-6">
   <div class="govuk-grid-row dfe-width-container">
     <div class="govuk-grid-column-full">
       <div class="info-box">
@@ -35,12 +35,16 @@ resources from the workload reduction toolkit.
         <p>
           <ul>
             <li>
-              <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=yXfS-grGoU2187O4s0qC-cn26r-uTMpNqURSfi9lRcVUNEg1UTdMMllFRTM1SEVRRDJWQjE3RUU5VS4u&sharetoken=MJnNysyL44umvL8f97JA" class="govuk-link">
+              <a
+                href="https://forms.office.com/Pages/ShareFormPage.aspx?id=yXfS-grGoU2187O4s0qC-cn26r-uTMpNqURSfi9lRcVUNEg1UTdMMllFRTM1SEVRRDJWQjE3RUU5VS4u&sharetoken=MJnNysyL44umvL8f97JA"
+                class="govuk-link">
                 Microsoft Forms - staff workload survey template
               </a>
             </li>
             <li>
-              <a href="https://docs.google.com/forms/d/e/1FAIpQLScrEp_mdZIYbEj404OFKMrRsSFmkFP2p_q_cfVy9wdkoTDtyw/viewform?pli=1" class="govuk-link">
+              <a
+                href="https://docs.google.com/forms/d/e/1FAIpQLScrEp_mdZIYbEj404OFKMrRsSFmkFP2p_q_cfVy9wdkoTDtyw/viewform?pli=1"
+                class="govuk-link">
                 Google Forms - staff workload survey template
               </a>
             </li>
@@ -54,22 +58,22 @@ resources from the workload reduction toolkit.
         <h2 class="govuk-heading-m">
           Download the staff workload survey
         </h2>
-        <div class="govuk-grid-row">
+        <div class="govuk-grid-row info-box__download-content">
           <div class="govuk-grid-column-one-half">
             <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
           </div>
           <div class="govuk-grid-column-one-half">
-            <div class="info-box__content">
-              <p class="govuk-body-s govuk-!-margin-bottom-6">
-                <strong>Resource type:</strong> Template
-              </p>
-              <p class="govuk-body-s govuk-!-margin-bottom-6">
-                <strong>File type:</strong> Document, 70KB, 5 pages
-              </p>
-              <a class="govuk-link govuk-link--no-visited-state govuk-!-font-weight-bold" href="#">
+            <p class="govuk-body-s">
+              <strong>Resourced type:</strong> Template
+            </p>
+            <p class="govuk-body-s">
+              <strong>File type:</strong> Document, 70KB, 5 pages
+            </p>
+            <p>
+              <a class="govuk-link govuk-link--no-visited-state" href="#">
                 Download
               </a>
-            </div>
+            </p>
           </div>
         </div>
       </div>
