@@ -68,7 +68,7 @@ Generate automatic feedback comments off exam spreadsheets (Science, Computing, 
 
 When diagnostic assessment is most useful, use a diagnostic grid and select boxes rather than write sentences. 
 
- ### Enable self or peer marking amongst students through the choice of assignment and by providing marking criteria 
+### Enable self or peer marking amongst students through the choice of assignment and by providing marking criteria 
 
 Provide model answers for self-marking; teachers can check the marking if needed (Science, English, Geography). 
 
