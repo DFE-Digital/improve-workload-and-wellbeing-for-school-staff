@@ -31,8 +31,8 @@ layout: /markdown_resource.html.erb
         Impact and outcomes
       </h2>
       <p>
+         Using the impact matrix to review marking practices at the City of Norwich School has meant that: 
         <ul>
-          Using the impact matrix to review marking practices at the City of Norwich School has meant that: 
           <li>homework activities have been simplified and marking criteria removed</li> 
           <li>mid-unit tests became shorter and more positively structured</li>
           <li>tasks became much easier to mark and celebrate</li> 
