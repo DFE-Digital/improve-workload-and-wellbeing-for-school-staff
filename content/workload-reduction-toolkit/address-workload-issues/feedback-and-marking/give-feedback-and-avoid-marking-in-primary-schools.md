@@ -103,14 +103,19 @@ Summary feedback:
   
 * allocates time for editing based on feedback or knowledge rehearsal
   
-* may involve peer support or support from a teaching assistant 
+* may involve peer support or support from a teaching assistant
+  
 * may be delivered by the teacher or a teaching assistant 
 
 To demonstrate how responsive feedback is helping pupils to progress, you can use evidence such as: 
-* planning looks 
-* lesson observations 
-* learning walks  
+
+* planning looks
+  
+* lesson observations
+  
+* learning walks
+  
 * book looks 
 
 ### Read the full policy 
-[https://www.godmanchester.cambs.sch.uk/_site/data/files/users/template/files/335BE378887246741BBA22CDDF20CF0B.pdf?pid=26](Godmanchester Community Academy’s feedback policy)
+[Godmanchester Community Academy’s feedback policy](https://www.godmanchester.cambs.sch.uk/_site/data/files/users/template/files/335BE378887246741BBA22CDDF20CF0B.pdf?pid=26)
