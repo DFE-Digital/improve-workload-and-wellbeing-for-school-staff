@@ -38,6 +38,7 @@ layout: /markdown_resource.html.erb
       <p>
         Marking for progress has encouraged some departments to amend their assessment schemes at key stage 3.
       </p>
+      <p>
         For pupils, it allowed misconceptions to be highlighted and gave them time to understand what they need to do to progress. 
       </p>
     </div>
