@@ -110,8 +110,6 @@ We use different types of immediate feedback strategies in lessons. Their usage 
 
 Verbal feedback should be common practice in lessons, and you do not need to record when you’re using it - unless it supports the pupil in their learning. 
 
- 
-
 ### Live marking 
 
 Give verbal feedback and mark aspects of pupils’ work in lessons.  
@@ -176,31 +174,19 @@ We use a circle to show that something is missing or inaccurate. For example, a 
 
 We use 2 parallel lines on the appropriate line in the margin to show a new paragraph is needed.  
 
- 
-
 ### NB 
-
- 
 
 This means ‘note well’. We use NB followed by a comment on a grammar or technical subject point. 
 
- 
-
 ### Sp	 
 
- 
-
 We use ‘Sp’ to show where there is inaccurate spelling. We put it in the margin and underline the inaccurate spelling. 
-
- 
 
 Use your judgement as to whether the student can spell the word but made a mistake on this occasion, or whether they cannot spell it and need the spelling or rule. 
 
 ### A wavy line - } 
 
 We use a wavy line like a curly bracket when writing is unclear and needs to be rewritten.  
-
- 
 
 Decide whether this is due to a mistake which the pupil can rectify alone or if they need support through written or verbal feedback. 
 
