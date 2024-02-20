@@ -54,7 +54,7 @@ There will be times where it is appropriate to take in pupils’ work and write 
 
 In our school, we have found these suggestions to help reduce teacher’s workload when it comes to marking.  
 
- ### Verbal feedback may be quicker than written feedback 
+### Verbal feedback may be quicker than written feedback 
 
 Live writing on the board – the teacher models how to write the answer, giving a commentary of the thoughts that run through their head as they do, including making mistakes and corrections (English, Science). 
 
