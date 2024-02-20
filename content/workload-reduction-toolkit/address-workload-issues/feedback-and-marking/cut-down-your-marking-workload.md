@@ -83,8 +83,3 @@ Only mark in detail for those who need it. Not everyone needs to receive the sam
 Address whole class misconceptions verbally, getting pupils to write it down in green so they don’t forget. (RE, Sociology, PE and Creative Arts, BTECs) 
 
 With smaller classes, go around and highlight the things they’ve done well in one colour and the things they need to improve on in another colour 
-
- 
-
- 
-
