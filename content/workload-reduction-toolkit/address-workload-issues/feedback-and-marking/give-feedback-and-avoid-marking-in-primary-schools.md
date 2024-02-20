@@ -39,7 +39,7 @@ layout: /markdown_resource.html.erb
   </div>
 </div>
 
-## Background from INSERT-CONTACT-NAME
+## Background from Tess Fielden, Headteacher
 
 {inset-text}
 
@@ -52,38 +52,57 @@ The sole focus of feedback is to further a child’s learning. Feedback must emp
 ### Immediate feedback  
 
 Immediate feedback: 
-* takes place during a lesson with individuals, groups or a whole class 
-* includes formative assessment from the teacher or teaching assistant, for example using the whiteboard, book work or verbal answers 
-* is often given verbally to pupils for immediate action and may redirect the focus of teaching or the task 
+
+* takes place during a lesson with individuals, groups or a whole class
+  
+* includes formative assessment from the teacher or teaching assistant, for example using the whiteboard, book work or verbal answers
+  
+* is often given verbally to pupils for immediate action and may redirect the focus of teaching or the task
+  
 * praises effort and contributions 
 
-To demonstrate how immediate feedback is helping pupils to progress, you can use evidence such as: 
-* lesson observations 
+To demonstrate how immediate feedback is helping pupils to progress, you can use evidence such as:
+
+* lesson observations
+  
 * learning walks 
 
 ### Responsive (catch-up) feedback  
 
 Responsive feedback: 
-* takes place after the lesson or activity with individuals or groups 
-* addresses knowledge from the lesson or activity or missing prior knowledge 
-* is often given verbally with time to rehearse knowledge 
+
+* takes place after the lesson or activity with individuals or groups
+  
+* addresses knowledge from the lesson or activity or missing prior knowledge
+  
+* is often given verbally with time to rehearse knowledge
+  
 * is usually delivered by a teaching assistant based on guidance from the teacher  
 
 An element of the child’s responses to feedback is recorded in their workbooks to show progress over time. 
 
-To demonstrate how responsive feedback is helping pupils to progress, you can use evidence such as: 
-* catch-up observations 
-* learning walks 
-* feedback grids 
+To demonstrate how responsive feedback is helping pupils to progress, you can use evidence such as:
+
+* catch-up observations
+  
+* learning walks
+  
+* feedback grids
+  
 * book looks 
 
 ### Summary (feed-forward) feedback 
 
 Summary feedback: 
-* involves reading or looking at the work of all pupils at the end of a lesson or unit 
-* identifies and addresses strengths or misconceptions of the class or group 
-* takes place during the following lesson 
-* allocates time for editing based on feedback or knowledge rehearsal 
+
+* involves reading or looking at the work of all pupils at the end of a lesson or unit
+  
+* identifies and addresses strengths or misconceptions of the class or group
+  
+* takes place during the following lesson
+  
+* allocates time for editing based on feedback or knowledge rehearsal
+  
 * may involve peer support or support from a teaching assistant 
 * may be delivered by the teacher or a teaching assistant 
 
