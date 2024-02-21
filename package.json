@@ -12,7 +12,7 @@
   "dependencies": {
     "dfe-frontend-alpha": "^1.0.1",
     "govuk-frontend": "^5.0.0",
-    "sass": "^1.71.0"
+    "sass": "^1.71.1"
   },
   "devDependencies": {
     "shx": "^0.3.4"
