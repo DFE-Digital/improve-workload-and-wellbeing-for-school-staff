@@ -12,7 +12,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="govuk-template__body  js-enabled">
+<body class="govuk-template__body js-enabled">
   <%= render '/partials/cookie_banner.*' %>
 
   <header class="dfe-header" role="banner">
@@ -151,6 +151,7 @@
     </div>
   </footer>
   <script type="module" src="<%= @base_url %>/assets/javascripts/dfefrontend.js"></script>
+  <script type="module" src="<%= @base_url %>/assets/javascripts/cookie_banner.js"></script>
 </body>
 
 </html>

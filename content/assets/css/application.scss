@@ -461,3 +461,21 @@ main {
   font-size: 1.2rem;
   font-weight: normal;
 }
+
+.govuk-cookie-banner {
+  .decision {
+    display: none;
+  }
+
+  &[consented="yes"] {
+    .accepted {
+      display: inline;
+    }
+  }
+
+  &[consented="no"] {
+    .rejected {
+      display: inline;
+    }
+  }
+}
