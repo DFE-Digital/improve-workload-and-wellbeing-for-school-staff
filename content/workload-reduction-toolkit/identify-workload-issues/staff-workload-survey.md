@@ -12,7 +12,7 @@ Use this survey template to gather information from school staff
 about their workload. You can address issues you identify with
 resources from the workload reduction toolkit.
 
-<div class="dfe-width-container govuk-grid-row govuk-!-padding-bottom-6">
+<div class="govuk-grid-row govuk-!-padding-bottom-6">
   <div class="govuk-grid-row dfe-width-container">
     <div class="govuk-grid-column-full">
       <div class="info-box">

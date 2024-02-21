@@ -2,16 +2,13 @@
   <div class="govuk-main-wrapper two-column-page">
     <div class="dfe-width-container govuk-grid-row">
       <div class="govuk-grid-column-two-thirds">
-        <div class="dfe-width-container govuk-grid-row">
-          <h1 class="govuk-heading-l"><%= @item[:title] %></h1>
-          <div class="dfe-width-container govuk-grid-row">
-            <p>
-              These resources are designed to help you address workload issues
-              with <%= @item[:title].downcase %> in your school.
-            </p>
-          </div>
-        </div>
+        <h1 class="govuk-heading-l"><%= @item[:title] %></h1>
+        <p>
+          These resources are designed to help you address workload issues
+          with <%= @item[:title].downcase %> in your school.
+        </p>
       </div>
+    </div>
 
     <div class="dfe-width-container govuk-grid-row">
       <div class="govuk-grid-column-two-thirds">
@@ -42,19 +39,23 @@
           </div>
         </div>
 
-        <div class="dfe-width-container govuk-grid-row">
-          <h2 class="govuk-heading-m">
-            Resources to help <%= @item[:title].downcase %> workload
-          </h2>
+        <div class="govuk-grid-row">
+          <div class="govuk-grid-column-full">
+            <h2 class="govuk-heading-m">
+              Resources to help <%= @item[:title].downcase %> workload
+            </h2>
+          </div>
         </div>
 
-        <div class="dfe-width-container govuk-grid-row">
-          <%= yield %>
+        <div class="govuk-grid-row">
+          <div class="govuk-grid-column-full">
+            <%= yield %>
+          </div>
         </div>
       </div>
+
       <div class="govuk-grid-column-one-third">
         <hr class="govuk-section-break--blue govuk-section-break--thick">
-
         <%= render '/partials/feedback.*' %>
       </div>
     </div>
