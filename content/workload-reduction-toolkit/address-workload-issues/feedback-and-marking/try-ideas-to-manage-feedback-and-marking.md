@@ -64,7 +64,7 @@ At King Charles I School we know that teaching is exhilarating and rewarding but
 
 2. Homework tasks in Year 9 to 11 also include quizzing. Other tasks are based on key revision strategies, which can be self or peer marked in class and require minimal teacher marking.   
 
-3. No setting of homework for Years 7, 8 and 9 and only reading or revision for Years 10 and 11 during the week before a holiday to ensure staff do not return to a pile of marking.   
+3. No setting of homework for Years 7, 8 and 9. Reading or revision is set for Years 10 and 11 in the final week before a holiday, to ensure staff do not return to a pile of marking.
 
 4. We use online packages for homework such as Hegarty Maths or Quizlet to further reduce planning, setting and marking.   
 
@@ -74,8 +74,8 @@ At King Charles I School we know that teaching is exhilarating and rewarding but
 
 7. The whole school assessment calendar is created alongside middle leaders to ensure the best possible timings of exams and moderation and to avoid pinch points.  
 
-8. We use tests and exams that clearly indicate what students do and don’t know and can and can’t do to inform future planning and help students progress. We don’t collect data just for the fun of it!  
+8. We use tests and exams that clearly indicate what students do and don’t know and can and can’t do to inform future planning and help students progress. We don’t collect data just for the fun of it.
 
-9. We make sure tests and exams that can be self or peer marked with minimal teaching marking.  
+9. We make sure tests and exams can be self or peer marked with minimal teaching marking.  
 
 10. We do not have an onerous or impossible marking policy. Instead, we have a feedback policy that focuses on whole class feedback, verbal feedback and daily quizzes. No more hours spent marking hundreds of books ‘just because’. 
