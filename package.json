@@ -11,7 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "dfe-frontend-alpha": "^1.0.1",
-    "govuk-frontend": "^5.0.0",
+    "govuk-frontend": "^5.2.0",
     "sass": "^1.71.1"
   },
   "devDependencies": {
