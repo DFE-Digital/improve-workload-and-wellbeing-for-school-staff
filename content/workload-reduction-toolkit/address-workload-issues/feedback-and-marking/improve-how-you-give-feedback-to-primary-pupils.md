@@ -61,8 +61,20 @@ There are two main reasons we give feedback. Firstly, to motivate the child. Sec
 
 ## When to give feedback 
 
-When and how feedback is given matters. It needs to be based on what will most positively impact that child's progress. As a school, we encourage teachers to use their professional judgment to decide when it is the right time to provide verbal feedback, to surface mark, highlighting, or when a next step comment is the right approach. 
+When and how feedback is given matters. It needs to be based on what will most positively impact that child's progress. 
+
+As a school, we encourage teachers to use their professional judgement to decide when it is the right time to:
+
+* provide verbal feedback
+  
+* to surface mark
+
+* highlight mistakes
+
+* give a next step comment
 
 ## Support staff to make decisions 
 
-Whilst this level of professional decision making is our ultimate goal, we understand that these judgments are difficult and, often, it can take time to develop a real understanding of when to use a particular type of feedback. If teachers are ever unsure, they can speak to another member of staff, Phase Leader or member of SLT, any of whom will be more than happy to offer advice and support. If there are queries, SLT will have professional dialogues with teachers to understand why they have made certain choices and may offer further support and guidance. 
+Whilst this level of professional decision making is our ultimate goal, we understand that these judgements are difficult. Often, it can take time to develop a real understanding of when to use a particular type of feedback. 
+
+If teachers are ever unsure, they can speak to another staff member, phase leader or SLT member, who can offer further advice and support. If there are queries, SLT will have conversations with teachers to understand why they have made certain choices and offer further support and guidance.
