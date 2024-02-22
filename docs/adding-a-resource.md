@@ -6,7 +6,7 @@ resources.
 
 Useful links:
 
-- [Example resource file](docs/example-resource.md)
+- [Example resource file](example-resource.md)
 
 - [Example pull request](https://github.com/DFE-Digital/improve-school-workload-and-wellbeing/pull/39) -
   this is an example pull request on Github, where a single resource has been
@@ -28,6 +28,23 @@ improve-workload-and-wellbeing-for-school-staff.education.gov.uk/**staff-wellbei
 
 Using the code in `example-resource.md` as a guide, copy the Markdown for your
 resource into your new file.
+
+All resources default to a purple colour scheme. If your resource uses a
+different colour scheme, you need to state it at the top of the file:
+
+```
+---
+title: TITLE
+layout: /markdown_resource.html.erb
+colour: blue
+---
+```
+
+Possible colours (other than the default purple) are:
+
+- `pink`
+- `green`
+- `blue`
 
 ## 3. Add your resource HTML 🎨
 

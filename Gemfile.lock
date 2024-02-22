@@ -161,6 +161,7 @@ GEM
       rubocop-factory_bot (~> 2.22)
     ruby-progressbar (1.13.0)
     ruby2_keywords (0.0.5)
+    rubypants (0.7.1)
     sassc (2.4.0)
       ffi (~> 1.9)
     set (1.1.0)
@@ -193,6 +194,7 @@ DEPENDENCIES
   nanoc-live
   nokogiri
   rubocop-govuk
+  rubypants
   sassc
   webrick
 

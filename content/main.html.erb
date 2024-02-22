@@ -26,29 +26,28 @@ title: Home
 </div>
 
 <div class="govuk-main-wrapper">
-  <div class="govuk-grid-row govuk-width-container dfe-width-container">
-    <div class="dfe-card-container">
-      <div class="dfe-card">
-        <div class="dfe-card-header">
-          <h2 class="govuk-heading-m">
-            <a href="<%= @base_url %>/staff-wellbeing" class="govuk-link">Staff wellbeing</a>
-          </h2>
-        </div>
-        <div class="dfe-card-body">
-          <p class="govuk-body">Promote a culture of wellbeing with resources made by school leaders.</p>
-        </div>
-      </div>
-      <div class="dfe-card">
-        <div class="dfe-card-header">
-          <h2 class="govuk-heading-m">
-            <a href="<%= @base_url %>/workload-reduction-toolkit" class="govuk-link">Workload reduction</a>
-          </h2>
-        </div>
-        <div class="dfe-card-body">
-          <p class="govuk-body">Support workload reduction with resources produced by school leaders.</p>
-        </div>
-      </div>
-    </div>
+  <div class="govuk-width-container dfe-width-container">
+    <ul class="govuk-grid-row card-group">
+      <li class="govuk-grid-column-one-half card-group__item">
+        <a class="dfe-card dfe-card--clickable govuk-link--no-visited-state" href="<%= @base_url %>/staff-wellbeing">
+          <p class="govuk-body-l dfe-card-header">
+            Staff wellbeing
+          </p>
+          <div class="dfe-card-body">
+            <p class="govuk-body">Promote a culture of wellbeing with resources made by school leaders.</p>
+          </div>
+        </a>
+      </li>
+
+      <li class="govuk-grid-column-one-half card-group__item">
+        <a class="dfe-card dfe-card--clickable govuk-link--no-visited-state" href="<%= @base_url %>/workload-reduction-toolkit">
+          <p class=" govuk-body-l dfe-card-header">Workload reduction</p>
+          <div class="dfe-card-body">
+            <p class="govuk-body">Support workload reduction with resources produced by school leaders.</p>
+          </div>
+        </a>
+      </li>
+    </ul>
   </div>
 </div>
 
@@ -66,6 +65,8 @@ title: Home
   </div>
 </div>
 
-<div class="govuk-main-wrapper">
-  <%= render '/partials/feedback.*' %>
+<div class="dfe-width-container govuk-grid-row govuk-!-margin-top-7">
+  <div class="govuk-grid-column-full">
+    <%= render '/partials/feedback.*' %>
+  </div>
 </div>
