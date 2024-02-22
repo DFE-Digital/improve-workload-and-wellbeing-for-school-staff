@@ -63,7 +63,7 @@ All feedback:
 
 * is a good use of teachers’ time 
 
-The more immediate the feedback the greater the impact. All subject areas have identified a bare minimum standard in terms of regularity of feedback, taking into consideration the frequency of lessons, and the nature of the subject.  
+The more immediate the feedback the greater the impact. All subject areas have identified a minimum standard in terms of regularity of feedback, taking into consideration lesson frequency and the nature of the subject.
 
 ## When to give written and verbal feedback 
 
@@ -77,14 +77,14 @@ Other than a tick for completion, a teacher should only write in books if:
   
 * the work will conclude with a GCSE style mark (where appropriate) and a tangible next step to move learning on 
 
-Where verbal feedback is given teachers should only record the feedback if it will reinforce the implementation of the next step, not purely for the benefit of book looks. 
+Where verbal feedback is given, teachers should only record it if it will reinforce the implementation of the next step. It should not be provided for the benefit of 'book looks'.
 
 ## Quality assuring feedback and supporting staff 
 
 Heads of department (HOD) and senior leaders will quality assure marking and feedback and provide appropriate support. 
 
-Quality assurance will focus on how the pupil is progressing. It will not focus on what the teacher writes. It will be purely on the impact the feedback has had on pupil progress. The actual practice of a pupil improving their work is more important than how much the teacher writes. 
+Quality assurance will focus on how the pupil is progressing. It will not focus on the teacher's writing, but rather the feedback's impact on pupil progress. The actual practice of a pupil improving their work is more important than how much the teacher writes. 
 
-Based on these “book looks” HOD/senior leader(s) will prioritise staff needing support and agree next steps. Staff who demonstrate good practice in feedback and marking will only require informal quality assurance in the future and will be asked to coach others. 
+Based on these 'book looks' HOD/senior leader(s) will prioritise staff needing support and agree next steps. Staff who demonstrate good practice in feedback and marking will only require informal quality assurance in the future and will be asked to coach others. 
 
 Other opportunities to share good practice related to feedback will be built into the calendar, but each HOD will timetable these when it is appropriate for their department. 
