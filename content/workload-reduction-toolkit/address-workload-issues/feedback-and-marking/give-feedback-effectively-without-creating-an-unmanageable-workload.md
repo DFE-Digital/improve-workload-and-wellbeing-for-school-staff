@@ -56,7 +56,7 @@ layout: /markdown_resource.html.erb
   </div>
 </div>
 
-## Background from Executive Principal Lynn James
+## Background from Lynn James, Executive Principal
 
 {inset-text}
 We have reduced the pressures which increase teacher anxiety, ensuring teachers can excel and focus on what makes the biggest difference. 
