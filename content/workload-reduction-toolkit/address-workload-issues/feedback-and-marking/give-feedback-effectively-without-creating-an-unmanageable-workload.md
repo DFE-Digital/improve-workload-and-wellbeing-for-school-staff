@@ -68,15 +68,13 @@ Pupils’ books become a reflection of effective learning, not a check of markin
 
 ## Our approach to feedback and marking 
 
-We believe that teachers should spend more time planning how to deliver their curriculum than marking as this has a greater impact on pupils’ learning.  
-
 We: 
 
 * remove unnecessary marking 
 
 * use a range of marking methodologies - one style of marking does not suit all purposes and all pupils 
 
-There are many effective forms of feedback, and we use a variety of methods. We believe that: 
+There are many effective forms of feedback and we use a variety of methods. We believe that: 
 
 * feedback should be a regular, but not onerous, practice 
 
