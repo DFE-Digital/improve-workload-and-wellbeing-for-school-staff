@@ -1,10 +1,14 @@
-/**
- *  @private
- *  @summary fetches and returns a cookie by cookie name
- *  @param {string} name - cookie name which the method should lookup
- *  @returns {string} cookie string in key=value format
- *  @returns {null} if cookie is not found
- */
+const COOKIE_NAME = "_consented_to_analytics_cookies";
+const COOKIE_EXPIRY_DAYS = "365";
+
+function setAnalyticsCookie(answer) {
+  return setCookie(COOKIE_NAME, answer, { days: COOKIE_EXPIRY_DAYS });
+}
+
+function getAnalyticsCookie() {
+  return getCookie(COOKIE_NAME);
+}
+
 function getCookie(name) {
   const nameEQ = name + "=";
   const cookies = document.cookie.split(";");
@@ -20,17 +24,6 @@ function getCookie(name) {
   return null;
 }
 
-/**
- *  @private
- *  @summary Sets a cookie
- *  @param {string} name - cookie name
- *  @param {string} value - value the cookie will be set to
- *  @param {object} options - used to set cookie options like secure/ expiry date etc
- *  @example chocolateChip cookie value is tasty and expires in 2 days time
- *  setCookie('chocolateChip', 'Tasty', { days: 2 })
- *  @example Delete/Expire existing chocolateChip cookie
- *  setCookie('chocolateChip', '', { days: -1 })
- */
 function setCookie(name, value, options) {
   if (typeof options === "undefined") {
     options = {};
@@ -47,4 +40,4 @@ function setCookie(name, value, options) {
   document.cookie = cookieString;
 }
 
-export { getCookie, setCookie };
+export { getAnalyticsCookie, setAnalyticsCookie };

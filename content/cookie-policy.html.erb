@@ -7,13 +7,15 @@ title: Cookie policy
     <div class="govuk-grid-row govuk-!-padding-top-9 govuk-!-padding-bottom-0">
       <div class="govuk-grid-column-full">
         <h1 class="govuk-heading-xl govuk-!-margin-bottom-4">Cookie policy</h1>
-        <p class="govuk-body-l">Cookie policy for Improve workload and wellbeing for school staff</p>
+        <p class="govuk-body-l">
+          Cookie policy for Improve workload and wellbeing for school staff
+        </p>
       </div>
     </div>
   </div>
 </div>
 
-<div class="govuk-main-wrapper">
+<div class="govuk-main-wrapper" data-module="js-cookies-page">
   <div class="dfe-width-container">
     <div class="govuk-grid-row">
       <div class="govuk-grid-column-three-quarters">
@@ -95,27 +97,36 @@ title: Cookie policy
           </tbody>
         </table>
 
-        <form name="cookie-settings" class="js-cookie-setting-form">
+        <form name="cookie-settings" class="js-cookies-page-form">
           <div class="govuk-form-group">
             <fieldset class="govuk-fieldset">
-              <legend class="govuk-fieldset__legend govuk-fieldset__legend--s"> Do you want to accept analytics cookies? </legend>
-              <div class="govuk-radios" data-module="govuk-radios">
+              <legend class="govuk-fieldset__legend govuk-fieldset__legend--s">
+                Do you want to accept analytics cookies?
+              </legend>
+              <div class="govuk-radios js-cookies-page-form-radios" data-module="govuk-radios">
                 <div class="govuk-radios__item">
-                  <input class="govuk-radios__input" id="analytics-cookies-yes" name="analytics-cookies" type="radio" value="1">
-                  <label class="govuk-label govuk-radios__label" for="analytics-cookies-yes"> Yes </label>
+                  <input class="govuk-radios__input" id="analytics-cookies-yes" name="analytics-cookies" type="radio" value="yes">
+                  <label class="govuk-label govuk-radios__label" for="analytics-cookies-yes">
+                    Yes
+                  </label>
                 </div>
                 <div class="govuk-radios__item">
-                  <input class="govuk-radios__input" id="analytics-cookies-no" name="analytics-cookies" type="radio" value="0">
-                  <label class="govuk-label govuk-radios__label" for="analytics-cookies-no"> No </label>
+                  <input class="govuk-radios__input" id="analytics-cookies-no" name="analytics-cookies" type="radio" value="no">
+                  <label class="govuk-label govuk-radios__label" for="analytics-cookies-no">
+                    No
+                  </label>
                 </div>
               </div>
             </fieldset>
           </div>
           <p>
-            <button type="submit" class="govuk-button cookie-button" data-module="govuk-button"> Save cookie settings </button>
+            <button type="submit" class="govuk-button cookie-button js-cookies-page-form-button" data-module="govuk-button">
+              Save cookie settings
+            </button>
           </p>
         </form>
       </div>
     </div>
   </div>
 </div>
+ 
