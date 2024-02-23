@@ -23,6 +23,15 @@
   align-items: center;
 }
 
+.info-box__download-content {
+  p {
+    margin-bottom: govuk-spacing(6);
+  }
+  a {
+    font-weight: bold;
+  }
+}
+
 .markdown-page {
   .info-box {
     margin-bottom: govuk-spacing(2);
