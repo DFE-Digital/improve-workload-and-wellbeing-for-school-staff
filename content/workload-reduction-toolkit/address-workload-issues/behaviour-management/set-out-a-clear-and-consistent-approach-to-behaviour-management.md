@@ -19,7 +19,7 @@ layout: /markdown_resource.html.erb
 
 **Number of pupils**: 1000
 
-**Contact details**: Email deputy headteacher Chris Gibson at <cgibson@kingcharles1.worcs.sch.uk>
+**Contact details**: Email Deputy Headteacher Chris Gibson at <cgibson@kingcharles1.worcs.sch.uk>
 
 {/inset-text}
 
