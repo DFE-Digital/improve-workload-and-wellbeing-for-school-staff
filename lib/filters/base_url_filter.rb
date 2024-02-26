@@ -18,7 +18,7 @@ module Nanoc
           url = node[attr]
 
           # Prepend base_url to relative paths
-          node[attr] = "#{base_url}/#{url}" if url && !url.start_with?('http', '/')
+          node[attr] = "#{base_url}/#{url}" if url && !url.start_with?('http', '/', 'mailto')
         end
 
         doc.to_html
