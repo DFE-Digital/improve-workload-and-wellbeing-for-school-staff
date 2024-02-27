@@ -342,6 +342,12 @@ main {
   }
 }
 
+.content-section--green {
+  .govuk-inset-text {
+    border-color: #279b91;
+  }
+}
+
 .govuk-tag {
   background-color: govuk-colour("blue");
   color: govuk-colour("white");
