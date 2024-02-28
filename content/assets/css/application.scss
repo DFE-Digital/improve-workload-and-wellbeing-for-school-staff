@@ -180,7 +180,7 @@
   text-decoration: none;
 }
 
-.govuk-button {
+.govuk-button--blue {
   background-color: #003a69;
   color: #ffffff;
   padding: 12px 15px;
@@ -188,16 +188,16 @@
   font-weight: bold;
 }
 
-.govuk-button:hover {
+.govuk-button--blue:hover {
   background-color: #1d70b8;
 }
 
-.govuk-button:active {
+.govuk-button--blue:active {
   background-color: #1d70b8;
   border: 2px solid #ffdd00;
 }
 
-.govuk-button:focus {
+.govuk-button--blue:focus {
   // outline: 4px solid #FFDD00;
   outline-offset: 2px;
 }
@@ -370,7 +370,8 @@ main {
 
 .govuk-footer {
   margin-top: govuk-spacing(9);
-  p, a {
+  p,
+  a {
     font-size: 1rem;
   }
 }
@@ -455,11 +456,6 @@ main {
     cursor: pointer;
     text-decoration-thickness: 3px;
   }
-}
-
-.cookie-button {
-  font-size: 1.2rem;
-  font-weight: normal;
 }
 
 .govuk-cookie-banner {
