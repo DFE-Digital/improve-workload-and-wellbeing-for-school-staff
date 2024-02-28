@@ -1,6 +1,5 @@
 ---
 title: Staff workload survey
-layout: /markdown_resource.html.erb
 colour: pink
 ---
 

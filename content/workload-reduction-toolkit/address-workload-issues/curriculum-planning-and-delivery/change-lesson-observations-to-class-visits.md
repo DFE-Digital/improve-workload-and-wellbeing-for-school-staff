@@ -1,6 +1,5 @@
 ---
 title: Change lesson observations to class visits
-layout: /markdown_resource.html.erb
 ---
 
 # Change lesson observations to class visits

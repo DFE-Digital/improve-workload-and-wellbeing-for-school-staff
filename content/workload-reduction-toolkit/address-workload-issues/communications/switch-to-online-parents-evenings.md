@@ -1,6 +1,5 @@
 ---
 title: Switch to online parents' evenings
-layout: /markdown_resource.html.erb
 ---
 
 # Switch to online parents’ evenings

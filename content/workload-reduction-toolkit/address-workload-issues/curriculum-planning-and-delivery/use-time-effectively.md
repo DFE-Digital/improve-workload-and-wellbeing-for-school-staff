@@ -1,6 +1,5 @@
 ---
 title: Use time effectively and work together when planning your curriculum
-layout: /markdown_resource.html.erb
 ---
 
 # Use time effectively and work together when planning your curriculum

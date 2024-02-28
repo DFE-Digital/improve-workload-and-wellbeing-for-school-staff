@@ -1,6 +1,5 @@
 ---
 title: School email protocol
-layout: /markdown_resource.html.erb
 ---
 
 # School email protocol

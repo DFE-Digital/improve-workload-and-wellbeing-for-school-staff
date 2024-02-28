@@ -1,6 +1,5 @@
 ---
 title: Streamline internal school communications
-layout: /markdown_resource.html.erb
 ---
 
 # Streamline internal school communications
@@ -40,14 +39,10 @@ layout: /markdown_resource.html.erb
       </p>
       <ul>
         <li>efficiency</li>
-        
         <li>less time wasted</li>
-      
         <li>being kept informed</li>
-      
         <li>sufficient notice of changes</li>
       </ul>
-
       <p>
         There was no change in teacher perception on responding to emails outside of work.
       </p>

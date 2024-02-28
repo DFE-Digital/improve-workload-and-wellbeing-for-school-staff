@@ -1,6 +1,5 @@
 ---
 title: Improve how you give feedback to primary pupils
-layout: /markdown_resource.html.erb
 ---
 
 # Improve how you give feedback to primary pupils

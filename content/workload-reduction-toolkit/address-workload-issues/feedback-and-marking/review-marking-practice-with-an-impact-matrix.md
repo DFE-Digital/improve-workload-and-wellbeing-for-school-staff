@@ -1,6 +1,5 @@
 ---
 title: Review marking practice with an impact matrix
-layout: /markdown_resource.html.erb
 ---
 
 # Review marking practice with an impact matrix

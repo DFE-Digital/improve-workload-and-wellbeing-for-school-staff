@@ -1,6 +1,5 @@
 ---
 title: Develop a culture of support and staff development
-layout: /markdown_resource.html.erb
 ---
 
 # Develop a culture of support and staff development
