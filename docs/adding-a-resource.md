@@ -35,7 +35,6 @@ different colour scheme, you need to state it at the top of the file:
 ```
 ---
 title: TITLE
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 ```
