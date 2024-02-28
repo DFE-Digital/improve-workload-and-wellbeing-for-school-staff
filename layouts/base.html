@@ -12,7 +12,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 
-<body class="govuk-template__body  js-enabled">
+<body class="govuk-template__body js-enabled">
+  <%= render '/partials/cookies_banner.*' %>
+
   <header class="dfe-header" role="banner">
     <div class="dfe-width-container dfe-header__container">
       <div class="dfe-header__logo">
@@ -117,12 +119,20 @@
     <div class="govuk-width-container">
       <div class="govuk-footer__meta">
         <div class="govuk-footer__meta-item govuk-footer__meta-item--grow">
+          <ul class="govuk-footer__inline-list govuk-!-margin-bottom-5">
+            <li class="govuk-footer__inline-list-item">
+              <a href="<%= @base_url %>/#" class="govuk-link govuk-footer__link">Accessibility statement</a>
+            </li>
+            <li class="govuk-footer__inline-list-item">
+              <a href="<%= @base_url %>/cookie-policy" class="govuk-link govuk-footer__link">Cookie policy</a>
+            </li>
+          </ul>
           <div class="govuk-footer__contact">
             <p class="govuk-footer__contact-title">Contact us for support</p>
             <p class="govuk-footer__contact-description">
               Contact us via this email:
               <a href="mailto:school.workloadandwellbeing@education.gov.uk"
-                class="govuk-link">school.workloadandwellbeing@education.gov.uk</a>,
+                class="govuk-link govuk-footer__link">school.workloadandwellbeing@education.gov.uk</a>,
               if you need further support. You should hear back from us within 10
               working days.
             </p>
@@ -149,6 +159,8 @@
     </div>
   </footer>
   <script type="module" src="<%= @base_url %>/assets/javascripts/dfefrontend.js"></script>
+  <script type="module" src="<%= @base_url %>/assets/javascripts/cookies_banner.js"></script>
+  <script type="module" src="<%= @base_url %>/assets/javascripts/cookies_page.js"></script>
 </body>
 
 </html>
