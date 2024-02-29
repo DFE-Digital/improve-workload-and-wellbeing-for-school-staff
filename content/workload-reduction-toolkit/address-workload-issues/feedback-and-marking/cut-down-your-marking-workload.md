@@ -1,6 +1,5 @@
 ---
 title: Cut down your marking workload
-layout: /markdown_resource.html.erb
 ---
 
 # Cut down your marking workload

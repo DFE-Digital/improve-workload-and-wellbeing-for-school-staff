@@ -1,6 +1,5 @@
 ---
 title: Secondary school feedback policy
-layout: /markdown_resource.html.erb
 ---
 
 # Secondary school feedback policy

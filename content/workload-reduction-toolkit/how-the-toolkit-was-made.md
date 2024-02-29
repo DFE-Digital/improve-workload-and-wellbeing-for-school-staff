@@ -1,5 +1,6 @@
 ---
 title: How the toolkit was made and tested
+layout: /markdown_layout.html.erb
 ---
 
 # How the toolkit was made and tested

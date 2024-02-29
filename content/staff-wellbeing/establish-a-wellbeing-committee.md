@@ -1,6 +1,5 @@
 ---
 title: Establish a wellbeing committee
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 

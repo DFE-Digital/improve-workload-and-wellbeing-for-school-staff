@@ -1,6 +1,5 @@
 ---
 title: Give feedback effectively without creating an unmanageable workload
-layout: /markdown_resource.html.erb
 ---
 
 # Give feedback effectively without creating an unmanageable workload

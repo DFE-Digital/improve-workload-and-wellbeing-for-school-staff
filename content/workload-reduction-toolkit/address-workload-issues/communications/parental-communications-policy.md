@@ -1,6 +1,5 @@
 ---
 title: Parental communications policy
-layout: /markdown_resource.html.erb
 ---
 
 # Parental communications policy

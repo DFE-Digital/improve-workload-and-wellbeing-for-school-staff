@@ -1,6 +1,5 @@
 ---
 title: Give feedback and avoid marking in primary schools
-layout: /markdown_resource.html.erb
 ---
 
 # Give feedback and avoid marking in primary schools

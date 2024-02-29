@@ -1,6 +1,5 @@
 ---
 title: INSERT-TITLE
-layout: /markdown_resource.html.erb
 ---
 
 # INSERT-TITLE

@@ -1,5 +1,6 @@
 ---
 title: Supporting staff mental health in schools
+layout: /markdown_layout.html.erb
 ---
 
 # Supporting staff mental health in schools

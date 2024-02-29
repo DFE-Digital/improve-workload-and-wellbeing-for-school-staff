@@ -1,6 +1,5 @@
 ---
 title: Try ideas to manage planning and curriculum workload
-layout: /markdown_resource.html.erb
 ---
 
 # Try ideas to manage planning and curriculum workload
