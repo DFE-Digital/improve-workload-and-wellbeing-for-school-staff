@@ -45,7 +45,7 @@ colour: blue
   </div>
 </div>
 
-## Background from Deputy Headteacher David Lowbridge-Ellis
+## Background from David Lowbridge-Ellis, Deputy Headteacher
 
 {inset-text}
 
