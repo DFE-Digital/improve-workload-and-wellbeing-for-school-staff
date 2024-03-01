@@ -65,7 +65,8 @@ colour: blue
           </li>
           <li>
             a team of loyal and committed staff 
-            </li>
+          </li>
+        </ul>
       </p>
       <p>
         Staff have reported that wellbeing and workload has been assessed when leaders introduce new initiatives.
