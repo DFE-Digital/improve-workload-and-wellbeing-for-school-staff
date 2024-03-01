@@ -11,7 +11,7 @@ colour: pink
 
 ## School details
 
-**School name**:Kensington Primary School
+**School name**: Kensington Primary School
 
 **Location**: Newham
 
