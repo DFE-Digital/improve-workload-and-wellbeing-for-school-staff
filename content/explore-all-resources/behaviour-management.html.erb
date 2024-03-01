@@ -9,38 +9,48 @@ layout: /explore_resources.html.erb
 
 <div class="explore-resource-card-group">
   <%= render('/partials/explore_resource_card.*',
-    title: "Example behaviour for learning protocols",
-    href: "#",
+    title: "Review and streamline behaviour management",
+    href: "#{@base_url}/workload-reduction-toolkit/address-workload-issues/behaviour-management/review-and-streamline-behaviour-management",
+    tag:  "Behaviour management",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Presentation"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Set out a clear and consistent approach to behaviour management",
+    href: "#{@base_url}/workload-reduction-toolkit/address-workload-issues/behaviour-management/set-out-a-clear-and-consistent-approach-to-behaviour-management",
     tag:  "Behaviour management",
     tag_colour: "purple",
     details: {
       resource_type: "Example",
-      reading_time: "5 minutes",
+      reading_time: "2 minutes",
       created_by: "King Charles I Secondary School"
     }
   )%>
 
   <%= render('/partials/explore_resource_card.*',
-    title: "8 ways we manage behaviour management workload",
-    href: "#",
+    title: "Try ideas to manage behaviour management workload",
+    href: "#{@base_url}/workload-reduction-toolkit/address-workload-issues/behaviour-management/try-ideas-to-manage-behaviour-management-workload",
     tag:  "Behaviour management",
     tag_colour: "purple",
     details: {
       resource_type: "Case study",
-      reading_time: "TBC",
+      reading_time: "2 minutes",
       created_by: "King Charles I Secondary School"
     }
   )%>
 
   <%= render('/partials/explore_resource_card.*',
-    title: "Setting up a central referral system for pupil behaviour",
-    href: "#",
+    title: "Set up a centralised system to record, monitor and reward pupil behaviour",
+    href: "#{@base_url}/workload-reduction-toolkit/address-workload-issues/behaviour-management/set-up-a-centralised-system-to-record-monitor-and-reward-pupil-behaviour",
     tag:  "Behaviour management",
     tag_colour: "purple",
     details: {
       resource_type: "Example",
-      reading_time: "5 minutes",
-      created_by: "Redbridge Community School (Secondary)"
+      reading_time: "2 minutes",
+      created_by: "Redbridge Community Secondary School"
     }
   )%>
 </div>
