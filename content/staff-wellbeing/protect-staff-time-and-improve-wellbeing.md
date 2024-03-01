@@ -42,7 +42,7 @@ colour: blue
   </div>
 </div>
 
-## Background from Headteacher Julie Kelly
+## Background from Julie Kelly, Headteacher
 
 {inset-text}
 
