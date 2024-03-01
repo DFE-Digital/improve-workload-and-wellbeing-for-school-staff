@@ -4,7 +4,7 @@ layout: /markdown_resource.html.erb
 colour: blue
 ---
 
-# title
+# Try ideas to improve staff wellbeing
 
 <strong class="govuk-tag">type</strong>
 
