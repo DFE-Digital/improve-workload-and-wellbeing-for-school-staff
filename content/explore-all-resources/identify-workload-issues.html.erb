@@ -95,4 +95,15 @@ layout: /explore_resources.html.erb
       created_by: "Hilltop Infant School"
     }
   )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Share progress with staff",
+    href: "#{@base_url}/workload-reduction-toolkit/identify-workload-issues/share-progress-with-staff",
+    tag:  "Identify workload issues",
+    tag_colour: "pink",
+    details: {
+      resource_type: "Template",
+      reading_time: "1 minute",
+    }
+  )%>
 </div>
