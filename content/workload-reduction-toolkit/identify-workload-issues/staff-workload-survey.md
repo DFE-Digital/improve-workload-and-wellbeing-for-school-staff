@@ -15,7 +15,7 @@ resources from the workload reduction toolkit.
   <div class="govuk-grid-column-full">
     <div class="info-box">
       <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Download icon">
+        <img src="/assets/images/clipboard-icon.svg" alt="Clipboard icon">
       </div>
       <p>
         The survey can be edited to meet the needs of your setting and
@@ -62,7 +62,7 @@ resources from the workload reduction toolkit.
         </div>
         <div class="govuk-grid-column-one-half">
           <p class="govuk-body-s">
-            <strong>Resourced type:</strong> Template
+            <strong>Resource type:</strong> Template
           </p>
           <p class="govuk-body-s">
             <strong>File type:</strong> Document, 70KB, 5 pages

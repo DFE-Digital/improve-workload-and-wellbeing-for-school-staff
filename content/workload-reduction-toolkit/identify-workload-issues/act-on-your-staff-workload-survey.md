@@ -71,6 +71,6 @@ a governor with a particular focus on workload or wellbeing, they may be able 
 help analyse the results. You could also use a more informal approach during a
 whole staff session.
 
-You could also consider how you stagger any changes, see [Plan your yearly calendar](/workload-reduction-toolkit/identify-workload-issues/plan-your-yearly-calendar/).
+You could also consider how you stagger any changes, by [planning your yearly calendar](/workload-reduction-toolkit/identify-workload-issues/plan-your-yearly-calendar/).
 
 Surveying your staff regularly will help you to measure impact over time.

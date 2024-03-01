@@ -57,8 +57,8 @@ the whole school, teams or departments.
 
 ## Presentation length
 
-1 hour 15 minutes. You should also allocate time for the facilitator to prepare
-the session for use in your school.
+The presentation should take 1 hour and 15 minutes. You should also allocate
+time for the facilitator to prepare the session for use in your school.
 
 ## How to run with your staff 
 

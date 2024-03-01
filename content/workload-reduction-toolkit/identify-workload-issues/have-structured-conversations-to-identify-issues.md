@@ -14,7 +14,7 @@ teachers about their workload issues.
   <div class="govuk-grid-column-full">
     <div class="info-box">
       <div class="info-box__corner">
-        <img src="/assets/images/clipboard-icon.svg" alt="Clipboard icon">
+        <img src="/assets/images/download-icon.svg" alt="Download icon">
       </div>
       <h2 class="govuk-heading-m">
         Download the template
@@ -25,7 +25,7 @@ teachers about their workload issues.
         </div>
         <div class="govuk-grid-column-one-half">
           <p class="govuk-body-s">
-            <strong>Resourced type:</strong> Template
+            <strong>Resource type:</strong> Template
           </p>
           <p class="govuk-body-s">
             <strong>File type:</strong> Document, TBC
