@@ -89,7 +89,7 @@ We do not have a hierarchical approach to professional development, recognising 
 
 * have a bespoke development package for second and third year teachers 
 
-###Socialise and support one another 
+### Socialise and support one another 
 
 We: 
 
