@@ -40,8 +40,9 @@ colour: blue
             the amount of data being gathered was reduced, and therefore the time being spent by staff inputting it without any detrimental impact on pupil outcomes
           </li> 
           <li>
-          staff have become more confident in the use of IT and feel they can work more efficiently
+            staff have become more confident in the use of IT and feel they can work more efficiently
           </li>
+        </ul>
       </p>
     </div>
   </div>
