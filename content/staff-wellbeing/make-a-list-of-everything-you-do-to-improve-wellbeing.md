@@ -40,6 +40,7 @@ colour: blue
         <li>
           think about what else you could do 
         </li>
+      </ul>
     </div>
   </div>
 </div>
