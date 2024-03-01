@@ -56,11 +56,21 @@ class CookieBanner {
 
   accept() {
     this.saveAnswer(ACCEPT_VALUE);
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      event: "consentUpdate",
+      consentStatus: true,
+    });
     startGoogleAnalytics();
   }
 
   reject() {
     this.saveAnswer(REJECT_VALUE);
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push({
+      event: "consentUpdate",
+      consentStatus: false,
+    });
   }
 
   showBanner() {
