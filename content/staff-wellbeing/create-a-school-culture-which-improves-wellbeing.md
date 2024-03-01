@@ -81,7 +81,7 @@ In the early days, we felt that staff weren’t sufficiently engaged in our appr
 
 * creating a school calendar 
 
-Over time, we have empowered staff to use their professional judgement to make the best decisions for their children. This can be seen in our [marking policy](https://improve-workload-and-wellbeing-for-school-staff.education.gov.uk/workload-reduction-toolkit/address-workload-issues/feedback-and-marking/improve-how-you-give-feedback-to-primary-pupils/), which encourages you to mark when you believe it will make the greatest impact on teaching.  
+Over time, we have empowered staff to use their professional judgement to make the best decisions for their children. This can be seen in our [marking policy](/workload-reduction-toolkit/address-workload-issues/feedback-and-marking/improve-how-you-give-feedback-to-primary-pupils/), which encourages you to mark when you believe it will make the greatest impact on teaching.  
 
 ## Work together and support when needed 
 
