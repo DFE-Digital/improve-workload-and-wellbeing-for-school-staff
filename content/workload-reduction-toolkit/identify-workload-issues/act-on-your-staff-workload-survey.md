@@ -18,7 +18,7 @@ staff workload survey, prioritise next steps and identify:
   <div class="govuk-grid-column-full">
     <div class="info-box">
       <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Bullseye icon">
+        <img src="/assets/images/download-icon.svg" alt="Download icon">
       </div>
       <h2 class="govuk-heading-m">
         Download the presentation

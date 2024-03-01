@@ -10,6 +10,37 @@ colour: pink
 A structured conversation template to help gather information from staff and
 teachers about their workload issues.
 
+<div class="govuk-grid-row dfe-width-container govuk-!-padding-bottom-6">
+  <div class="govuk-grid-column-full">
+    <div class="info-box">
+      <div class="info-box__corner">
+        <img src="/assets/images/clipboard-icon.svg" alt="Clipboard icon">
+      </div>
+      <h2 class="govuk-heading-m">
+        Download the template
+      </h2>
+      <div class="govuk-grid-row info-box__download-content">
+        <div class="govuk-grid-column-one-half">
+          <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+        </div>
+        <div class="govuk-grid-column-one-half">
+          <p class="govuk-body-s">
+            <strong>Resourced type:</strong> Template
+          </p>
+          <p class="govuk-body-s">
+            <strong>File type:</strong> Document, TBC
+          </p>
+          <p>
+            <a class="govuk-link govuk-link--no-visited-state" href="#">
+              Download
+            </a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 ## Adapt the template
 
 Edit the template to better reflect your school.

@@ -51,13 +51,10 @@ If a task has:
 
 - a low workload and a high impact on teaching and learning, this suggests the
   task is worthwhile and doesn’t require any changes
-
 - a high workload and a high impact on teaching and learning, this suggests the
   task is still worth completing but should be streamlined if possible
-
 - a low workload and a low impact on teaching and learning, consider whether it
   could be amended to have a higher impact or discontinued
-
 - a high workload and a low impact on teaching and learning, it should be
   amended, refined or discontinued as soon as possible
 

@@ -25,10 +25,9 @@ colour: pink
 
 ## Background from Neil Cully, Headteacher
 
-Notre Dame High School created a wellbeing committee [link to establishing a
-wellbeing committee resource] that issued a workload survey to its staff. They
-used the results to create an action plan which focuses on improving staff
-wellbeing and reducing workload.
+Notre Dame High School [created a wellbeing committee](/staff-wellbeing/establish-a-wellbeing-committee)
+that issued a workload survey to its staff. They used the results to create an
+action plan which focuses on improving staff wellbeing and reducing workload.
 
 The action plan outlines the key areas of focus, the actions that need to be
 taken, what success looks like and the timescale for actions to be taken.

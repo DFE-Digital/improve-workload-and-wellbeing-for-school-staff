@@ -15,7 +15,7 @@ resources from the workload reduction toolkit.
   <div class="govuk-grid-column-full">
     <div class="info-box">
       <div class="info-box__corner">
-        <img src="/assets/images/clipboard-icon.svg" alt="Clipboard icon">
+        <img src="/assets/images/download-icon.svg" alt="Download icon">
       </div>
       <p>
         The survey can be edited to meet the needs of your setting and
