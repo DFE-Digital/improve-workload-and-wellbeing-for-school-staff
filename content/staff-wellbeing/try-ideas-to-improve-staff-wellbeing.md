@@ -44,7 +44,8 @@ colour: blue
           </li>
           <li>
             continuously reviewing and evaluating our systems in order to support all staff to achieve a healthy work life balance
-          </li>       
+          </li>
+        </ul>
       </p>
     </div>
   </div>
