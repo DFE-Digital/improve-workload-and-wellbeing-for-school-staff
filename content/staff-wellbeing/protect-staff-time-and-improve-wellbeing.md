@@ -1,6 +1,5 @@
 ---
 title: Protect staff time and improve wellbeing
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 

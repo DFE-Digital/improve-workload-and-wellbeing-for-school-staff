@@ -1,6 +1,5 @@
 ---
 title: Create a school culture which improves wellbeing
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 

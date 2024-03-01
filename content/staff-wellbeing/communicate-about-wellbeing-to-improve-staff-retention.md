@@ -1,6 +1,5 @@
 ---
 title: Communicate about wellbeing to improve staff retention 
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 

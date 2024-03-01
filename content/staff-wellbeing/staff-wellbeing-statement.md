@@ -1,6 +1,5 @@
 ---
 title: Staff wellbeing statement
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 

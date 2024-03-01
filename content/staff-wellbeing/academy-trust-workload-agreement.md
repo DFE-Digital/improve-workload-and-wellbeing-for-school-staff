@@ -1,6 +1,5 @@
 ---
 title: Academy trust workload agreement 
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 

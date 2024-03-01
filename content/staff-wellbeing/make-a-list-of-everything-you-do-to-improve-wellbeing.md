@@ -1,6 +1,5 @@
 ---
 title: Make a list of everything you do to improve wellbeing 
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 

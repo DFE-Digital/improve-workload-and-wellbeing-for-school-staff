@@ -1,6 +1,5 @@
 ---
 title: Try ideas to improve staff wellbeing
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 

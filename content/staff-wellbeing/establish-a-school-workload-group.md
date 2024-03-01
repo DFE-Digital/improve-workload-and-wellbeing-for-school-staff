@@ -1,6 +1,5 @@
 ---
 title: Establish a school workload group
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 

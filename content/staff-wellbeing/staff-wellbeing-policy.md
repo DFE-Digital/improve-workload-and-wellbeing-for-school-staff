@@ -1,6 +1,5 @@
 ---
 title: Staff wellbeing policy 
-layout: /markdown_resource.html.erb
 colour: blue
 ---
 
