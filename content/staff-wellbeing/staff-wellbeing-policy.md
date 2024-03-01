@@ -71,7 +71,7 @@ colour: blue
   </div>
 </div>
 
-## Background from Vice Principal Mary Hall
+## Background from Mary Hall, Vice Principal
 
 {inset-text}
 
