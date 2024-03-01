@@ -101,7 +101,7 @@ We now have “Kensington Matters” groups – cross-sections of staff that get
 
 We regularly play a game called ‘keep, tweak or ditch’, where we ask staff and children to organise different initiatives into the three categories. We then use this to evaluate work and decide on next steps.  
 
-Every year we ask staff to [list anything they do that doesn’t positively impact pupils](https://improve-workload-and-wellbeing-for-school-staff.education.gov.uk/workload-reduction-toolkit/identify-workload-issues/prioritise-change-using-impact-graphs). This has dwindled from a full sheet of post-it notes in the first year to one or two at the last attempt. 
+Every year we ask staff to [list anything they do that doesn’t positively impact pupils](/workload-reduction-toolkit/identify-workload-issues/prioritise-change-using-impact-graphs). This has dwindled from a full sheet of post-it notes in the first year to one or two at the last attempt. 
 
 ## Use research to inform these decisions 
 
