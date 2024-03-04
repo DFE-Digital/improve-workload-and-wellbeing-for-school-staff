@@ -77,7 +77,10 @@ colour: blue
 
 At the Pingle Academy we have introduced practices to support staff wellbeing.  
 
-For example, we train line managers at all levels, we have reduced the volume of emails sent to staff, and we avoid directed time after 4:30pm.  
+For example, we: 
+* train line managers at all levels
+* reduced the volume of emails sent to staff
+* avoid directed time after 4:30pm.  
 
 Staff have access to a number of resources to support their mental health. 
 
@@ -125,23 +128,25 @@ All staff are expected to:
 
 Line managers are expected to: 
 
-* monitor workloads, be alert to signs of stress and regularly talk to staff about their work life balance 
+* monitor workloads, be alert to signs of stress and regularly talk to staff about their work-life balance 
 
 * maintain positive relationships with their staff and value them for their skills and contributions, not their working pattern 
 
 * familiarise themselves with trust and academy policies related to wellbeing 
 
-* feature discussion of wellbeing as part of line management and faculty meetings 
+* discuss wellbeing as part of line management and faculty meetings 
 
 * make sure new staff are given a thorough induction programme and feel able to ask for help  
 
 * provide a non-judgemental and confidential support system to their staff 
 
-* understand that personal issues and pressures at work may have a temporary effect on work performance and take that into account during any appraisal or capability procedures 
+* understand that personal issues and pressures at work may have a temporary effect on work performance
+
+* make sure any personal  issues are taken into account during any appraisal or capability procedures 
 
 * promote information about, and access to, external support services 
 
-* help to arrange personal and professional development training where appropriate 
+* help arrange personal and professional development training where appropriate 
 
 * keep in touch with staff if they are absent for long periods and conduct return to work interviews to support staff back into work 
 
@@ -159,13 +164,15 @@ Senior staff are expected to:
 
 * manage a non-judgemental and confidential support system for staff 
 
-* monitor the wellbeing of staff through regular surveys and structured conversations. 
+* monitor the wellbeing of staff through regular surveys and structured conversations
 
 * make sure accountability systems are based on trust and professional dialogue, with proportionate amounts of direct monitoring 
 
 * regularly review the demands on staff, such as the time spent on paperwork, and seek alternative solutions wherever possible 
 
-* make sure job descriptions are kept up to date, with clearly identified responsibilities, and consult staff before any changes 
+* make sure job descriptions are kept up-to-date, with clearly identified responsibilities
+
+* consult staff before any changes are made to job descriptions
 
 * listen to the views of staff and involve them in decision-making processes, including consideration of any workload implications of new initiatives 
 
@@ -215,7 +222,7 @@ The local governing body is expected to:
 
 ## Managing specific wellbeing issues 
 
-The academy will support and discuss options with any member of staff who raises wellbeing issues, such as if they are experiencing significant stress at the academy or in their personal lives.  
+The academy will support and discuss options with any member of staff who raises wellbeing issues. This can include situations where they are experiencing significant stress at the academy or in their personal lives.  
 
 Where possible, support will be given by line managers or senior staff.  
 
@@ -225,13 +232,15 @@ Support could be given through:
 
 * reassessing their workload and deciding what tasks to prioritise 
 
-* temporarily relieving of some duties 
+* temporarily relieving them of some duties 
 
 * giving staff time off to deal with a personal crisis 
 
 * arranging external support, such as counselling or occupational health services 
 
-* the flexible working hours policy – this policy aims to cater for the needs of all staff and wherever possible the principal supports requests from staff for reduced or part time working where personal circumstances mean that it would improve their work-life balance 
+* the flexible working hours policy, which aims to cater for the needs of all staff
+
+* the principal supporting requests from staff for reduced or part-time working, where personal circumstances mean that it would improve their work-life balance 
 
 * completing a risk assessment and following through with any actions identified 
 
@@ -239,7 +248,7 @@ Support could be given through:
 
 ## Academy wellbeing committee and plan 
 
-The academy will facilitate a wellbeing committee with members from across the staff whose role will be to develop an action plan to promote a range of wellbeing interventions. It will: 
+The academy will facilitate a wellbeing committee with members from across the staff. Their role will be to develop an action plan to promote a range of wellbeing interventions. It will: 
 
 * seek the views of staff on wellbeing regularly and promote and communicate wellbeing activities   
 
