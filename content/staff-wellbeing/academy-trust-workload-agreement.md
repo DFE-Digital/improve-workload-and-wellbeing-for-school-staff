@@ -62,7 +62,7 @@ We developed our academy trust workload agreement to support better recruitment 
 
 ## Ensuring fair and reasonable workload 
 
-Ascent Trust ensures fair and reasonable workload through:  
+How the Ascent Trust ensures fair and reasonable workload:  
 
 * the executive leadership team’s commitment to reducing work hours (above and beyond 1265) for all teachers and a Trust review of TA contractual hours and duties  
 
