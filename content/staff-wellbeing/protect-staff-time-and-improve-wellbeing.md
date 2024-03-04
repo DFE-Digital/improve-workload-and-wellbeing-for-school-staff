@@ -82,7 +82,7 @@ We also invest in ex-teachers who wanted to step back and are now supporting tea
 
 ## Provide time off timetable for longer projects 
 
-We give teachers additional time off timetable time to complete longer projects and tasks.  
+We give teachers additional time off from their timetable to complete longer projects and tasks.  
 
 The senior leadership team or supply teachers cover their time off timetable.  
 
