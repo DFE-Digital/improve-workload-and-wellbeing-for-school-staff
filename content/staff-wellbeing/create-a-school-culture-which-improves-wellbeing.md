@@ -97,7 +97,7 @@ Throughout, we have worked with staff. This has taken many forms – both formal
 
 There are many times when we have adapted what we were doing because the pace of change meant that cracks were beginning to show.  
 
-We now have “Kensington Matters” groups – cross-sections of staff that get feedback on key initiatives and how these are rolling out across the school.  
+We now have 'Kensington Matters' groups – cross-sections of staff that get feedback on key initiatives and how these are rolling out across the school.  
 
 We regularly play a game called ‘keep, tweak or ditch’, where we ask staff and children to organise different initiatives into the three categories. We then use this to evaluate work and decide on next steps.  
 
@@ -117,4 +117,4 @@ We also spent time considering Pareto’s Law: 20% of the inputs create 80% of t
 
 All of this is part of an ongoing process. As the school continues to change, we will tweak some initiatives and ditch others.  
 
-What won’t change is our focus on staff wellbeing. Teaching is an incredibly demanding profession, we strongly believe that for the children to be the best they can be, we need to take care of ourselves and each other. 
+What won’t change is our focus on staff wellbeing. Teaching is an incredibly demanding profession. We strongly believe that for the children to be the best they can be, we need to take care of ourselves and each other. 
