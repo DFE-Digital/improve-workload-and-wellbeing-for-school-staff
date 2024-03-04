@@ -168,7 +168,7 @@ Senior staff are expected to:
 
 * make sure accountability systems are based on trust and professional dialogue, with proportionate amounts of direct monitoring 
 
-* regularly review the demands on staff, such as the time spent on paperwork, and seek alternative solutions wherever possible 
+* regularly review the demands on staff, such as the time spent on paperwork
 
 * make sure job descriptions are kept up-to-date, with clearly identified responsibilities
 
