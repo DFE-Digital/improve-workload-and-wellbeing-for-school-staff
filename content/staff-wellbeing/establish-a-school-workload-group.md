@@ -60,7 +60,7 @@ Baylis Court School set up a working group to address staff workload. This was f
 
 School leaders recognised that they needed to better understand the workload of teaching staff. Leaders wanted to develop possible strategies that would reduce workload for teachers without increasing it for others.  
 
-The group was chaired by a member of the senior leadership team to ensure that there was direct feedback from the group to senior leaders of the school. 
+The group was chaired by a senior leadership team (SLT) member to ensure that direct feedback was given to senior leaders of the school. 
 
 ## How we established our workload group 
 
@@ -72,9 +72,9 @@ For example, to receive feedback on a termly basis about staff workload, and rec
 
 Membership should be representative of staff, and include a range of experience, for example: 
 
-* NQTs 
+* newly qualified teachers (NQTs) 
 
-* teachers 2/3 years into teaching 
+* teachers 2 or 3 years into teaching 
 
 * staff who have taught in at least one other school 
 
@@ -102,7 +102,7 @@ Identify priorities to support staff in managing workload, for example:
 
 * the imbalance between all-staff meetings, department time and individual time 
 
-* scheduling of assessment weeks adjacent to other tasks that may cause more workload, for example, book scrutiny, creating excessive workload at key points each half term 
+* scheduling of assessment weeks adjacent to other tasks that may cause more workload, such as book scrutinies every half term
 
 * excessive volume of data entry required due to assessment changes 
 
@@ -112,11 +112,11 @@ Identify priorities to support staff in managing workload, for example:
 
 Develop an action plan and disseminate this to staff. Examples of actions: 
 
-* review the school’s draft teaching and learning calendar, and make recommendations to support reduction of ‘pressure points’ 
+* review the school’s draft teaching and learning calendar, to make recommendations to support reduction of ‘pressure points’ 
 
 * produce a weekly staff bulletin, to better support communication with staff and reduce the number of meetings and separate emails   
 
-* implement relevant recommendations from the DfE, for example, reduction of the number of data collection points per academic year, ensuring that these were purposeful and minimising marking burdens 
+* implement relevant recommendations from the DfE, such as reducing the number of data collection points per academic year
 
 * effective training for staff on use of IT systems 
 
