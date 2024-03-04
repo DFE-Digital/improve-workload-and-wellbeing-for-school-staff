@@ -443,10 +443,25 @@ main {
 
 .share-resource__icon {
   margin-right: govuk-spacing(4);
+  border-radius: 10px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: govuk-colour("purple");
+}
 
-  img {
-    width: 43px;
-  }
+.share-resource__icon--blue {
+  background-color: govuk_colour("blue");
+}
+
+.share-resource__icon--pink {
+  background-color: #d4357f;
+}
+
+.share-resource__icon--green {
+  background-color: #279b91;
 }
 
 // Style a button like a govuk-link

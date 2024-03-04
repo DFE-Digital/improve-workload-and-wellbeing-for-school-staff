@@ -6,19 +6,23 @@
         <h2 class="govuk-heading-m">Share this resource</h2>
         <div class="share-resource-container">
           <div class="share-resource">
-            <img src="<%= @base_url %>/assets/images/link-purple.svg" alt="Link icon" class="share-resource__icon"/>
+            <div class="share-resource__icon <%= @item[:colour] ? 'share-resource__icon--' + @item[:colour] : nil %>">
+              <img src="<%= @base_url %>/assets/images/link-icon.svg" alt="Link icon"/>
+            </div>
             <button onclick="window.navigator.clipboard.writeText(window.location.href);" class="button-link">
               Copy link
             </button>
           </div>
           <div class="share-resource">
-            <img src="<%= @base_url %>/assets/images/mail-purple.svg" alt="Mail icon" class="share-resource__icon"/>
+            <div class="share-resource__icon <%= @item[:colour] ? 'share-resource__icon--' + @item[:colour] : nil %>">
+              <img src="<%= @base_url %>/assets/images/mail-icon.svg" alt="Mail icon"/>
+            </div>
             <a href="mailto:school.workloadandwellbeing@education.gov.uk?subject=Resource to help with workload and wellbeing for school staff&body=Check out <%= @item[:title] %> to help improve workload and wellbeing for staff in your school: <%= @base_url %><%= @item.path %>">Email</a>
           </div>
         </div>
       </div>  
       <div class="govuk-grid-column-one-third">
-          <%= render '/partials/feedback.*' %>
+        <%= render '/partials/feedback.*' %>
       </div>
     </div>
   </div>
