@@ -73,7 +73,7 @@ We do not grade teachers’ lessons, or expect them to look busy or stay late.
 
 ### Support professional development  
 
-We do not have a hierarchical approach to professional development, recognising that a senior leader can learn from an early career teacher and vice versa. We: 
+We do not have a hierarchical approach to professional development, recognising that a senior leader can learn from an early career teacher (ECT) and vice versa. We: 
 
 * support teachers to complete NPQs 
 
@@ -83,9 +83,9 @@ We do not have a hierarchical approach to professional development, recognising 
 
 * ensure that any professional development finishes no later than 4:15pm and time off in lieu is given  
 
-* ensure that early career teachers have comprehensive support – for example, they have regular meetups, dedicated mentors, coaching and study visits abroad  
+* ensure that ECTs have comprehensive support such as regular meetups, dedicated mentors, coaching and study visits abroad  
 
-* support teachers at all levels to learn from each other – for example, middle leaders shadow senior leaders  
+* support teachers at all levels to learn from each other, such as middle leaders shadowing senior leaders  
 
 * have a bespoke development package for second and third year teachers 
 
@@ -95,7 +95,7 @@ We:
 
 * organise regular staff events outside school 
 
-* have a culture of peer to peer praise – for example, teachers send thank you cards or letters 
+* have a culture of peer-to-peer praise
 
 ### Look after staff health 
 
@@ -105,11 +105,15 @@ We offer free flu jabs and health checks in school.
 
 We: 
 
-* do not have meetings just because they’re in the calendar – we use meetings to talk about curriculum and how we’ll organise, plan and schedule our curriculum 
+* do not have meetings just because they’re in the calendar
+
+* we use meetings to talk about the curriculum and how we’ll organise, plan and schedule it 
 
 * take something away if something new is introduced  
 
-* avoid unnecessary data entry - data is never entered twice and we do not record data that we will not use 
+* avoid unnecessary data entry
+
+* make sure data is never entered twice and we do not record data that we will not use 
 
 * streamline all our systems and processes where possible 
 
@@ -135,11 +139,11 @@ We do not expect teachers to:
 
 We ask staff to provide feedback regularly through surveys.  
 
-Staff can talk to the senior leadership team about any concern, no matter how small. 
+Staff can talk to the senior leadership team (SLT) about any concern, no matter how small. 
 
 ### Reduce behavior management workload 
 
-The senior leadership team help to prevent behavioural issues coming up in class by running lunch duty.  
+The SLT help to prevent behavioural issues coming up in class by running lunch duty.  
 
 We have a rota system to ensure that pupils always see a familiar face and no cover is required. A familiar face better represents the school’s expectations for behaviour. 
 
