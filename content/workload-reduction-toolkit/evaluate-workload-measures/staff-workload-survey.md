@@ -26,34 +26,19 @@ refine any actions you’ve taken to reduce workload.
         primary or secondary settings.
       </p>
       <h2 class="govuk-heading-m">
-        Use online versions of the survey
+        Use the online version of the survey
       </h2>
       <p>
-        You can duplicate and adapt one of these online versions of the
-        staff workload survey:
+        You can duplicate and adapt
+        <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=yXfS-grGoU2187O4s0qC-cn26r-uTMpNqURSfi9lRcVUNEg1UTdMMllFRTM1SEVRRDJWQjE3RUU5VS4u&sharetoken=MJnNysyL44umvL8f97JA"
+        class="govuk-link">
+          this online version
+        </a>
+        of the staff workload survey.
       </p>
       <p>
-        <ul>
-          <li>
-            <a
-              href="https://forms.office.com/Pages/ShareFormPage.aspx?id=yXfS-grGoU2187O4s0qC-cn26r-uTMpNqURSfi9lRcVUNEg1UTdMMllFRTM1SEVRRDJWQjE3RUU5VS4u&sharetoken=MJnNysyL44umvL8f97JA"
-              class="govuk-link">
-              Microsoft Forms - staff workload survey template
-            </a>
-          </li>
-          <li>
-            <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLScrEp_mdZIYbEj404OFKMrRsSFmkFP2p_q_cfVy9wdkoTDtyw/viewform?pli=1"
-              class="govuk-link">
-              Google Forms - staff workload survey template
-            </a>
-          </li>
-        </ul>
-      </p>
-      <p>
-        Some schools find online surveys easier to share with staff than
-        a paper form because they collate the results automatically for
-        you.
+        Some schools find online surveys easier to share with staff than a paper
+        form because they collate the results automatically for you.
       </p>
       <h2 class="govuk-heading-m">
         Download the staff workload survey
@@ -64,7 +49,7 @@ refine any actions you’ve taken to reduce workload.
         </div>
         <div class="govuk-grid-column-one-half">
           <p class="govuk-body-s">
-            <strong>Resourced type:</strong> Template
+            <strong>Resource type:</strong> Template
           </p>
           <p class="govuk-body-s">
             <strong>File type:</strong> Document, 70KB, 5 pages
