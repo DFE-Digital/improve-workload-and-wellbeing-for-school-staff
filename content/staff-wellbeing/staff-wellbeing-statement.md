@@ -52,7 +52,7 @@ colour: blue
   </div>
 </div>
 
-## Background from HR Manager Rachel Boyall
+## Background from Rachel Boyall, HR Manager
 
 {inset-text}
 
@@ -88,21 +88,23 @@ These principles are the cornerstone of our approach to wellbeing at St Peter’
 
 ## Staff wellbeing statement 
 
-St Peter’s recognises its responsibility for the health, safety and welfare of its employees, and understands that wellbeing and performance are linked. We are committed to fostering a culture of co-operation, trust and mutual respect, where all individuals are treated with dignity, and can work at their optimum level.   
+St Peter’s recognises its responsibility for the health, safety and welfare of its employees, and understands that wellbeing and performance are linked. We foster a culture of co-operation, trust and mutual respect, where all individuals are treated with dignity and can work at their optimum level.
 
-We recognise that work-related stress has a negative impact on employees’ wellbeing and that it can take many forms, so it needs to be carefully monitored and addressed at an organisational level.  
+We recognise that work-related stress has a negative impact on employees’ wellbeing and that it can take many forms. It needs to be carefully monitored and addressed at an organisational level.  
 
 At St Peter’s we: 
 
-* carefully plan and agree work-life balance solutions including flexible working practices where possible and appropriate 
+* carefully plan and agree work-life balance solutions, including flexible working practices where possible and appropriate 
 
-* ensure that the right people are recruited to the right jobs and that a good match is obtained between individuals recruited and job descriptions/specifications 
+* ensure that the right people are recruited to the right jobs
 
-* manage pressures which may affect employees, including the impact of workload, and anticipate likely problems, taking action to reduce the effects of these pressures where possible 
+* manage pressures that may affect employees, including the impact of workload
+
+ * anticipate likely problems, taking action to reduce the effects of these pressures where possible 
 
 * pay attention to any changes in employee performance or behaviour and promote sympathetic alertness to employees who show signs of being under stress   
 
-* create opportunities for employees to discuss concerns and enable employees to do so in a supportive environment, through one-to-one meetings and feedback sessions 
+* create opportunities for employees to discuss concerns and enable employees to do so in a supportive environment
 
 * provide an Employment Assistant Programme (EAP), which offers a free 24-hour counselling service 
 
@@ -110,9 +112,9 @@ At St Peter’s we:
 
 * provide Occupational Health support to employees where appropriate   
 
-* carry out a risk assessment, where necessary, and especially when concerns have been raised, as soon as possible   
+* carry out a risk assessment where necessary and addressing any concerns raised as soon as possible
 
-* ensure that when staff are absent, proportionate, and supportive contact is maintained with them, at a mutually agreed frequency 
+* ensure that when staff are absent, proportionate and supportive contact is maintained with them, at a mutually agreed frequency 
 
 * establish a return-to-work policy that is supportive of employee  
 
