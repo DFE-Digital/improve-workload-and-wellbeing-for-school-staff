@@ -1,12 +1,12 @@
 <% wrapped_content=capture do %>
   <div class="govuk-main-wrapper">
-    <div class="govuk-grid-row govuk-width-container dfe-width-container markdown-page <%= @item[:colour] ? 'content-section--' + @item[:colour] : nil %> two-column-page">
+    <div class="govuk-grid-row govuk-width-container dfe-width-container markdown-page content-section--<%= @item[:colour] ?  @item[:colour] : 'purple' %> two-column-page">
       <div class="govuk-grid-column-two-thirds">
         <%= yield %>
         <%= render '/partials/share_this_resource.*' %>
       </div>  
       <div class="govuk-grid-column-one-third">
-        <%= render '/partials/feedback.*' %>
+        <%= render('/partials/feedback.*', colour: @item[:colour] || "purple") %>
       </div>
     </div>
   </div>

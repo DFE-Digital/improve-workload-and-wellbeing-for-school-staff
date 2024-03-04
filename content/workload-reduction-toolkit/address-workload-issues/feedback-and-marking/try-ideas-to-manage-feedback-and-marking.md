@@ -18,7 +18,7 @@ title: Try ideas to manage feedback and marking workload
 
 **Number of pupils:** 1000
 
-**Contact details:** Email Deputy Headteacher Ruth Allen at  <rallen@kingcharles1.worcs.sch.uk>
+**Contact details:** Email Deputy Headteacher Ruth Allen at <rallen@kingcharles1.worcs.sch.uk>
 
 {/inset-text}
 

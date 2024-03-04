@@ -1,7 +1,7 @@
 .info-box {
   position: relative;
   background-color: govuk-colour("light-grey");
-  border-top: 8px solid govuk-colour("purple");
+  border-top: 8px solid govuk-colour("blue");
   padding: govuk-spacing(7) govuk-spacing(9) govuk-spacing(4) govuk-spacing(9);
   margin: govuk-spacing(8) 0 govuk-spacing(8) govuk-spacing(3);
 
@@ -12,7 +12,7 @@
 
 .info-box__corner {
   position: absolute;
-  background: govuk-colour("purple");
+  background: govuk-colour("blue");
   width: 60px;
   height: 60px;
   top: -20px;
@@ -42,13 +42,13 @@
   }
 }
 
-.content-section--blue {
+.content-section--purple {
   .info-box {
-    border-color: govuk-colour("blue");
+    border-color: govuk-colour("purple");
   }
 
   .info-box__corner {
-    background: govuk-colour("blue");
+    background: govuk-colour("purple");
   }
 }
 
