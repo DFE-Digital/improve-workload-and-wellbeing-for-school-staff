@@ -1,6 +1,5 @@
 ---
 title: Try ideas to manage behaviour management workload
-layout: /markdown_resource.html.erb
 ---
 
 # Try ideas to manage behaviour management workload

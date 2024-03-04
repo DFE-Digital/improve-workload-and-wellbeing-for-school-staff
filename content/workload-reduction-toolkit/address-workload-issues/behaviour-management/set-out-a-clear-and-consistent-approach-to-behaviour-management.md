@@ -1,6 +1,5 @@
 ---
 title: Set out a clear and consistent approach to behaviour management
-layout: /markdown_resource.html.erb
 ---
 
 # Set out a clear and consistent approach to behaviour management

@@ -60,7 +60,7 @@ This protocol aims to alleviate the pressure of perceived expectations and contr
 
 ## The school email protocol 
 
-Staff are not expected to check email after 6pm, or over the weekend. For those who want to prepare for the week ahead, a Sunday evening check should be enough. It is a good idea to draw a line under your working day, to maintain a distinction between work life and school life. 
+Staff are not expected to check email outside of working hours. It is a good idea to draw a line under your working day, to maintain a distinction between work life and school life. 
 
 We also decided all emails must have a descriptive heading to make it clear what the email is about. These protocols will be kept under regular review.   
 

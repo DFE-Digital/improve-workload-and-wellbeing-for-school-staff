@@ -1,6 +1,5 @@
 ---
 title: Set up a centralised system to record, monitor and reward pupil behaviour
-layout: /markdown_resource.html.erb
 ---
 
 # Set up a centralised system to record, monitor and reward pupil behaviour
