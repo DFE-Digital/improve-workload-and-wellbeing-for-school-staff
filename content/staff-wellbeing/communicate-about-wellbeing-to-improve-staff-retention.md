@@ -78,11 +78,11 @@ colour: blue
 
 {inset-text}
 
-Wellbeing is at the centre of everything we do. Three years ago we had a high staff turnover, a poor school culture of low expectations and low aspirations and a falling roll. Three years on, we have a very low staff turnover, an increased roll in year 7 and waiting lists in every year group.  
+Wellbeing is at the centre of everything we do. Three years ago we had a high staff turnover, a poor school culture of low expectations, low aspirations and a falling roll. Three years on, we have a very low staff turnover, an increased roll in year 7 and waiting lists in every year group.  
 
- We have transformed our wider community’s perception of our school. The main platform for this change has been a considerable shift in our focus to ensuring student and staff wellbeing is at our core, with open communication to all stakeholders, regular staff consultations and a drive to improve educational standards for students in our school.   
+ We have transformed our wider community’s perception of our school. The main platform for this change has been a considerable shift in our focus, ensuring student and staff wellbeing is at our core. This has included open communication with all stakeholders, regular staff consultations and a drive to improve educational standards for students in our school.   
 
- The Trust supports individual schools to develop wellbeing strategies so that they are focused on the needs of each school as opposed to a generic approach across the Trust. 
+ The Trust supports individual schools to develop wellbeing strategies that are focused on their own needs, as opposed to a generic approach across the Trust. 
 
 {/inset-text}
 
@@ -96,7 +96,7 @@ Staff consultations relating to staff wellness happen regularly and all staff ar
 
 The wellbeing committee comprises staff members and representatives from all departments that hold a range of positions within the Academy. The central aim of the committee is to promote and ensure the wellbeing of all employees at the Academy. The committee will advise the Leadership Team on all matters relating to wellbeing and report to Governors. 
 
-The full committee will meet at least once per half term.  A meeting schedule of these meetings and the membership of the committee will be regularly published to all staff.  
+The full committee will meet at least once per half term.  A schedule of these meetings and the membership of the committee will be regularly published to all staff.  
 
 The wellbeing committee will: 
 
@@ -108,7 +108,7 @@ The wellbeing committee will:
 
 ### Set up a working group 
 
-The workload group will be formed with a different group of staff each term that will meet about staff workload and will make recommendations for colleagues and senior leadership to support staff to manage this.  
+The workload group will be formed with a different group of staff each term. They will meet to talk about staff workload and make recommendations for colleagues and senior leadership, to support staff in managing this.  
 
 The group will be representative of staff, and include a range of experience, for example:  
 
