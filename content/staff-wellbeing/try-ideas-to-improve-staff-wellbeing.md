@@ -5,7 +5,7 @@ colour: blue
 
 # Try ideas to improve staff wellbeing
 
-<strong class="govuk-tag">type</strong>
+<strong class="govuk-tag">Case study</strong>
 
 {inset-text}
 
