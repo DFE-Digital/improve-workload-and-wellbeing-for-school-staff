@@ -196,7 +196,7 @@ BA termly wellbeing weeks consist of a carousel of staff mindfulness, relaxation
 
 Shared breakfast and lunches with staff and students in the restaurant builds on connecting relationships.  
 
-A monthly BA Wellbeing Newsletter is compiled with wellbeing and self- care tips.  
+A monthly BA Wellbeing Newsletter is compiled with wellbeing and self-care tips.  
 
 A DEAR (Drop Everything and Read) programme factors in mindfulness for the students and staff.  
 
