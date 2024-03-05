@@ -74,7 +74,7 @@ colour: blue
   </div>
 </div>
 
-## Background from Chris Deller, Headteacher and Laura Fordham, senior leader and wellbeing lead 
+## Background from Chris Deller, Headteacher and Laura Fordham, senior leader and Wellbeing Lead 
 
 {inset-text}
 
