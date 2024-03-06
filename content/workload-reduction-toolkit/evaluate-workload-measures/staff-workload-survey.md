@@ -29,15 +29,24 @@ refine any actions you’ve taken to reduce workload.
         primary or secondary settings.
       </p>
       <h2 class="govuk-heading-m">
-        Use the online version of the survey
+        Use the online versions of the survey
       </h2>
       <p>
-        You can duplicate and adapt
-        <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=yXfS-grGoU2187O4s0qC-cn26r-uTMpNqURSfi9lRcVUNEg1UTdMMllFRTM1SEVRRDJWQjE3RUU5VS4u&sharetoken=MJnNysyL44umvL8f97JA"
+        You can duplicate and adapt one of these online versions of the survey:
+        <ul>
+          <li>
+            <a href="https://forms.office.com/Pages/ShareFormPage.aspx?id=yXfS-grGoU2187O4s0qC-cn26r-uTMpNqURSfi9lRcVUNEg1UTdMMllFRTM1SEVRRDJWQjE3RUU5VS4u&sharetoken=MJnNysyL44umvL8f97JA"
         class="govuk-link">
-          this online version
-        </a>
-        of the staff workload survey.
+              Microsoft Forms - staff workload survey template
+            </a>
+          </li>
+          <li>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLScrEp_mdZIYbEj404OFKMrRsSFmkFP2p_q_cfVy9wdkoTDtyw/viewform"
+        class="govuk-link">
+              Google Forms - staff workload survey template
+            </a>
+          </li>
+        </ul>
       </p>
       <p>
         Some schools find online surveys easier to share with staff than a paper
@@ -62,6 +71,18 @@ refine any actions you’ve taken to reduce workload.
           </a>
           <p>
             ODP, TBC KB, TBC slides
+          </p>
+          <p class="govuk-body-m">
+            70KB, 5 pages
+          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="#">
+            Download OpenDocument Presentation
+          </a>
+          <p>
+            ODP, TBC KB, TBC slides
+          </p>
+          <p class="govuk-body-m">
+            70KB, 5 pages
           </p>
         </div>
       </div>
