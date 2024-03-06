@@ -53,6 +53,17 @@ layout: /explore_resources.html.erb
   )%>
 
   <%= render('/partials/explore_resource_card.*',
+    title: "Wellbeing and workload charter",
+    href: "#{@base_url}/staff-wellbeing/wellbeing-and-workload-charter",
+    tag:  "Staff wellbeing",
+    details: {
+      resource_type: "Example",
+      reading_time: "6 minutes",
+      created_by: "Bedford Academy (Secondary)"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
     title: "Establish a wellbeing committee",
     href: "#{@base_url}/staff-wellbeing/establish-a-wellbeing-committee",
     tag:  "Staff wellbeing",
@@ -87,7 +98,7 @@ layout: /explore_resources.html.erb
 
   <%= render('/partials/explore_resource_card.*',
     title: "Protect staff time and improve wellbeing",
-    href: "#{@base_url}/staff-wellbeing/",
+    href: "#{@base_url}/staff-wellbeing/protect-staff-time-and-improve-wellbeing",
     tag:  "Staff wellbeing",
     details: {
       resource_type: "Case study",

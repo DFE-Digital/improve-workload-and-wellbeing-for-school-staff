@@ -3,7 +3,7 @@ title: Make a list of everything you do to improve wellbeing
 colour: blue
 ---
 
-# Barr Beacon School
+# Make a list of everything you do to improve wellbeing
 
 <strong class="govuk-tag">Case study</strong>
 

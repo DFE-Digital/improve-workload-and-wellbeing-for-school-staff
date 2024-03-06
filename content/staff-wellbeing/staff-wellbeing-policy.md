@@ -78,8 +78,11 @@ colour: blue
 At the Pingle Academy we have introduced practices to support staff wellbeing.  
 
 For example, we: 
+
 * train line managers at all levels
+
 * reduced the volume of emails sent to staff
+
 * avoid directed time after 4:30pm.  
 
 Staff have access to a number of resources to support their mental health. 

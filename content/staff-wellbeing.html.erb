@@ -70,6 +70,10 @@ title: Staff wellbeing
             <%= render('/partials/resource_card.*', title: "Staff wellbeing statement" ,
                 href: "#{@base_url}/staff-wellbeing/staff-wellbeing-statement" , body: "Read a wellbeing statement developed to support school staff effectively." ,
                 tag: "Example" , details: { reading_time: "3 minutes", created_by: "St. Peter's School (Secondary)" }) %>
+
+            <%= render('/partials/resource_card.*', title: "Wellbeing and workload charter" ,
+              href: "#{@base_url}/staff-wellbeing/wellbeing-and-workload-charter" , body: "Read an example wellbeing and workload charter." , tag: "Example" ,
+              details: { reading_time: "6 minutes" , created_by: "Bedford Academy (Secondary)" }) %>
           </ul>
         </div>
 
@@ -102,7 +106,7 @@ title: Staff wellbeing
         <div class="govuk-grid-row dfe-width-container">
           <ul class="resource-card-group">
 
-            <%= render('/partials/resource_card.*', title: "Protect staff time and improve wellbeing" , href: "#{@base_url}/staff-wellbeing/protect-staff-time-and-improvement-wellbeing" ,
+            <%= render('/partials/resource_card.*', title: "Protect staff time and improve wellbeing" , href: "#{@base_url}/staff-wellbeing/protect-staff-time-and-improve-wellbeing" ,
               body: "Read tips on using time effectively to improve wellbeing." , tag: "Case study" , details: {
               reading_time: "2 minutes" , created_by: "West Meon CofE Primary School" }) %>
 
