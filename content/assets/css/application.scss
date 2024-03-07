@@ -338,16 +338,25 @@ main {
   .govuk-inset-text {
     border-color: govuk_colour("purple");
   }
+  .govuk-section-break--thick {
+    border-color: govuk-colour("purple");
+  }
 }
 
 .content-section--pink {
   .govuk-inset-text {
     border-color: #d4357f;
   }
+  .govuk-section-break--thick {
+    border-color: #d4357f;
+  }
 }
 
 .content-section--green {
   .govuk-inset-text {
+    border-color: #279b91;
+  }
+  .govuk-section-break--thick {
     border-color: #279b91;
   }
 }
@@ -401,11 +410,8 @@ main {
 }
 
 .govuk-section-break--thick {
-  border-width: 4px;
-}
-
-.govuk-section-break--blue {
   border-color: govuk-colour("blue");
+  border-width: 4px;
 }
 
 .two-column-page {

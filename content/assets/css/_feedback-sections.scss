@@ -50,14 +50,10 @@
 //
 // Only do this on desktop size. On smaller screens the section drops to the
 // bottom.
-.markdown-page {
-  .govuk-grid-column-one-third {
-    .feedback-section-container {
-      margin-top: govuk-spacing(9);
+.govuk-section-break-feedback {
+  margin-top: govuk-spacing(9);
 
-      @media only screen and (min-width: 630px) {
-        margin-top: 125px;
-      }
-    }
+  @media only screen and (min-width: 630px) {
+    margin-top: 125px;
   }
 }

@@ -4,8 +4,9 @@
       <div class="govuk-grid-column-two-thirds">
         <%= yield %>
         <%= render '/partials/share_this_resource.*' %>
-      </div>  
+      </div>
       <div class="govuk-grid-column-one-third">
+        <hr class="govuk-section-break--thick govuk-section-break-feedback">
         <%= render('/partials/feedback.*', colour: @item[:colour] || "purple") %>
       </div>
     </div>
