@@ -11,7 +11,7 @@ colour: blue
 
 ## School details
 
-**School name**:  St Peter’s School    
+**School name**: St Peter’s School
 
 **Location**: Huntingdon, Cambridgeshire
 

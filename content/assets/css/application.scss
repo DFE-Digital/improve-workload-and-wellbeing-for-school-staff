@@ -327,16 +327,16 @@ main {
   @include govuk-responsive-padding(6, "left");
   @include govuk-responsive-padding(1, "top");
   @include govuk-responsive-padding(2, "bottom");
-  border-left: $govuk-border-width-wide solid govuk_colour("purple");
+  border-left: $govuk-border-width-wide solid govuk_colour("blue");
 
   h2 {
     @include govuk-font($size: 24, $weight: bold);
   }
 }
 
-.content-section--blue {
+.content-section--purple {
   .govuk-inset-text {
-    border-color: govuk_colour("blue");
+    border-color: govuk_colour("purple");
   }
 }
 
@@ -443,10 +443,25 @@ main {
 
 .share-resource__icon {
   margin-right: govuk-spacing(4);
+  border-radius: 10px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: govuk_colour("purple");
+}
 
-  img {
-    width: 43px;
-  }
+.share-resource__icon--blue {
+  background-color: govuk-colour("blue");
+}
+
+.share-resource__icon--pink {
+  background-color: #d4357f;
+}
+
+.share-resource__icon--green {
+  background-color: #279b91;
 }
 
 // Style a button like a govuk-link
