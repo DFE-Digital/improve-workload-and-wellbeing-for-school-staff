@@ -1,9 +1,9 @@
 ---
-title: Staff workload survey
+title: Identify issues using a staff workload survey
 colour: pink
 ---
 
-# Staff workload survey
+# Identify issues using a staff workload survey
 
 <strong class="govuk-tag">Template</strong>
 
@@ -17,6 +17,9 @@ resources from the workload reduction toolkit.
       <div class="info-box__corner">
         <img src="/assets/images/clipboard-icon.svg" alt="Clipboard icon">
       </div>
+      <h2 class="govuk-heading-m">
+        Edit the survey
+      </h2>
       <p>
         The survey can be edited to meet the needs of your setting and
         you can add, change or remove questions if required. For
@@ -76,7 +79,7 @@ Anderton Park Primary School
 
 ## Suggestions for running a successful survey
 
-School leaders who hve conducted staff surveys in their own schools shared the
+School leaders who have conducted staff surveys in their own schools shared the
 following suggestions for running a successful survey:
 
 ### Decide when and how often to run the survey

@@ -1,5 +1,5 @@
 ---
-title: Staff workload survey
+title: Evaluate impact using a staff workload survey
 layout: /markdown_resource.html.erb
 colour: green
 ---
@@ -19,6 +19,9 @@ refine any actions you’ve taken to reduce workload.
       <div class="info-box__corner">
         <img src="/assets/images/clipboard-icon.svg" alt="Clipboard icon">
       </div>
+      <h2 class="govuk-heading-m">
+        Edit the survey
+      </h2>
       <p>
         The survey can be edited to meet the needs of your setting and
         you can add, change or remove questions if required. For
