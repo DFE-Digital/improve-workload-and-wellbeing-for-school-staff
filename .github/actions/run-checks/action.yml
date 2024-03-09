@@ -31,3 +31,7 @@ runs:
 
     - run: bundle exec nanoc check
       shell: bash
+
+    - name: Check for dead links with html-proofer
+      run: make check-links
+      shell: bash

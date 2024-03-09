@@ -14,3 +14,5 @@ gem 'webrick'
 group :nanoc do
   gem 'nanoc-live'
 end
+
+gem 'html-proofer', '~> 5.0'
