@@ -7,9 +7,9 @@ colour: pink
 
 <strong class="govuk-tag">Template</strong>
 
-Use this survey template to gather information from school staff
-about their workload. You can address issues you identify with
-resources from the workload reduction toolkit.
+Use this survey template to gather information from school staff about their
+workload. You can address issues you identify with resources from the workload
+reduction toolkit.
 
 <div class="govuk-grid-row dfe-width-container govuk-!-padding-bottom-6">
   <div class="govuk-grid-column-full">
@@ -70,11 +70,10 @@ resources from the workload reduction toolkit.
 {inset-text}
 
 “The online form made it accessible for staff. The responses were set out in a
-range of charts so I could explain clearly to staff what the outcomes were
-and indicate areas where we needed to focus”
+range of charts so I could explain clearly to staff what the outcomes were and
+indicate areas where we needed to focus”
 
-Claire Evans, Deputy Headteacher
-Anderton Park Primary School
+Claire Evans, Deputy Headteacher Anderton Park Primary School
 
 {/inset-text}
 
@@ -86,7 +85,7 @@ following suggestions for running a successful survey:
 ### Decide when and how often to run the survey
 
 Consider when in the school year it would be best to run your staff survey for
-it to have the most impact and allow you to act on the results. 
+it to have the most impact and allow you to act on the results.
 
 Carrying out regular surveys will allow you to [evaluate the impact](/workload-reduction-toolkit/evaluate-workload-measures) that your actions are
 having on staff workload, for example, some schools run these annually.
@@ -105,7 +104,7 @@ An anonymous survey may encourage more accurate responses from the staff who
 take part. If you want to understand differences in workload between teams or
 groups, questions about name and role can be added.
 
-You should edit the survey to tell your staff if the survey is anonymous or not. 
+You should edit the survey to tell your staff if the survey is anonymous or not.
 
 ### Decide what to do next
 
@@ -113,10 +112,12 @@ You will need to consider the sequence of how you will act on the results of
 your staff survey. Give yourself time to analyse the results, update your staff
 and take action.
 
-You can use the [acting on your staff survey presentation](/workload-reduction-toolkit/identify-workload-issues/act-on-your-staff-survey)
+You can use the
+[acting on your staff survey presentation](/workload-reduction-toolkit/identify-workload-issues/act-on-your-staff-workload-survey)
 to update your staff and get their input on your next steps.
 
 The workload survey has been structured to align with the Identify, Address and
 Evaluate tookit areas. You can address workload issues you identify using
 resources from this toolkit, however the list is not exhaustive. You can help
-other school leaders by [sharing what has worked in your school](/share-your-ideas).
+other school leaders by
+[sharing what has worked in your school](/share-your-ideas).
