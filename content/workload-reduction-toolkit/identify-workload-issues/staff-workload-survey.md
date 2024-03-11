@@ -1,9 +1,9 @@
 ---
-title: Staff workload survey
+title: Identify issues using a staff workload survey
 colour: pink
 ---
 
-# Staff workload survey
+# Identify issues using a staff workload survey
 
 <strong class="govuk-tag">Template</strong>
 
@@ -17,6 +17,9 @@ resources from the workload reduction toolkit.
       <div class="info-box__corner">
         <img src="/assets/images/clipboard-icon.svg" alt="Clipboard icon">
       </div>
+      <h2 class="govuk-heading-m">
+        Edit the survey
+      </h2>
       <p>
         The survey can be edited to meet the needs of your setting and
         you can add, change or remove questions if required. For
@@ -46,16 +49,17 @@ resources from the workload reduction toolkit.
           <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <p class="govuk-body-s">
-            <strong>Resource type:</strong> Template
-          </p>
-          <p class="govuk-body-s">
-            <strong>File type:</strong> Document, 70KB, 5 pages
-          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="#">
+            Download Microsoft PowerPoint
+          </a>
           <p>
-            <a class="govuk-link govuk-link--no-visited-state" href="#">
-              Download
-            </a>
+            PPTX, TBC KB, TBC slides
+          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="#">
+            Download OpenDocument Presentation
+          </a>
+          <p>
+            ODP, TBC KB, TBC slides
           </p>
         </div>
       </div>
@@ -76,7 +80,7 @@ Anderton Park Primary School
 
 ## Suggestions for running a successful survey
 
-School leaders who hve conducted staff surveys in their own schools shared the
+School leaders who have conducted staff surveys in their own schools shared the
 following suggestions for running a successful survey:
 
 ### Decide when and how often to run the survey

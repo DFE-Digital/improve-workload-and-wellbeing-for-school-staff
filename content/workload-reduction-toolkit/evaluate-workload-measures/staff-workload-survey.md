@@ -1,5 +1,5 @@
 ---
-title: Staff workload survey
+title: Evaluate impact using a staff workload survey
 layout: /markdown_resource.html.erb
 colour: green
 ---
@@ -19,6 +19,9 @@ refine any actions you’ve taken to reduce workload.
       <div class="info-box__corner">
         <img src="/assets/images/clipboard-icon.svg" alt="Clipboard icon">
       </div>
+      <h2 class="govuk-heading-m">
+        Edit the survey
+      </h2>
       <p>
         The survey can be edited to meet the needs of your setting and
         you can add, change or remove questions if required. For
@@ -48,16 +51,17 @@ refine any actions you’ve taken to reduce workload.
           <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <p class="govuk-body-s">
-            <strong>Resource type:</strong> Template
-          </p>
-          <p class="govuk-body-s">
-            <strong>File type:</strong> Document, 70KB, 5 pages
-          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="#">
+            Download Microsoft PowerPoint
+          </a>
           <p>
-            <a class="govuk-link govuk-link--no-visited-state" href="#">
-              Download
-            </a>
+            PPTX, TBC KB, TBC slides
+          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="#">
+            Download OpenDocument Presentation
+          </a>
+          <p>
+            ODP, TBC KB, TBC slides
           </p>
         </div>
       </div>
