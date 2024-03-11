@@ -28,19 +28,17 @@ staff workload survey, prioritise next steps and identify:
           <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <p class="govuk-body-s">
-            <strong>Presentation length:</strong> 40 minutes
-          </p>
-          <p class="govuk-body-s">
-            <strong>Resource type:</strong> Presentation
-          </p>
-          <p class="govuk-body-s">
-            <strong>File type:</strong> TBC
-          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Act on the staff workload survey.pptx">
+            Download Microsoft PowerPoint
+          </a>
           <p>
-            <a class="govuk-link govuk-link--no-visited-state" href="<%= @base_url %>/assets/files/TBC">
-              Download
-            </a>
+            PPTX, 90KB, 4 slides
+          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Act on the staff workload survey.odp">
+            Download OpenDocument Presentation
+          </a>
+          <p>
+            ODP, 204KB, 4 slides
           </p>
         </div>
       </div>

@@ -30,19 +30,17 @@ The presentation includes:
           <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <p class="govuk-body-s">
-            <strong>Presentation length:</strong> 1 hour 15 minutes
-          </p>
-          <p class="govuk-body-s">
-            <strong>Resource type:</strong> Presentation
-          </p>
-          <p class="govuk-body-s">
-            <strong>File type:</strong> TBC
-          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.pptx">
+            Download Microsoft PowerPoint
+          </a>
           <p>
-            <a class="govuk-link govuk-link--no-visited-state" href="<%= @base_url %>/assets/files/TBC">
-              Download
-            </a>
+            PPTX, 115KB, 9 slides
+          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.odp">
+            Download OpenDocument Presentation
+          </a>
+          <p>
+            ODP, 209KB, 9 slides
           </p>
         </div>
       </div>
