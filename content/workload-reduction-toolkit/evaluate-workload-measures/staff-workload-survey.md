@@ -51,16 +51,17 @@ refine any actions you’ve taken to reduce workload.
           <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <p class="govuk-body-s">
-            <strong>Resource type:</strong> Template
-          </p>
-          <p class="govuk-body-s">
-            <strong>File type:</strong> Document, 70KB, 5 pages
-          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="#">
+            Download Microsoft PowerPoint
+          </a>
           <p>
-            <a class="govuk-link govuk-link--no-visited-state" href="#">
-              Download
-            </a>
+            PPTX, TBC KB, TBC slides
+          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="#">
+            Download OpenDocument Presentation
+          </a>
+          <p>
+            ODP, TBC KB, TBC slides
           </p>
         </div>
       </div>
