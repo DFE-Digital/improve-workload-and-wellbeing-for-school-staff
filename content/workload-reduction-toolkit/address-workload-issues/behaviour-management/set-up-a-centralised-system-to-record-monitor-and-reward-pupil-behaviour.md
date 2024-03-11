@@ -10,7 +10,7 @@ title: Set up a centralised system to record, monitor and reward pupil behaviour
 
 ## School details
 
-**School name**: Redbridge Community Secondary School
+**School name**: Redbridge Community School
 
 **Location**: Southampton
 

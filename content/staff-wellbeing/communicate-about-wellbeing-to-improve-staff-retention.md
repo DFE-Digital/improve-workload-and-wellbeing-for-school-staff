@@ -74,52 +74,52 @@ colour: blue
   </div>
 </div>
 
-## Background from Chris Deller, Headteacher and Laura Fordham, senior leader and wellbeing lead 
+## Background from Chris Deller, Headteacher and Laura Fordham, senior leader and Wellbeing Lead
 
 {inset-text}
 
-Wellbeing is at the centre of everything we do. Three years ago we had a high staff turnover, a poor school culture of low expectations, low aspirations and a falling roll. Three years on, we have a very low staff turnover, an increased roll in year 7 and waiting lists in every year group.  
+Wellbeing is at the centre of everything we do. Three years ago we had a high staff turnover, a poor school culture of low expectations, low aspirations and a falling roll. Three years on, we have a very low staff turnover, an increased roll in year 7 and waiting lists in every year group.
 
- We have transformed our wider community’s perception of our school. The main platform for this change has been a considerable shift in our focus, ensuring student and staff wellbeing is at our core. This has included open communication with all stakeholders, regular staff consultations and a drive to improve educational standards for students in our school.   
+We have transformed our wider community’s perception of our school. The main platform for this change has been a considerable shift in our focus, ensuring student and staff wellbeing is at our core. This has included open communication with all stakeholders, regular staff consultations and a drive to improve educational standards for students in our school.
 
- The Trust supports individual schools to develop wellbeing strategies that are focused on their own needs, as opposed to a generic approach across the Trust. 
+The Trust supports individual schools to develop wellbeing strategies that are focused on their own needs, as opposed to a generic approach across the Trust.
 
 {/inset-text}
 
-## Three ways to communicate to improve staff retention 
+## Three ways to communicate to improve staff retention
 
-### Regular staff consultations 
+### Regular staff consultations
 
-Staff consultations relating to staff wellness happen regularly and all staff are invited to contribute ideas. Staff are involved in whole school decisions and have an opportunity to contribute their opinions via staff voice tools. 
+Staff consultations relating to staff wellness happen regularly and all staff are invited to contribute ideas. Staff are involved in whole school decisions and have an opportunity to contribute their opinions via staff voice tools.
 
-### Form a wellbeing committee 
+### Form a wellbeing committee
 
-The wellbeing committee comprises staff members and representatives from all departments that hold a range of positions within the Academy. The central aim of the committee is to promote and ensure the wellbeing of all employees at the Academy. The committee will advise the Leadership Team on all matters relating to wellbeing and report to Governors. 
+The wellbeing committee comprises staff members and representatives from all departments that hold a range of positions within the Academy. The central aim of the committee is to promote and ensure the wellbeing of all employees at the Academy. The committee will advise the Leadership Team on all matters relating to wellbeing and report to Governors.
 
-The full committee will meet at least once per half term.  A schedule of these meetings and the membership of the committee will be regularly published to all staff.  
+The full committee will meet at least once per half term. A schedule of these meetings and the membership of the committee will be regularly published to all staff.
 
-The wellbeing committee will: 
+The wellbeing committee will:
 
-* evaluate the impact of any intervention to resolve wellbeing issues 
+- evaluate the impact of any intervention to resolve wellbeing issues
 
-* coordinate termly wellbeing weeks 
+- coordinate termly wellbeing weeks
 
-* inform staff of wellbeing initiatives via the wellbeing notice board the monthly BA Wellbeing Newsletter and staff meetings (when appropriate) 
+- inform staff of wellbeing initiatives via the wellbeing notice board the monthly BA Wellbeing Newsletter and staff meetings (when appropriate)
 
-### Set up a working group 
+### Set up a working group
 
-The workload group will be formed with a different group of staff each term. They will meet to talk about staff workload and make recommendations for colleagues and senior leadership, to support staff in managing this.  
+The workload group will be formed with a different group of staff each term. They will meet to talk about staff workload and make recommendations for colleagues and senior leadership, to support staff in managing this.
 
-The group will be representative of staff, and include a range of experience, for example:  
+The group will be representative of staff, and include a range of experience, for example:
 
-* Early Career Teachers (ECTs)  
+- Early Career Teachers (ECTs)
 
-* staff who have taught in at least one other school 
+- staff who have taught in at least one other school
 
-* middle leaders – both pastoral and academic 
+- middle leaders – both pastoral and academic
 
-* staff who have previously worked outside of teaching 
+- staff who have previously worked outside of teaching
 
-* support staff 
+- support staff
 
-The workload group will identify priorities to support staff in managing workload and this will be disseminated to staff.  
+The workload group will identify priorities to support staff in managing workload and this will be disseminated to staff.

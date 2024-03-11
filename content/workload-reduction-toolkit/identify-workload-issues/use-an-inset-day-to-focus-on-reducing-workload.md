@@ -19,7 +19,7 @@ colour: pink
 
 **Number of pupils**: 700
 
-**Contact details**: Email headteacher Ben Levinson at <info@kensington.ttlt.academy>
+**Contact details**: Email Headteacher Ben Levinson at <info@kensington.ttlt.academy>
 
 {/inset-text}
 

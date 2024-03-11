@@ -24,7 +24,7 @@ It will look something like this:
   details: {
     resource_type: "Template",
     reading_time: "4 minutes",
-    created_by: "Notre Dame High School"
+    created_by: "Notre Dame High School (Secondary)"
   }
 )%>
 ```
@@ -46,7 +46,7 @@ You may find it is linked from a topic page like this:
   tag: "Example",
   details: {
     reading_time: "4 minutes",
-    created_by: "Notre Dame High School"
+    created_by: "Notre Dame High School (Secondary)"
   }
 )%>
 ```

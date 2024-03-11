@@ -10,7 +10,7 @@ title: Streamline internal school communications
 
 ## School details
 
-**School name:** Hilltop Infant school in Wickford
+**School name:** Hilltop Infant School
 
 **Location:** Essex
 
@@ -18,7 +18,7 @@ title: Streamline internal school communications
 
 **Number of pupils:** 225
 
-**Contact details:** Email head of school Jane Robinson at <hilltopinf.admin@heartsacademy.uk>
+**Contact details:** Email Head of School Jane Robinson at <hilltopinf.admin@heartsacademy.uk>
 
 {/inset-text}
 
@@ -50,56 +50,56 @@ title: Streamline internal school communications
   </div>
 </div>
 
-## Background from Jane Robinson, Head of school
+## Background from Jane Robinson, Head of School
 
 {inset-text}
 
-We took part in a DfE project to address workload by running a trial of new approaches in school. After discussions with staff, we identified that in-school communication was driving unnecessary workload and causing additional pressure on staff, so we decided to make that our focus of change. 
- 
+We took part in a DfE project to address workload by running a trial of new approaches in school. After discussions with staff, we identified that in-school communication was driving unnecessary workload and causing additional pressure on staff, so we decided to make that our focus of change.
+
 {/inset-text}
 
-## What we did to streamline internal school communications  
+## What we did to streamline internal school communications
 
-We realised that some of the things we had in place – just one diary kept in the school office; a noticeboard that wasn’t kept up to date; too many emails being sent; and only SLT dealing with cover were all things that caused pressure and workload.  
+We realised that some of the things we had in place – just one diary kept in the school office; a noticeboard that wasn’t kept up to date; too many emails being sent; and only SLT dealing with cover were all things that caused pressure and workload.
 
-We implemented a ‘2-minute briefing’, developed the use of staff boards and introduced an online calendar. 
- 
-This work fed into the Trust’s actions on workload and wellbeing and an email protocol was put into place. 
+We implemented a ‘2-minute briefing’, developed the use of staff boards and introduced an online calendar.
 
-## Email protocol – HEARTS academy trust 
+This work fed into the Trust’s actions on workload and wellbeing and an email protocol was put into place.
 
-Please place this notice above work computers, in the staff room and offices or stick a small version to your laptop. 
+## Email protocol – HEARTS academy trust
 
-As part of the workload group terms of reference we are looking at emails and the addition to workload that they cause for some members of staff. Below is our attempt to ensure that this is manageable for all staff. This policy will be kept under review and views can be shared with your Workload group representative  
+Please place this notice above work computers, in the staff room and offices or stick a small version to your laptop.
 
-## Principles  
+As part of the workload group terms of reference we are looking at emails and the addition to workload that they cause for some members of staff. Below is our attempt to ensure that this is manageable for all staff. This policy will be kept under review and views can be shared with your Workload group representative
 
-Emails are unavoidable in a large organisation which is not sited in one place. They are a valuable form of communication for a diverse and dynamic workforce  
+## Principles
 
-Emails should be part of a modern workforce communication methods but not the only form of communication.  
+Emails are unavoidable in a large organisation which is not sited in one place. They are a valuable form of communication for a diverse and dynamic workforce
 
-Emails are not a substitute for meeting on important matters and do not replace face to face communication. 
+Emails should be part of a modern workforce communication methods but not the only form of communication.
 
-Before sending an email, think, “Do I really need to send this?”  
+Emails are not a substitute for meeting on important matters and do not replace face to face communication.
 
-Meet set deadlines for submissions of reports or data. This will cut down on workload for those requesting items and ensuing emails to chase missing information.  
+Before sending an email, think, “Do I really need to send this?”
 
-Vital information that everyone needs to know immediately will be shared in person by leaders. Leaders will determine what constitutes vital.  
+Meet set deadlines for submissions of reports or data. This will cut down on workload for those requesting items and ensuing emails to chase missing information.
 
-## Expectations  
+Vital information that everyone needs to know immediately will be shared in person by leaders. Leaders will determine what constitutes vital.
 
-Staff should respond to leaders’ or line manager’s emails within 24 hours where a request for a response has been made.  
+## Expectations
 
-Where a request has not been made for a response, there is no need to reply. Leaders or line managers will assume that the contents have been read.  
+Staff should respond to leaders’ or line manager’s emails within 24 hours where a request for a response has been made.
 
-Only senior leaders should send “reply all” emails. Remove your “reply all” from emails. 
+Where a request has not been made for a response, there is no need to reply. Leaders or line managers will assume that the contents have been read.
 
-No one has to respond to emails at weekends or after 6 pm.  
+Only senior leaders should send “reply all” emails. Remove your “reply all” from emails.
 
-It is up to individuals to check their emails when they wish, as long as they do so as far as possible every 24 hours, during the working week. 
+No one has to respond to emails at weekends or after 6 pm.
 
-If you are having trouble keeping up with emails, please let your line manager know.  
+It is up to individuals to check their emails when they wish, as long as they do so as far as possible every 24 hours, during the working week.
 
-We advise all employees to remove email alerts from their mobile phones.  
+If you are having trouble keeping up with emails, please let your line manager know.
 
-People should still feel able to send emails when their working patterns suit them. However, no one expects anyone to reply immediately. 
+We advise all employees to remove email alerts from their mobile phones.
+
+People should still feel able to send emails when their working patterns suit them. However, no one expects anyone to reply immediately.

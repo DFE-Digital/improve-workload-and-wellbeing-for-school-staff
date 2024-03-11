@@ -10,15 +10,15 @@ title: Use time effectively and work together when planning your curriculum
 
 ## School details
 
-**School name:**  West Meon Church of England Voluntary Controlled Primary School
+**School name:** West Meon CofE Primary School
 
 **Location:** Hampshire
 
-**Phase:** Primary 
+**Phase:** Primary
 
 **Number of pupils:** Less than 100
 
-**Contact details:** Email the school at <admin@westmeon.hants.sch.uk> 
+**Contact details:** Email the school at <admin@westmeon.hants.sch.uk>
 
 {/inset-text}
 

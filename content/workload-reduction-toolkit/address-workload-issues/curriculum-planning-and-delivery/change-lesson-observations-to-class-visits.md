@@ -18,7 +18,7 @@ title: Change lesson observations to class visits
 
 **Number of pupils:** 700
 
-**Contact details:** Email headteacher Jo Summerfield at <info@harehills.leeds.sch.uk>
+**Contact details:** Email Headteacher Jo Summerfield at <info@harehills.leeds.sch.uk>
 
 {/inset-text}
 
