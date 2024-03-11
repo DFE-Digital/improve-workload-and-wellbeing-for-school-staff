@@ -1,12 +1,11 @@
 ---
 title: Update your workload action plan
-layout: /markdown_resource.html.erb
 colour: green
 ---
 
 # Update your workload action plan
 
-<strong class="govuk-tag">Template</strong>
+<strong class="govuk-tag">Example</strong>
 
 ## School details
 
@@ -18,9 +17,9 @@ colour: green
 
 **Number of pupils**: 1400
 
-**Contact details**: Email Neil Cully at NCully@ndhs.org.uk
+**Contact details**: Email Headteacher Neil Cully at <NCully@ndhs.org.uk>
 
-## Background from Neil Cully
+## Background from Neil Cully, Headteacher
 
 Notre Dame High School created a wellbeing committee [link to establishing a wellbeing committee resource] that issued a
 workload survey to its staff. They used the results to create an action plan which focuses on improving staff wellbeing
@@ -60,7 +59,7 @@ Notre Dame High School considered the following questions for their action plan:
   <div class="govuk-grid-column-full">
     <div class="info-box">
       <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Clipboard icon">
+        <img src="/assets/images/download-icon.svg" alt="Download icon">
       </div>
       <h2 class="govuk-heading-m">
         Download the template

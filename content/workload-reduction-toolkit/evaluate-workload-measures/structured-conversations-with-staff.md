@@ -1,6 +1,5 @@
 ---
 title: Have stuctured conversations with staff to evaluate outcomes
-layout: /markdown_resource.html.erb
 colour: green
 ---
 
@@ -42,7 +41,7 @@ and act.
   <div class="govuk-grid-column-full">
     <div class="info-box">
       <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Clipboard icon">
+        <img src="/assets/images/download-icon.svg" alt="Download icon">
       </div>
       <h2 class="govuk-heading-m">
         Download the template

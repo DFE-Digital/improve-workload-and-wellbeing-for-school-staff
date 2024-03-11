@@ -1,6 +1,5 @@
 ---
 title: Evaluate progress with staff
-layout: /markdown_resource.html.erb
 colour: green
 ---
 
@@ -15,10 +14,10 @@ your school. Gather feedback and evaluate if any actions taken have had an impac
   <div class="govuk-grid-column-full">
     <div class="info-box">
       <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Clipboard icon">
+        <img src="/assets/images/download-icon.svg" alt="Download icon">
       </div>
       <h2 class="govuk-heading-m">
-        Download the evaluating outcomes table
+        Download the template
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
