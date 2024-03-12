@@ -38,6 +38,9 @@ The presentation includes:
          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Review and streamline behaviour management.odp">
            Download OpenDocument Presentation
          </a>
+         <p>
+           ODP, 322KB, 7 slides
+         </p>
        </div>
       </div>
     </div>
