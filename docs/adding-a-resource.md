@@ -87,9 +87,6 @@ written in HTML. The following code snippets are used in
 
 **Note:** all content in the info box must be written in HTML, not Markdown.
 
-**TODO:** How do you pick a different colour for the info box? Dependent on
-Staff Wellbeing PR.
-
 ## 4. Add a link to your resource from the 'Explore all resources' page 🔗
 
 Identify the correct topic for your resource and update the link in the
