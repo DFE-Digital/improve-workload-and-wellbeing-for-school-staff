@@ -105,7 +105,7 @@ Add your new resource's URL to the correct render block:
   details: {
     resource_type: "Template",
     reading_time: "4 minutes",
-    created_by: "Notre Dame High School"
+    created_by: "Notre Dame High School (Secondary)"
   }
 )%>
 ```
@@ -125,7 +125,7 @@ be linked from the `content/staff-wellbeing.html.erb` topic page.
   tag: "Example",
   details: {
     reading_time: "4 minutes",
-    created_by: "Notre Dame High School"
+    created_by: "Notre Dame High School (Secondary)"
   }
 )%>
 ```

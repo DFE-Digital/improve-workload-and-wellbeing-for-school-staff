@@ -10,7 +10,7 @@ title: Review marking practice with an impact matrix
 
 ## School details
 
-**School name:** The City of Norwich School
+**School name:** City of Norwich School
 
 **Location:** Norwich
 

@@ -11,7 +11,7 @@ colour: blue
 
 ## School details
 
-**School name**: Ascent Academies' Trust
+**School name**: The Ascent Academies' Trust
 
 **Location**: Sunderland
 

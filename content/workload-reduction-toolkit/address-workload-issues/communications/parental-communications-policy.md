@@ -10,7 +10,7 @@ title: Parental communications policy
 
 ## School details
 
-**School name**: St Edward's RC/CoE School
+**School name**: St Edward’s RC Primary
 
 **Location**: Dorset
 
@@ -18,7 +18,7 @@ title: Parental communications policy
 
 **Number of pupils**: 1000
 
-**Contact details**: Email headteacher Michael Antram at <m.antram@st-edwards.poole.sch.uk>
+**Contact details**: Email Headteacher Michael Antram at <m.antram@st-edwards.poole.sch.uk>
 
 {/inset-text}
 
@@ -54,7 +54,7 @@ title: Parental communications policy
   </div>
 </div>
 
-## Background from Michael Antram
+## Background from Michael Antram, Headteacher
 
 {inset-text}
 

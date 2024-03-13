@@ -53,9 +53,10 @@ title: Switch to online parents’ evenings
   </div>
 </div>
 
-## Background from Assistant headteacher Claire Willis
+## Background from Claire Willis, Assistant Headteacher
 
 {inset-text}
+
 Pre-pandemic, parents’ evenings followed the standard format of pre-booked face
 to face conversations with parents. Had there been no pandemic, the process
 would not have changed because parents reported they were happy with this

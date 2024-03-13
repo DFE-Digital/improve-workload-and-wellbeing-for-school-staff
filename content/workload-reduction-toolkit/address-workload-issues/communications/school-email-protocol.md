@@ -10,7 +10,7 @@ title: School email protocol
 
 ## School details
 
-**School name:** St Edward’s RC/CoE school
+**School name:** St Edward’s RC Primary
 
 **Location:** Dorset
 
@@ -18,7 +18,7 @@ title: School email protocol
 
 **Number of pupils:** 1000
 
-**Contact details:** Email headteacher Michael Antram at <m.antram@st-edwards.poole.sch.uk> 
+**Contact details:** Email Headteacher Michael Antram at <m.antram@st-edwards.poole.sch.uk>
 
 {/inset-text}
 
@@ -44,44 +44,44 @@ title: School email protocol
   </div>
 </div>
 
-## Background from Michael Antram 
+## Background from Michael Antram, Headteacher
 
 {inset-text}
 
-We developed an email protocol by reviewing the range of information sent by email across the school. It became apparent to us that a significant number of emails were sent unnecessarily to all staff, and emails were being used for matters that could be resolved more easily in other ways. 
+We developed an email protocol by reviewing the range of information sent by email across the school. It became apparent to us that a significant number of emails were sent unnecessarily to all staff, and emails were being used for matters that could be resolved more easily in other ways.
 
 {/inset-text}
 
-## Why we created the email protocol  
+## Why we created the email protocol
 
-Email can be a useful form of communication, but high volumes to read or write can cause pressures for staff.  
+Email can be a useful form of communication, but high volumes to read or write can cause pressures for staff.
 
-This protocol aims to alleviate the pressure of perceived expectations and contribute positively to work-life balance by making it clear when emails should, and should not, be sent. It aims to reduce the volume of emails sent and received within the school day, especially those sent to ‘All staff’.  
+This protocol aims to alleviate the pressure of perceived expectations and contribute positively to work-life balance by making it clear when emails should, and should not, be sent. It aims to reduce the volume of emails sent and received within the school day, especially those sent to ‘All staff’.
 
-## The school email protocol 
+## The school email protocol
 
-Staff are not expected to check email outside of working hours. It is a good idea to draw a line under your working day, to maintain a distinction between work life and school life. 
+Staff are not expected to check email outside of working hours. It is a good idea to draw a line under your working day, to maintain a distinction between work life and school life.
 
-We also decided all emails must have a descriptive heading to make it clear what the email is about. These protocols will be kept under regular review.   
+We also decided all emails must have a descriptive heading to make it clear what the email is about. These protocols will be kept under regular review.
 
-## When emails do not have to be sent 
+## When emails do not have to be sent
 
-For lost property, no emails need to be sent. The pupil should be sent to check in the lost property area in the pupil office. 
+For lost property, no emails need to be sent. The pupil should be sent to check in the lost property area in the pupil office.
 
-Issues about pupils being sat together should also not be emailed but issued on a weekly bulletin from the staff briefing. 
+Issues about pupils being sat together should also not be emailed but issued on a weekly bulletin from the staff briefing.
 
-## How emails should be sent 
+## How emails should be sent
 
-Issues relating to teaching and learning (deadlines for assessment, CPD meetings) should only be sent in the weekly teaching and learning bulletin, emailed out centrally. 
+Issues relating to teaching and learning (deadlines for assessment, CPD meetings) should only be sent in the weekly teaching and learning bulletin, emailed out centrally.
 
-Email requests for drivers needed for school trips should be sent by email to all staff. 
+Email requests for drivers needed for school trips should be sent by email to all staff.
 
-Inquiries about pupils going on school trips, or sports clubs and other fixtures, should be emailed to the pupils’ form group teacher. 
+Inquiries about pupils going on school trips, or sports clubs and other fixtures, should be emailed to the pupils’ form group teacher.
 
-Details on examinations and moderations should be emailed to teachers only. 
+Details on examinations and moderations should be emailed to teachers only.
 
-Tips and advice on special educational needs and disabilities can be emailed periodically to both teachers and teaching assistants. 
+Tips and advice on special educational needs and disabilities can be emailed periodically to both teachers and teaching assistants.
 
-If a pupil is injured or needs to leave lessons early, this will be emailed in a weekly bulletin on Monday to all staff. This includes other information on events taking place in the week.  
+If a pupil is injured or needs to leave lessons early, this will be emailed in a weekly bulletin on Monday to all staff. This includes other information on events taking place in the week.
 
-Requests or information on pupil mentoring should be emailed to teachers involved.  
+Requests or information on pupil mentoring should be emailed to teachers involved.
