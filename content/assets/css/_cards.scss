@@ -253,7 +253,7 @@ $card-text-hover-color: govuk-colour("purple");
 
   @include govuk-media-query($from: tablet) {
     font-size: 22px;
-    padding: govuk-spacing(6);
+    padding: govuk-spacing(7) govuk-spacing(6);
   }
 }
 
