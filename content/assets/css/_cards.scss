@@ -182,15 +182,24 @@ $card-text-hover-color: govuk-colour("purple");
 }
 
 .dfe-card {
-  margin: 40px;
-  border: 1px solid #b1b4b6;
+  display: flex;
+  width: 100%;
+  margin: 30px;
+  background-color: #347ca9;
   text-decoration: none;
+
+  @include govuk-media-query($from: tablet) {
+    margin: 20px;
+    border: 1px solid #b1b4b6;
+  }
+}
+
+.dfe-card-content {
   width: 100%;
 }
 
 .dfe-card--clickable {
   box-shadow: none !important;
-  background-color: govuk-colour("white") !important;
 
   &:hover,
   &:active {
@@ -210,57 +219,79 @@ $card-text-hover-color: govuk-colour("purple");
 
   &:focus {
     .dfe-card-header {
-      color: black;
+      color: govuk-colour("black");
       background-color: $govuk-focus-colour;
       text-decoration: underline;
     }
 
     .dfe-card-body {
-      background-color: govuk-colour("white");
+      background-color: $govuk-focus-colour;
+      p {
+        color: govuk-colour("black");
+      }
+
+      @include govuk-media-query($from: tablet) {
+        background-color: govuk-colour("white");
+      }
     }
   }
 }
 
-.govuk-grid-column-one-third .dfe-card {
-  margin: 20px;
-}
-
 .govuk-grid-column-one-third .dfe-card-body {
-  min-height: 100px;
+  @include govuk-media-query($from: tablet) {
+    min-height: 100px;
+  }
 }
 
 .dfe-card-header {
-  background-color: #347ca9;
-  padding: govuk-spacing(4);
-  color: govuk-colour("white");
-  text-decoration: none;
-  font-weight: bold;
-  padding: govuk-spacing(7);
   margin-bottom: 0;
-}
-
-.dfe-card-header .govuk-heading-m {
+  padding: govuk-spacing(4);
+  padding-bottom: 0;
   color: govuk-colour("white");
-  margin: 20px;
-}
+  font-weight: bold;
 
-.dfe-card-header .govuk-heading-s {
-  color: govuk-colour("white");
-  margin: 20px;
-}
-
-.dfe-card-header--pink {
-  background-color: #d4357f;
-}
-
-.dfe-card-header--purple {
-  background-color: govuk-colour("purple");
-}
-
-.dfe-card-header--green {
-  background-color: #279b91;
+  @include govuk-media-query($from: tablet) {
+    padding: govuk-spacing(7);
+  }
 }
 
 .dfe-card-body {
-  padding: govuk-spacing(7);
+  padding: govuk-spacing(4);
+  padding-top: govuk-spacing(3);
+
+  p {
+    color: govuk-colour("white");
+    margin-bottom: 0;
+  }
+
+  @include govuk-media-query($from: tablet) {
+    padding: govuk-spacing(7);
+    background-color: govuk-colour("white");
+
+    p {
+      margin-bottom: govuk-spacing(7);
+      color: $govuk-text-colour;
+    }
+  }
+}
+
+.dfe-card__chevron {
+  margin: 0 govuk-spacing(4);
+  max-width: 20px;
+
+  @include govuk-media-query($from: tablet) {
+    display: none;
+  }
+}
+
+.dfe-card--pink {
+  background-color: #d4357f;
+}
+
+.dfe-card--purple {
+  background-color: govuk-colour("purple");
+}
+
+.dfe-card--green {
+  background-color: #279b91;
 }
