@@ -18,7 +18,7 @@ colour: green
         </p>
       </div>
     </div>
-    
+
     <div class="dfe-width-container govuk-grid-row">
       <div class="govuk-grid-column-two-thirds">
         <div class="govuk-grid-row dfe-width-container">
@@ -62,20 +62,20 @@ colour: green
 
             <%= render('/partials/resource_card.*',
               title: "Evaluate progress with staff",
-              href: "TBC",
+              href: "#{@base_url}/workload-reduction-toolkit/evaluate-workload-measures/evaluate-progress-with-staff",
               body: "Show staff the actions you took to address workload issues and gather feedback.",
               tag: "Template",
               details: { reading_time: "1 minute" }) %>
 
             <%= render('/partials/resource_card.*',
               title: "Have structured conversations with staff to evaluate outcomes",
-              href: "TBC",
+              href: "#{@base_url}/workload-reduction-toolkit/evaluate-workload-measures/structured-conversations-with-staff",
               body: "Talk to staff and teachers about their biggest workload issues.",
-              tag: "Template") %>
+              tag: "Template", details: { reading_time: "1 minute" }) %>
 
             <%= render('/partials/resource_card.*',
               title: "Update your workload action plan",
-              href: "TBC",
+              href: "#{@base_url}/workload-reduction-toolkit/evaluate-workload-measures/update-your-workload-action-plan",
               body: "Evaluate the actions you took to reduce workload in your school.",
               tag: "Template",
               details: { reading_time: "1 minute", created_by: "Notre Dame High School (Secondary)"}) %>
@@ -86,7 +86,7 @@ colour: green
       <div class="govuk-grid-column-one-third">
         <hr class="govuk-section-break--blue govuk-section-break--thick">
         <%= render '/partials/feedback.*', colour: "green" %>
-      </div> 
+      </div>
     </div>
   </div>
 </div>
