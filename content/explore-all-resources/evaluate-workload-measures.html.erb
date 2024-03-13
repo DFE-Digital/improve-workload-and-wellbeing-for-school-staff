@@ -19,25 +19,36 @@ layout: /explore_resources.html.erb
   )%>
 
   <%= render('/partials/explore_resource_card.*',
-    title: "Evaluating the measures checklist",
-    href: "#",
+    title: "Evaluate progress with staff",
+    href: "#{@base_url}/workload-reduction-toolkit/evaluate-workload-measures/evaluate-progress-with-staff",
     tag:  "Evaluate workload measures",
     tag_colour: "green",
     details: {
       resource_type: "Template",
-      created_by: "Bedford Academy"
+      reading_time: "1 minute"
     }
   )%>
 
   <%= render('/partials/explore_resource_card.*',
-    title: "Evaluating outcomes template",
-    href: "#",
+    title: "Have structured conversations with staff to evaluate outcomes",
+    href: "#{@base_url}/workload-reduction-toolkit/evaluate-workload-measures/structured-conversations-with-staff",
     tag:  "Evaluate workload measures",
     tag_colour: "green",
     details: {
-      resource_type: "Case study",
-      reading_time: "7 minutes",
-      created_by: "Barr Beacon School"
+      resource_type: "Template",
+      reading_time: "1 minute",
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Update your workload action plan",
+    href: "#{@base_url}/workload-reduction-toolkit/evaluate-workload-measures/update-your-workload-action-plan",
+    tag:  "Evaluate workload measures",
+    tag_colour: "green",
+    details: {
+      resource_type: "Example",
+      reading_time: "1 minute",
+      created_by: "Notre Dame High School (Secondary)",
     }
   )%>
 </div>
