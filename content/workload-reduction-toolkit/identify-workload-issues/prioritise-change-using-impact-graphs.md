@@ -25,17 +25,19 @@ one-to-ones, or in team or whole staff meetings.
           <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <p class="govuk-body-s">
-            <strong>Resource type:</strong> Template
-          </p>
-          <p class="govuk-body-s">
-            <strong>File type:</strong> Document, TBC
-          </p>
+           <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Impact graph.docx">
+            Download Microsoft Word Document
+          </a>
           <p>
-            <a class="govuk-link govuk-link--no-visited-state" href="#">
-              Download
-            </a>
+            DOCX, 31KB, 1 page
           </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Impact graph.odt">
+            Download OpenDocument Text
+          </a>
+          <p>
+            ODT, 6KB, 1 page
+          </p>
+            
         </div>
       </div>
     </div>

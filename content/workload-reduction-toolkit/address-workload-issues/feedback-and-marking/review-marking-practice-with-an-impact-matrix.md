@@ -62,7 +62,7 @@ create and complete the impact matrix.
         <img src="/assets/images/download-icon.svg" alt="Download icon">
       </div>
       <h2 class="govuk-heading-m">
-        Download the impact matrix
+        Download the impact matrix template
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
@@ -70,16 +70,18 @@ create and complete the impact matrix.
         </div>
         <div class="govuk-grid-column-one-half">
           <div class="info-box__content">
-            <p class="govuk-body-s">
-              <strong>Resource type:</strong> Template
-            </p>
-            <p class="govuk-body-s">
-              <strong>File type:</strong> Document, 6KB, 1 page
-            </p>
-            <a class="govuk-link govuk-link--no-visited-state"
-              href="<%= @base_url %>/assets/files/Impact matrix.odt">
-              Download
+             <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Impact matrix.docx">
+              Download Microsoft Word Document
             </a>
+            <p>
+              DOCX, 25KB, 1 page
+            </p>
+            <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Impact matrix.odt">
+              Download OpenDocument Text
+            </a>
+            <p>
+              ODT, 7KB, 1 page
+            </p>
           </div>
         </div>
       </div>

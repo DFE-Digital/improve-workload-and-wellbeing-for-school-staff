@@ -24,16 +24,17 @@ workload issues identified in your school.
           <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <p class="govuk-body-s">
-            <strong>Resource type:</strong> Template
-          </p>
-          <p class="govuk-body-s">
-            <strong>File type:</strong> Document, TBC
-          </p>
+           <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.docx">
+            Download Microsoft Word Document
+          </a>
           <p>
-            <a class="govuk-link govuk-link--no-visited-state" href="#">
-              Download
-            </a>
+            DOCX, 27KB, 1 page
+          </p>
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.odt">
+            Download OpenDocument Text
+          </a>
+          <p>
+            ODT, 8KB, 1 page
           </p>
         </div>
       </div>

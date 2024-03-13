@@ -25,12 +25,50 @@ colour: pink
 
 ## Background from Neil Cully, Headteacher
 
+{inset-text}
+
 Notre Dame High School [created a wellbeing committee](/staff-wellbeing/establish-a-wellbeing-committee)
 that issued a workload survey to its staff. They used the results to create an
 action plan which focuses on improving staff wellbeing and reducing workload.
 
 The action plan outlines the key areas of focus, the actions that need to be
 taken, what success looks like and the timescale for actions to be taken.
+
+{/inset-text}
+
+<div class="dfe-width-container govuk-grid-row">
+  <div class="govuk-grid-column-full">
+    <div class="info-box">
+      <div class="info-box__corner">
+        <img src="/assets/images/download-icon.svg" alt="Download icon">
+      </div>
+      <h2 class="govuk-heading-m">
+        Download the example
+      </h2>
+      <div class="govuk-grid-row info-box__download-content">
+        <div class="govuk-grid-column-one-half">
+          <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+        </div>
+        <div class="govuk-grid-column-one-half">
+          <div class="info-box__content">
+             <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+              Download Microsoft Word Document
+            </a>
+            <p>
+              DOCX, 29KB, 2 pages
+            </p>
+            <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+              Download OpenDocument Text
+            </a>
+            <p>
+              ODT, 11KB, 2 pages
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
 
 ## Creating an action plan
 

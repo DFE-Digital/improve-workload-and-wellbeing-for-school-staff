@@ -30,19 +30,17 @@ The presentation includes:
             <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
           </div>
           <div class="govuk-grid-column-one-half">
-            <p class="govuk-body-s">
-              <strong>Presentation length:</strong> 1 hour
-            </p>
-            <p class="govuk-body-s">
-              <strong>Resource type:</strong> Presentation
-            </p>
-            <p class="govuk-body-s">
-              <strong>File type:</strong> OpenDocument Presentation, 214KB, 9 pages
-            </p>
+            <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.pptx">
+              Download Microsoft PowerPoint
+            </a>
             <p>
-              <a class="govuk-link govuk-link--no-visited-state" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.odp">
-                Download
-              </a>
+              PPTX, 114KB, 9 slides
+            </p>
+            <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.odp">
+              Download OpenDocument Presentation
+            </a>
+            <p>
+              ODP, 252KB, 9 slides
             </p>
           </div>
         </div>
