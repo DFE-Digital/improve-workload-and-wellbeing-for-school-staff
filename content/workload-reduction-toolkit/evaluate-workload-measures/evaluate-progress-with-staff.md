@@ -21,7 +21,7 @@ your school. Gather feedback and evaluate if any actions taken have had an impac
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+          <img src="/assets/images/identify--share-progress-with-staff.jpg" alt="Share progress with staff" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
           <p class="govuk-body-m govuk-!-margin-top-3 govuk-!-margin-bottom-0">
@@ -48,7 +48,7 @@ your school. Gather feedback and evaluate if any actions taken have had an impac
 
 ## How to use the table to evaluate outcomes
 
-You can use the table to identify and measure the impact of any actions you take to reduce workload in your school.  
+You can use the table to identify and measure the impact of any actions you take to reduce workload in your school.
 
 The template follows the ‘we discovered, we did, we found’ format:
 

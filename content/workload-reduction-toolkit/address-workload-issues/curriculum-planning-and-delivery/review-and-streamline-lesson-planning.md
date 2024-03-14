@@ -27,7 +27,7 @@ The presentation includes:
         </h2>
         <div class="govuk-grid-row info-box__download-content">
           <div class="govuk-grid-column-one-half">
-            <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+            <img src="/assets/images/curriculum-planning-and-delivery--review-and-streamline-lesson-planning.jpg" alt="Review and streamline lesson planning" class="dfe-file-preview-image">
           </div>
           <div class="govuk-grid-column-one-half">
             <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.pptx">

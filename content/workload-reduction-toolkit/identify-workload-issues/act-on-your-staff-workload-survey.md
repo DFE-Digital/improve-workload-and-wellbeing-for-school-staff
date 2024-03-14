@@ -25,7 +25,7 @@ staff workload survey, prioritise next steps and identify:
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+          <img src="/assets/images/identify--act-on-your-staff-survey.jpg" alt="Act on your staff workload survey" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
           <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Act on the staff workload survey.pptx">

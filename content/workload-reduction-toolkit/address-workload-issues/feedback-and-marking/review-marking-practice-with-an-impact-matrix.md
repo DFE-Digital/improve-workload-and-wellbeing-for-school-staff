@@ -66,7 +66,7 @@ create and complete the impact matrix.
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+          <img src="/assets/images/feedback-and-marking--impact-matrix-template.jpg" alt="Impact matrix template" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
           <div class="info-box__content">

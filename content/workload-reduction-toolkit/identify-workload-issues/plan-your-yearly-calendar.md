@@ -27,7 +27,7 @@ The presentation includes:
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+          <img src="/assets/images/identify--plan-your-yearly-calendar.jpg" alt="Plan your yearly calendar" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
           <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.pptx">
