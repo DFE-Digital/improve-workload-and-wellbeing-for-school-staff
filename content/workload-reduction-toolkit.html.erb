@@ -7,12 +7,12 @@ title: Workload reduction toolkit
     <div class="govuk-grid-row govuk-!-padding-top-9 govuk-!-padding-bottom-0">
       <div class="govuk-grid-column-two-thirds">
         <h1 class="govuk-heading-l govuk-!-margin-bottom-4">Workload reduction toolkit</h1>
-        <p class="govuk-body">
+        <p>
           Access workload reduction resources produced by school leaders, for
           school leaders. Learn how they addressed workload issues and save time
           when addressing those issues in your school.
         </p>
-        <p class="govuk-body govuk-!-font-weight-bold">
+        <p class="govuk-!-font-weight-bold">
           <a href="<%= @base_url %>/workload-reduction-toolkit/how-the-toolkit-was-made">
             Learn how the toolkit was made and tested
           </a>
@@ -28,11 +28,13 @@ title: Workload reduction toolkit
 
 <div class="govuk-main-wrapper">
   <div class="dfe-width-container">
-    <div class="govuk-grid-row govuk-width-container">
-      <h2 class="govuk-heading-m">Use the toolkit</h2>
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-full">
+        <h2 class="govuk-heading-m">Use the toolkit</h2>
+      </div>
     </div>
 
-    <ul class="govuk-grid-row card-group">
+    <ul class="govuk-grid-row card-group govuk-!-margin-bottom-9">
       <li class="govuk-grid-column-one-third card-group__item">
         <%= render('/partials/tile.*', title: "Identify workload issues",
           body: "Identify workload issues and prioritise where to act",
@@ -57,17 +59,12 @@ title: Workload reduction toolkit
         ) %>
       </li>
     </ul>
-  </div>
-</div>
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <hr class="govuk-section-break govuk-section-break--l govuk-section-break--visible">
-  </div>
-</div>
-
-<div class="dfe-width-container govuk-grid-row govuk-!-margin-top-7">
-  <div class="govuk-grid-column-full">
-    <%= render '/partials/feedback.*' %>
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-full">
+        <hr class="govuk-section-break--visible govuk-!-margin-bottom-9">
+        <%= render '/partials/feedback.*' %>
+      </div>
+    </div>
   </div>
 </div>

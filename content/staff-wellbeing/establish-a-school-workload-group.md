@@ -23,28 +23,24 @@ colour: blue
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        Two examples of outcomes achieved by the school workload group at Baylis Court School were:
-        <ul>
-          <li>
-            the amount of data being gathered was reduced, and therefore the time being spent by staff inputting it without any detrimental impact on pupil outcomes
-          </li> 
-          <li>
-            staff have become more confident in the use of IT and feel they can work more efficiently
-          </li>
-        </ul>
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    Two examples of outcomes achieved by the school workload group at Baylis Court School were:
+  </p>
+  <ul>
+    <li>
+      the amount of data being gathered was reduced, and therefore the time being spent by staff inputting it without any detrimental impact on pupil outcomes
+    </li>
+    <li>
+      staff have become more confident in the use of IT and feel they can work more efficiently
+    </li>
+  </ul>
 </div>
 
 ## Background from Richard Kearsey, CEO

@@ -225,6 +225,11 @@
   width: 100%;
   height: auto;
   object-fit: contain;
+  margin-bottom: govuk-spacing(3);
+
+  @include govuk-media-query($from: tablet) {
+    margin-bottom: 0;
+  }
 }
 
 .dfe-header__menu-toggle {

@@ -1,19 +1,21 @@
 <% breadcrumbs_trail_without_home = breadcrumbs_trail[1..-1] %>
 <% if breadcrumbs_trail_without_home.size > 1 %>
-  <div class="govuk-grid-row govuk-width-container dfe-width-container govuk-!-margin-top-7">
-    <div class="govuk-grid-column-full">
-      <div class="govuk-breadcrumbs">
-        <ol class="govuk-breadcrumbs__list">
-          <% breadcrumbs_trail_without_home.each do |ancestor| %>
-            <li class="govuk-breadcrumbs__list-item">
-              <% if ancestor && ancestor[:title] %>
-                <%= link_to(ancestor[:title], ancestor.path, class: 'govuk-breadcrumbs__link') %>
-              <% else %>
-                Title missing
-              <% end %>
-            </li>
-          <% end %>
-        </ol>
+  <div class="dfe-width-container">
+    <div class="govuk-grid-row govuk-!-margin-top-7">
+      <div class="govuk-grid-column-full">
+        <div class="govuk-breadcrumbs">
+          <ol class="govuk-breadcrumbs__list">
+            <% breadcrumbs_trail_without_home.each do |ancestor| %>
+              <li class="govuk-breadcrumbs__list-item">
+                <% if ancestor && ancestor[:title] %>
+                  <%= link_to(ancestor[:title], ancestor.path, class: 'govuk-breadcrumbs__link') %>
+                <% else %>
+                  Title missing
+                <% end %>
+              </li>
+            <% end %>
+          </ol>
+        </div>
       </div>
     </div>
   </div>

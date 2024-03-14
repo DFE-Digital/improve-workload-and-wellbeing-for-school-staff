@@ -9,34 +9,30 @@ colour: green
 
 A structured conversation template to help gather feedback from staff and teachers about your workload reduction measures.
 
-<div class="govuk-grid-row dfe-width-container govuk-!-padding-bottom-6">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Download icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Download the template
-      </h2>
-      <div class="govuk-grid-row info-box__download-content">
-        <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/evaluate--structured-conversation-template.jpg" alt="Structured conversation template" class="dfe-file-preview-image">
-        </div>
-        <div class="govuk-grid-column-one-half">
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Evaluate structured conversation template.docx">
-            Download Microsoft Word Document
-          </a>
-          <p>
-            DOCX, 28KB, 1 page
-          </p>
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Evaluate structured conversation template.odt">
-            Download OpenDocument Text
-          </a>
-          <p>
-            ODT, 8KB, 1 page
-          </p>
-        </div>
-      </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/download-icon.svg" alt="Download icon">
+  </div>
+  <h2 class="govuk-heading-m">
+    Download the template
+  </h2>
+  <div class="govuk-grid-row info-box__download-content">
+    <div class="govuk-grid-column-one-half">
+      <img src="/assets/images/evaluate--structured-conversation-template.jpg" alt="Structured conversation template" class="dfe-file-preview-image">
+    </div>
+    <div class="govuk-grid-column-one-half">
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Evaluate structured conversation template.docx">
+        Download Microsoft Word Document
+      </a>
+      <p>
+        DOCX, 28KB, 1 page
+      </p>
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Evaluate structured conversation template.odt">
+        Download Open Source Document
+      </a>
+      <p>
+        ODT, 8KB, 1 page
+      </p>
     </div>
   </div>
 </div>

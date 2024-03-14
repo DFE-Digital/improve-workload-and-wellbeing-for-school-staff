@@ -2,8 +2,14 @@
   position: relative;
   background-color: govuk-colour("light-grey");
   border-top: 8px solid govuk-colour("blue");
-  padding: govuk-spacing(7) govuk-spacing(9) govuk-spacing(4) govuk-spacing(9);
-  margin: govuk-spacing(8) 0 govuk-spacing(8) govuk-spacing(3);
+  padding: govuk-spacing(6);
+  padding-top: govuk-spacing(7);
+  margin: 60px 0 60px govuk-spacing(3);
+
+  @include govuk-media-query($from: tablet) {
+    margin: 80px 0 80px govuk-spacing(3);
+    padding: govuk-spacing(7) govuk-spacing(9) govuk-spacing(4) govuk-spacing(9);
+  }
 
   .govuk-heading-m {
     margin-top: 0;
@@ -13,14 +19,20 @@
 .info-box__corner {
   position: absolute;
   background: govuk-colour("blue");
-  width: 60px;
-  height: 60px;
-  top: -20px;
+  width: 55px;
+  height: 55px;
+  top: -25px;
   left: -15px;
   z-index: 1;
   display: flex;
   justify-content: center;
   align-items: center;
+
+  @include govuk-media-query($from: tablet) {
+    width: 60px;
+    height: 60px;
+    top: -20px;
+  }
 }
 
 .info-box__download-content {
@@ -34,8 +46,6 @@
 
 .markdown-resource {
   .info-box {
-    margin-bottom: govuk-spacing(2);
-
     h2 {
       margin-top: 0;
     }

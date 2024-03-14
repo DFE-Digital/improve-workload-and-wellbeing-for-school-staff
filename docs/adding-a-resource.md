@@ -64,24 +64,20 @@ written in HTML. The following code snippets are used in
 ![info box](<Screenshot 2024-02-06 at 12.23.49.png>)
 
 ```html
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon" />
-      </div>
-      <h2 class="govuk-heading-m">Impact and outcomes</h2>
-      <p>
-        INSERT-IMPACT-AND-OUTCOMES
-      </p>
-      <p>
-        <ul>
-          <li>first list item</li>
-          <li>second list item</li>
-        </ul>
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon" />
   </div>
+  <h2 class="govuk-heading-m">Impact and outcomes</h2>
+  <p>
+    INSERT-IMPACT-AND-OUTCOMES
+  </p>
+  <p>
+    <ul>
+      <li>first list item</li>
+      <li>second list item</li>
+    </ul>
+  </p>
 </div>
 ```
 

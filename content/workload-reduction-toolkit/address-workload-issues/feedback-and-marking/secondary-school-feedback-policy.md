@@ -22,26 +22,25 @@ title: Secondary school feedback policy
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        This policy reduced the time teachers spent marking where it was not having an impact on pupil progress. 
-      </p>
-      <p>
-        Marking for progress has encouraged some departments to amend their assessment schemes at key stage 3.
-      </p>
-      <p>
-        For pupils, it allowed misconceptions to be highlighted and gave them time to understand what they need to do to progress. 
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    This policy reduced the time teachers spent marking where it was not having
+    an impact on pupil progress.
+  </p>
+  <p>
+    Marking for progress has encouraged some departments to amend their
+    assessment schemes at key stage 3.
+  </p>
+  <p>
+    For pupils, it allowed misconceptions to be highlighted and gave them time
+    to understand what they need to do to progress.
+  </p>
 </div>
 
 ## Background from Tony McCabe, Headteacher
@@ -58,7 +57,6 @@ All feedback:
 
 - informs pupil progress
 - has a positive impact on pupil outcomes
-
 - is a good use of teachers’ time
 
 The more immediate the feedback the greater the impact. All subject areas have identified a minimum standard in terms of regularity of feedback, taking into consideration lesson frequency and the nature of the subject.

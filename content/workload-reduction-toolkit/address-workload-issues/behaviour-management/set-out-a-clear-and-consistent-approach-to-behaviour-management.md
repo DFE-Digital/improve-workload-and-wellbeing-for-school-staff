@@ -22,25 +22,21 @@ title: Set out a clear and consistent approach to behaviour management
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-         Setting out a clear and consistent approach to behaviour management can
-         reduce workload.
-      </p>
-      <p>
-        It enables teachers to simply teach, rather than spend time dealing with
-        low level disruption.
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+      Setting out a clear and consistent approach to behaviour management can
+      reduce workload.
+  </p>
+  <p>
+    It enables teachers to simply teach, rather than spend time dealing with
+    low level disruption.
+  </p>
 </div>
 
 ## Background from Chris Gibson, Deputy Headteacher

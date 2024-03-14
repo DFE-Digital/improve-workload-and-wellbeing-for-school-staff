@@ -10,34 +10,34 @@ colour: green
 Use this template to show your staff the actions you have taken, or will take, to address workload issues identified in
 your school. Gather feedback and evaluate if any actions taken have had an impact on their workload.
 
-<div class="govuk-grid-row dfe-width-container govuk-!-padding-bottom-6">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Download icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Download the template
-      </h2>
-      <div class="govuk-grid-row info-box__download-content">
-        <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/identify--share-progress-with-staff.jpg" alt="Share progress with staff" class="dfe-file-preview-image">
-        </div>
-        <div class="govuk-grid-column-one-half">
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.docx">
-            Download Microsoft Word Document
-          </a>
-          <p>
-            DOCX, 27KB, 1 page
-          </p>
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.odt">
-            Download OpenDocument Text
-          </a>
-          <p>
-            ODT, 8KB, 1 page
-          </p>
-        </div>
-      </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/download-icon.svg" alt="Download icon">
+  </div>
+  <h2 class="govuk-heading-m">
+    Download the template
+  </h2>
+  <div class="govuk-grid-row info-box__download-content">
+    <div class="govuk-grid-column-one-half">
+      <img src="/assets/images/identify--share-progress-with-staff.jpg" alt="Share progress with staff" class="dfe-file-preview-image">
+    </div>
+    <div class="govuk-grid-column-one-half">
+      <p class="govuk-body-m govuk-!-margin-top-3 govuk-!-margin-bottom-0">
+        <a class="govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.docx">
+          Download Microsoft Word Document
+        </a>
+      </p>
+      <p class="govuk-body-m">
+        DOCX, 27KB, 1 page
+      </p>
+      <p class="govuk-body-m govuk-!-margin-top-3 govuk-!-margin-bottom-0">
+        <a class="govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.odt">
+          Download Open Source Document
+        </a>
+      </p>
+      <p class="govuk-body-m">
+        ODT, 8KB, 1 page
+      </p>
     </div>
   </div>
 </div>

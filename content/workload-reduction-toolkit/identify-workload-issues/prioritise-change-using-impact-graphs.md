@@ -11,37 +11,31 @@ Impact graphs are used to measure the impact of different tasks and prioritise
 change. This template is designed for use by senior leadership teams in staff
 one-to-ones, or in team or whole staff meetings.
 
-<div class="govuk-grid-row dfe-width-container govuk-!-padding-bottom-6">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Download icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Download the impact graph template
-      </h2>
-      <div class="govuk-grid-row info-box__download-content">
-        <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/identify--prioritise-change-using-impact-graphs.jpg" alt="Prioritise change using impact graphs" class="dfe-file-preview-image">
-        </div>
-        <div class="govuk-grid-column-one-half">
-           <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact graph.docx">
-            Download Microsoft Word Document
-          </a>
-          <p>
-            DOCX, 31KB, 1 page
-          </p>
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact graph.odt">
-            Download OpenDocument Text
-          </a>
-          <p>
-            ODT, 6KB, 1 page
-          </p>
-
-        </div>
-      </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/download-icon.svg" alt="Download icon">
+  </div>
+  <h2 class="govuk-heading-m">
+    Download the impact graph template
+  </h2>
+  <div class="govuk-grid-row info-box__download-content">
+    <div class="govuk-grid-column-one-half">
+      <img src="/assets/images/identify--prioritise-change-using-impact-graphs.jpg" alt="Prioritise change using impact graphs" class="dfe-file-preview-image">
     </div>
-
+    <div class="govuk-grid-column-one-half">
+        <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact graph.docx">
+        Download Microsoft Word Document
+      </a>
+      <p>
+        DOCX, 31KB, 1 page
+      </p>
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact graph.odt">
+        Download OpenDocument Text
+      </a>
+      <p>
+        ODT, 6KB, 1 page
+      </p>
+    </div>
   </div>
 </div>
 

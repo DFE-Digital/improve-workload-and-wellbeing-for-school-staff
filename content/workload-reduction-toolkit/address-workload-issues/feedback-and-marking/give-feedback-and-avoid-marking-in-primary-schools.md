@@ -22,20 +22,16 @@ title: Give feedback and avoid marking in primary schools
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        Different types of feedback help motivate pupils to progress and avoid burdensome marking practices.        
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    Different types of feedback help motivate pupils to progress and avoid burdensome marking practices.        
+  </p>
 </div>
 
 ## Background from Tess Fielden, Headteacher

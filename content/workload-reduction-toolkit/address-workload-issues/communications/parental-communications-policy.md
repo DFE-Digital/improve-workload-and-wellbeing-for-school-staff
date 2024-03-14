@@ -22,36 +22,30 @@ title: Parental communications policy
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-         Our parental communications policy has led to:
-      </p>
-      <p>
-        <ul>
-         <li>
-            a reduction in the demands to respond to parental emails in the
-            evenings and weekends, so that work and home boundaries are clearer
-         </li>
-         <li>
-            parents and carers better understand the context in which teachers
-            are working, and can modify their expectations of an immediate reply
-         </li>
-         <li>
-            communication is distributed and directed more appropriately across
-            the staff team
-         </li>
-        </ul>
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+      Our parental communications policy has led to:
+  </p>
+  <ul>
+    <li>
+      a reduction in the demands to respond to parental emails in the
+      evenings and weekends, so that work and home boundaries are clearer
+    </li>
+    <li>
+      parents and carers better understand the context in which teachers
+      are working, and can modify their expectations of an immediate reply
+    </li>
+    <li>
+      communication is distributed and directed more appropriately across
+      the staff team
+    </li>
+  </ul>
 </div>
 
 ## Background from Michael Antram, Headteacher

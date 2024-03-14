@@ -22,26 +22,33 @@ title: Develop a culture of support and staff development
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        Investing time and support to help everyone develop pays off. This policy resulted in paperwork reducing greatly and a positive culture developing.
-      </p>
-       <p>
-         A year 5 teacher who had been teaching for six years stated:
-       </p>
-      <p>
-        “When I first arrived at the school the paperwork was intense. We had regular lesson observations, we were required to annotate daily planning, update assessment scoring systems, conduct book scrutinies, complete evidence trails and do lots of marking in books. Over the years the school has slowly moved away from, what at times seemed a box-ticking culture, to remove the burden of paperwork away from the teachers so they can focus on what makes a difference - working with the children. Now our approach to assessment and monitoring is much more informal and involves daily assessment in class and informal chats with our SLT and wider team. As a team we communicate daily and make changes based on what we see each day. This approach is having a real impact in class.” 
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    Investing time and support to help everyone develop pays off. This policy
+    resulted in paperwork reducing greatly and a positive culture developing.
+  </p>
+  <p>
+    A year 5 teacher who had been teaching for six years stated:
+  </p>
+  <p>
+    “When I first arrived at the school the paperwork was intense. We had
+    regular lesson observations, we were required to annotate daily planning,
+    update assessment scoring systems, conduct book scrutinies, complete
+    evidence trails and do lots of marking in books. Over the years the school
+    has slowly moved away from, what at times seemed a box-ticking culture, to
+    remove the burden of paperwork away from the teachers so they can focus on
+    what makes a difference - working with the children. Now our approach to
+    assessment and monitoring is much more informal and involves daily
+    assessment in class and informal chats with our SLT and wider team. As a
+    team we communicate daily and make changes based on what we see each day.
+    This approach is having a real impact in class.”
+  </p>
 </div>
 
 ## Background from Ben Levinson, Headteacher

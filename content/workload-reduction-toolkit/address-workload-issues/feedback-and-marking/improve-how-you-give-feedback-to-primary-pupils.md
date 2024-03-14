@@ -22,20 +22,16 @@ title: Improve how you give feedback to primary pupils
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        Our approach has helped to reduce workload by empowering teachers to make professional judgements about when and how to give feedback to students. This means that all the time and effort of marking and feedback is focused on having an impact on the students rather than ticking a box. 
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    Our approach has helped to reduce workload by empowering teachers to make professional judgements about when and how to give feedback to students. This means that all the time and effort of marking and feedback is focused on having an impact on the students rather than ticking a box. 
+  </p>
 </div>
 
 ## Background from Ben Levinson, Headteacher

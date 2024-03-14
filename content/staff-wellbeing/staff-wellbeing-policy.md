@@ -23,52 +23,53 @@ colour: blue
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        A wellbeing policy helped the Pingle Academy to: 
-      <ul>
-        <li>
-          improve recruitment and retention
-        </li>
-        <li>
-          receive positive Ofsted feedback
-        </li>
-        <li>
-          receive positive feedback from staff on a range of wellbeing themes
-        </li>
-        <li>
-          achieve high engagement from staff with additional lessons or interventions – this is rewarded with time in lieu
-        </li>
-        <li>
-          achieve openness about wellbeing – staff communicate with team leaders and this is supported by a HR follow up
-        </li> 
-        <li>
-          engage collaboratively with professional organisations on academy improvement
-        </li>
-        <li>
-          appoint a lead governor for wellbeing 
-        </li>
-        <li>
-          appoint a mental health lead who works across the trust 
-        </li>
-        <li>
-          get support from the local governing body with its wellbeing plans
-        </li>
-      </ul>
-      </p>
-      <p>
-      'Leaders are considerate of staff and pay careful attention to their workload. One member of staff summed up the views of others in saying, “We look out for each other”.’ (Ofsted report)
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    A wellbeing policy helped the Pingle Academy to:
+  <ul>
+    <li>
+      improve recruitment and retention
+    </li>
+    <li>
+      receive positive Ofsted feedback
+    </li>
+    <li>
+      receive positive feedback from staff on a range of wellbeing themes
+    </li>
+    <li>
+      achieve high engagement from staff with additional lessons or
+      interventions – this is rewarded with time in lieu
+    </li>
+    <li>
+      achieve openness about wellbeing – staff communicate with team leaders and
+      this is supported by a HR follow up
+    </li>
+    <li>
+      engage collaboratively with professional organisations on academy
+      improvement
+    </li>
+    <li>
+      appoint a lead governor for wellbeing
+    </li>
+    <li>
+      appoint a mental health lead who works across the trust
+    </li>
+    <li>
+      get support from the local governing body with its wellbeing plans
+    </li>
+  </ul>
+  </p>
+  <p>
+    'Leaders are considerate of staff and pay careful attention to their
+    workload. One member of staff summed up the views of others in saying,
+    “We look out for each other”.’ (Ofsted report)
+  </p>
 </div>
 
 ## Background from Mary Hall, Vice Principal

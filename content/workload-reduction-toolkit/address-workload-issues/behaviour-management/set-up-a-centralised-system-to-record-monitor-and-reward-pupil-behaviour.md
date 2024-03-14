@@ -22,46 +22,38 @@ title: Set up a centralised system to record, monitor and reward pupil behaviour
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        A centralised system to record pupil behaviour can help you:
-      </p>
-      <p>
-        <ul>
-          <li>
-            identify issues with behaviour
-          </li>
-          <li>
-            intervene where necessary
-          </li>
-          <li>
-            reward good behaviour
-          </li>
-        </ul>
-      </p>
-      <p>
-        It also saves time and reduces paperwork, letting you:
-      </p>
-      <p>
-        <ul>
-          <li>
-            record information straight away
-          </li>
-          <li>
-            analyse behaviour regularly
-          </li>
-        </ul>
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    A centralised system to record pupil behaviour can help you:
+  </p>
+  <ul>
+    <li>
+      identify issues with behaviour
+    </li>
+    <li>
+      intervene where necessary
+    </li>
+    <li>
+      reward good behaviour
+    </li>
+  </ul>
+  <p>
+    It also saves time and reduces paperwork, letting you:
+  </p>
+  <ul>
+    <li>
+      record information straight away
+    </li>
+    <li>
+      analyse behaviour regularly
+    </li>
+  </ul>
 </div>
 
 ## Background from Jason Ashley, Headteacher

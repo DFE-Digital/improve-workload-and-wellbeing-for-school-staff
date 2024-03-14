@@ -23,23 +23,21 @@ colour: blue
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        As a small school with just 3 members of full-time staff, we had to protect staff time carefully.
-      </p>
-      <p>  
-        We ensured that we had the time to give to the large number of subjects we are responsible for, given the small number of us. 
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    As a small school with just 3 members of full-time staff, we had to protect
+    staff time carefully.
+  </p>
+  <p>  
+    We ensured that we had the time to give to the large number of subjects we
+    are responsible for, given the small number of us.
+  </p>
 </div>
 
 ## Background from Julie Kelly, Headteacher
