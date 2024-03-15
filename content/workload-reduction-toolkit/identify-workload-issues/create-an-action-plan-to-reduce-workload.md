@@ -47,7 +47,7 @@ taken, what success looks like and the timescale for actions to be taken.
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+          <img src="/assets/images/identify-and-evaluate--action-plan.jpg" alt="Workload action plan" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
           <div class="info-box__content">

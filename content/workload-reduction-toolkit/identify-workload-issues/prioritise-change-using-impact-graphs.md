@@ -22,7 +22,7 @@ one-to-ones, or in team or whole staff meetings.
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+          <img src="/assets/images/identify--prioritise-change-using-impact-graphs.jpg" alt="Prioritise change using impact graphs" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
            <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Impact graph.docx">
@@ -37,10 +37,11 @@ one-to-ones, or in team or whole staff meetings.
           <p>
             ODT, 6KB, 1 page
           </p>
-            
+
         </div>
       </div>
     </div>
+
   </div>
 </div>
 

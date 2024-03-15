@@ -20,7 +20,7 @@ A structured conversation template to help gather feedback from staff and teache
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+          <img src="/assets/images/evaluate--structured-conversation-template.jpg" alt="Structured conversation template" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
           <p class="govuk-body-m govuk-!-margin-top-3 govuk-!-margin-bottom-0">
