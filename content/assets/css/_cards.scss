@@ -183,6 +183,7 @@ $card-text-hover-color: govuk-colour("purple");
 
 .dfe-card {
   display: flex;
+  align-items: center;
   width: 100%;
   margin: govuk-spacing(3);
   background-color: #347ca9;
