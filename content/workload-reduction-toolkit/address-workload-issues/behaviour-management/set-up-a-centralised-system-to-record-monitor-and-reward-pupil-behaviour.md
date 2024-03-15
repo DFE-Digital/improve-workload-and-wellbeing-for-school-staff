@@ -18,7 +18,7 @@ title: Set up a centralised system to record, monitor and reward pupil behaviour
 
 **Number of pupils**: 1000
 
-**Contact details**: <head@redbridge.southampton.sch.uk>
+**Contact details**: Email Headteacher Jason Ashley at <head@redbridge.southampton.sch.uk>
 
 {/inset-text}
 

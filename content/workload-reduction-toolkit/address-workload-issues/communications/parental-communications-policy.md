@@ -10,7 +10,7 @@ title: Parental communications policy
 
 ## School details
 
-**School name**: St Edward’s RC Primary
+**School name**: St Edward’s School
 
 **Location**: Dorset
 

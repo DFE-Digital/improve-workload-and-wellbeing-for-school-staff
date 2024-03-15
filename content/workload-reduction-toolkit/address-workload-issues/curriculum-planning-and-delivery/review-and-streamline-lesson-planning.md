@@ -60,7 +60,7 @@ facilitator to prepare the session for use in your school.
 
 ## How to run with your staff
 
-The workshop is designed for senior leadership teams to facilitate with their
+The presentation is designed for senior leadership teams to facilitate with their
 staff across the whole school, teams or departments about expectations for
 planning. It allows staff to assess what works within the current system and
 decide what needs to be discussed further to remove unnecessary burdens and
@@ -74,13 +74,13 @@ Discussion will be stimulated by actual examples of the various forms of long,
 medium or short-term planning in your school. Have photocopied examples ready
 for each group.
 
-Ask staff before the workshop to bring examples of their current schemes of work
+Ask staff before the presentation to bring examples of their current schemes of work
 and lesson plans or have some available to stimulate discussion.
 
 Senior leadership teams are likely to want to oversee the process. They could
 also consider if it is more appropriate for another member of staff to
 facilitate the session and lead on follow-up, for example, a head of department.
 Alternatively, you might wish to consider asking somebody independent to
-facilitate the workshop to free up time to take part.
+facilitate the presentation to free up time to take part.
 
 Provide a supportive environment for open and honest professional dialogue.

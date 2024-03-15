@@ -3,7 +3,7 @@ title: Evaluate progress with staff
 colour: green
 ---
 
-# Evaluate outcomes and share progress with staff
+# Evaluate progress with staff
 
 <strong class="govuk-tag">Template</strong>
 

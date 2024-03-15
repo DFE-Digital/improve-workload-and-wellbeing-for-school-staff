@@ -150,7 +150,7 @@ Training for middle and senior leaders happens to ensure meeting and CPD time is
 
 Targeted support plans are in place for teachers who need it.  The aim here is always to highlight strengths and build on inconsistencies, not to demotivate or identify weaknesses.   
 
-We offer an exceptional Early Career Teacher (ECT) programme, with dedicated mentors that receive bespoke training on how to be an effective mentors and observers.  
+We offer an exceptional Early Career Teacher (ECT) programme, with dedicated mentors that receive bespoke training on how to be effective mentors and observers.  
 
 We train middle and senior leaders to provide effective and constructive feedback that is modelled around powerful action steps. This is bespoke and tailored to the individual’s needs.   
 
@@ -190,7 +190,7 @@ Refreshments are provided before parents’ evenings.
 
 We have weekly staff nominations for thanks and an ‘above and beyond’ award, where our headteacher buys a staff member lunch.  
 
-Regular staff social events out-of-school are scheduled.  
+Regular staff social events outside of school are scheduled.  
 
 BA termly wellbeing weeks consist of a carousel of staff mindfulness, relaxation and managing stress sessions.  
 
