@@ -2,7 +2,7 @@
   <div class="feedback-section">
     <div class="feedback-section__icon">
       <img
-        src="<%= @base_url %>/assets/images/idea-icon-<%= defined?(colour) ? colour : 'blue' %>.svg"
+        src="<%= base_url %>/assets/images/idea-icon-<%= defined?(colour) ? colour : 'blue' %>.svg"
         alt="Idea icon"
         class="dfe-icon"
       />
@@ -14,7 +14,10 @@
         school.
       </p>
       <p class="govuk-body">
-        <a href="<%= @base_url %>/share-your-ideas" class="govuk-link govuk-link--no-visited-state">
+        <a
+          href="<%= base_url %>/share-your-ideas"
+          class="govuk-link govuk-link--no-visited-state"
+        >
           Share your ideas
         </a>
       </p>
@@ -22,7 +25,11 @@
   </div>
   <div class="feedback-section">
     <div class="feedback-section__icon">
-      <img src="<%= @base_url %>/assets/images/chat-icon-<%= defined?(colour) ? colour : 'blue' %>.svg" alt="Chat icon" class="dfe-icon" />
+      <img
+        src="<%= base_url %>/assets/images/chat-icon-<%= defined?(colour) ? colour : 'blue' %>.svg"
+        alt="Chat icon"
+        class="dfe-icon"
+      />
     </div>
     <div class="feedback-section__content">
       <h3 class="govuk-heading-m">Help improve our service</h3>
@@ -31,7 +38,10 @@
         for all school staff.
       </p>
       <p class="govuk-body">
-        <a href="https://forms.office.com/e/sEhZxVyw29" class="govuk-link govuk-link--no-visited-state">
+        <a
+          href="https://forms.office.com/e/sEhZxVyw29"
+          class="govuk-link govuk-link--no-visited-state"
+        >
           Complete our feedback form
         </a>
       </p>
