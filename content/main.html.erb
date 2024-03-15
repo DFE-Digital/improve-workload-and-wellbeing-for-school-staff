@@ -28,26 +28,18 @@ title: Home
 <div class="govuk-main-wrapper">
   <div class="govuk-width-container dfe-width-container">
     <ul class="govuk-grid-row card-group">
-      <li class="govuk-grid-column-one-half card-group__item">
-        <a class="dfe-card dfe-card--clickable govuk-link--no-visited-state" href="<%= @base_url %>/workload-reduction-toolkit">
-          <h2 class="govuk-body-l dfe-card-header">
-            Workload reduction toolkit
-          </h2>
-          <div class="dfe-card-body">
-            <p class="govuk-body">Support workload reduction with resources produced by school leaders.</p>
-          </div>
-        </a>
+      <li class="govuk-grid-column-one-half card-group__item govuk-!-padding-4">
+        <%= render('/partials/tile.*', title: "Workload reduction toolkit",
+          body: "Support workload reduction with resources produced by school leaders.",
+          href: "#{@base_url}/workload-reduction-toolkit"
+        ) %>
       </li>
 
-      <li class="govuk-grid-column-one-half card-group__item">
-        <a class="dfe-card dfe-card--clickable govuk-link--no-visited-state" href="<%= @base_url %>/staff-wellbeing">
-          <h2 class="govuk-body-l dfe-card-header">
-            Staff wellbeing
-          </h2>
-          <div class="dfe-card-body">
-            <p class="govuk-body">Promote a culture of wellbeing with resources made by school leaders.</p>
-          </div>
-        </a>
+      <li class="govuk-grid-column-one-half card-group__item govuk-!-padding-4">
+        <%= render('/partials/tile.*', title: "Staff wellbeing",
+          body: "Promote a culture of wellbeing with resources made by school leaders.",
+          href: "#{@base_url}/staff-wellbeing"
+        ) %>
       </li>
     </ul>
   </div>

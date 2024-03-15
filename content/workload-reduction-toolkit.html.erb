@@ -34,42 +34,27 @@ title: Workload reduction toolkit
 
     <ul class="govuk-grid-row card-group">
       <li class="govuk-grid-column-one-third card-group__item">
-        <a class="dfe-card dfe-card--clickable govuk-link--no-visited-state" href="<%= @base_url %>/workload-reduction-toolkit/identify-workload-issues">
-          <h3 class="dfe-card-header dfe-card-header--pink govuk-body">
-            Identify workload issues
-          </h3>
-          <div class="dfe-card-body">
-            <p class="govuk-body">
-              Identify workload issues and prioritise where to act
-            </p>
-          </div>
-        </a>
+        <%= render('/partials/tile.*', title: "Identify workload issues",
+          body: "Identify workload issues and prioritise where to act",
+          href: "#{@base_url}/workload-reduction-toolkit/identify-workload-issues",
+          colour: "pink"
+        ) %>
       </li>
 
       <li class="govuk-grid-column-one-third card-group__item">
-        <a class="dfe-card dfe-card--clickable govuk-link--no-visited-state" href="<%= @base_url %>/workload-reduction-toolkit/address-workload-issues">
-          <h3 class="dfe-card-header dfe-card-header--purple govuk-body">
-            Address workload issues
-          </h3>
-          <div class="dfe-card-body">
-            <p class="govuk-body">
-              Take action to reduce workload
-            </p>
-          </div>
-        </a>
+        <%= render('/partials/tile.*', title: "Address workload issues",
+          body: "Take action to reduce workload",
+          href: "#{@base_url}/workload-reduction-toolkit/address-workload-issues",
+          colour: "purple"
+        ) %>
       </li>
 
       <li class="govuk-grid-column-one-third card-group__item">
-        <a class="dfe-card dfe-card--clickable govuk-link--no-visited-state" href="<%= @base_url %>/workload-reduction-toolkit/evaluate-workload-measures">
-          <h3 class="dfe-card-header dfe-card-header--green govuk-body">
-            Evaluate workload measures
-          </h3>
-          <div class="dfe-card-body">
-            <p class="govuk-body">
-              Track and evaluate workload reduction measures
-            </p>
-          </div>
-        </a>
+        <%= render('/partials/tile.*', title: "Evaluate workload measures",
+          body: "Track and evaluate workload reduction measures",
+          href: "#{@base_url}/workload-reduction-toolkit/evaluate-workload-measures",
+          colour: "green"
+        ) %>
       </li>
     </ul>
   </div>
