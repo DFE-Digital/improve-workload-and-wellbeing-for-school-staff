@@ -4,14 +4,20 @@
     <div class="share-resource__icon <%= @item[:colour] ? 'share-resource__icon--' + @item[:colour] : nil %>">
       <img src="<%= base_url %>/assets/images/link-icon.svg" alt="Link icon"/>
     </div>
-    <button onclick="window.navigator.clipboard.writeText(window.location.href);" class="button-link">
-      Copy link
-    </button>
+    <p>
+      <button onclick="window.navigator.clipboard.writeText(window.location.href);" class="govuk-link button-link">
+        Copy link
+      </button>
+    </p>
   </div>
   <div class="share-resource">
     <div class="share-resource__icon <%= @item[:colour] ? 'share-resource__icon--' + @item[:colour] : nil %>">
       <img src="<%= base_url %>/assets/images/mail-icon.svg" alt="Mail icon"/>
     </div>
-    <a href="mailto:school.workloadandwellbeing@education.gov.uk?subject=Resource to help with workload and wellbeing for school staff&body=Check out <%= @item[:title] %> to help improve workload and wellbeing for staff in your school: <%= base_url %><%= @item.path %>">Email</a>
+    <p>
+      <a href="mailto:school.workloadandwellbeing@education.gov.uk?subject=Resource to help with workload and wellbeing for school staff&body=Check out <%= @item[:title] %> to help improve workload and wellbeing for staff in your school: <%= base_url %><%= @item.path %>">
+        Email
+      </a>
+    </p>
   </div>
 </div>
