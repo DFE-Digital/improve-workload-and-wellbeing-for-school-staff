@@ -53,13 +53,13 @@ resources from the workload reduction toolkit.
             Download Microsoft Word Document
           </a>
           <p>
-            DOCX, ?KB, ? pages
+            DOCX, 31KB, 4 pages
           </p>
           <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Staff workload survey.odt">
             Download OpenDocument Text
           </a>
           <p>
-            ODT, ?KB, ? pages
+            ODT, 16KB, 4 pages
           </p>
         </div>
       </div>
@@ -86,8 +86,9 @@ following suggestions for running a successful survey:
 ### Decide when and how often to run the survey
 
 Consider when in the school year it would be best to run your staff survey for
-it to have the most impact and allow you to act on the results. Carrying out
-regular surveys will allow you to evaluate the impact that your actions are
+it to have the most impact and allow you to act on the results. 
+
+Carrying out regular surveys will allow you to [evaluate the impact](/workload-reduction-toolkit/evaluate-workload-measures) that your actions are
 having on staff workload, for example, some schools run these annually.
 
 ### Decide who to survey and how long it will run for
@@ -103,6 +104,8 @@ open for.
 An anonymous survey may encourage more accurate responses from the staff who
 take part. If you want to understand differences in workload between teams or
 groups, questions about name and role can be added.
+
+You should edit the survey to tell your staff if the survey is anonymous or not. 
 
 ### Decide what to do next
 

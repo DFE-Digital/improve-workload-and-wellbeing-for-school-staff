@@ -54,13 +54,13 @@ refine any actions you’ve taken to reduce workload.
             Download Microsoft Word Document
           </a>
           <p>
-            DOCX, ?KB, ? pages
+            DOCX, 31KB, 4 pages
           </p>
           <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Staff workload survey.odt">
             Download OpenDocument Text
           </a>
           <p>
-            ODT, ?KB, ? pages
+            ODT, 16KB, 4 pages
           </p>
         </div>
       </div>

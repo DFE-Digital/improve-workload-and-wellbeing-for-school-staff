@@ -30,28 +30,24 @@ colour: green
         <img src="/assets/images/download-icon.svg" alt="Download icon">
       </div>
       <h2 class="govuk-heading-m">
-        Download the template
+        Download the example
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
           <img src="/assets/images/identify-and-evaluate--action-plan.jpg" alt="Workload action plan" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <p class="govuk-body-m govuk-!-margin-top-3 govuk-!-margin-bottom-0">
-            <a class="govuk-link govuk-link--no-visited-state" href="#">
-              Download Microsoft Word Document
-            </a>
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+            Download Microsoft Word Document
+          </a>
+          <p>
+            DOCX, 29KB, 2 pages
           </p>
-          <p class="govuk-body-m">
-            --KB, 1 page
-          </p>
-          <p class="govuk-body-m govuk-!-margin-top-3 govuk-!-margin-bottom-0">
-            <a class="govuk-link govuk-link--no-visited-state" href="#">
-              Download Open Source Document
-            </a>
-          </p>
-          <p class="govuk-body-m">
-            --KB, 1 page
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+            Download OpenDocument Text
+          </a>
+          <p>
+            ODT, 11KB, 2 pages
           </p>
         </div>
       </div>
