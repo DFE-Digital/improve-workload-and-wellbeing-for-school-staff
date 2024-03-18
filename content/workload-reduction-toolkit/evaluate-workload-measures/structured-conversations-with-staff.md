@@ -23,13 +23,13 @@ A structured conversation template to help gather feedback from staff and teache
           <img src="/assets/images/evaluate--structured-conversation-template.jpg" alt="Structured conversation template" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Evaluate structured conversation template.docx">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Evaluate structured conversation template.docx">
             Download Microsoft Word Document
           </a>
           <p>
             DOCX, 28KB, 1 page
           </p>
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Evaluate structured conversation template.odt">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Evaluate structured conversation template.odt">
             Download OpenDocument Text
           </a>
           <p>

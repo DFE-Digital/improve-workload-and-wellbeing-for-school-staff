@@ -30,13 +30,13 @@ The presentation includes:
             <img src="/assets/images/curriculum-planning-and-delivery--review-and-streamline-lesson-planning.jpg" alt="Review and streamline lesson planning" class="dfe-file-preview-image">
           </div>
           <div class="govuk-grid-column-one-half">
-            <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.pptx">
+            <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.pptx">
               Download Microsoft PowerPoint
             </a>
             <p>
               PPTX, 114KB, 9 slides
             </p>
-            <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.odp">
+            <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.odp">
               Download OpenDocument Presentation
             </a>
             <p>

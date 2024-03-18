@@ -70,13 +70,13 @@ create and complete the impact matrix.
         </div>
         <div class="govuk-grid-column-one-half">
           <div class="info-box__content">
-             <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Impact matrix.docx">
+             <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact matrix.docx">
               Download Microsoft Word Document
             </a>
             <p>
               DOCX, 25KB, 1 page
             </p>
-            <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Impact matrix.odt">
+            <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact matrix.odt">
               Download OpenDocument Text
             </a>
             <p>

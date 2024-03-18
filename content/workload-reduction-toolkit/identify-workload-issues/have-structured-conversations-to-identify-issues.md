@@ -24,13 +24,13 @@ teachers about their workload issues.
           <img src="/assets/images/identify--have-structured-conversations-with-staff.jpg" alt="Have structured conversations to identify issues" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Identify structured conversation template.docx">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Identify structured conversation template.docx">
             Download Microsoft Word Document
           </a>
           <p>
             DOCX, 26KB, 1 page
           </p>
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Identify structured conversation template.odt">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Identify structured conversation template.odt">
             Download OpenDocument Text
           </a>
           <p>

@@ -30,13 +30,13 @@ The presentation includes:
           <img src="/assets/images/identify--plan-your-yearly-calendar.jpg" alt="Plan your yearly calendar" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.pptx">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.pptx">
             Download Microsoft PowerPoint
           </a>
           <p>
             PPTX, 115KB, 9 slides
           </p>
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.odp">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.odp">
             Download OpenDocument Presentation
           </a>
           <p>
