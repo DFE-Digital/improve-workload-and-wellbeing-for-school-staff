@@ -46,7 +46,7 @@ resources from the workload reduction toolkit.
       </h2>
       <div class="govuk-grid-row info-box__download-content">
         <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
+          <img src="/assets/images/identify-and-evaluate-survey.jpeg" alt="Staff workload survey" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
           <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Staff workload survey.docx">
