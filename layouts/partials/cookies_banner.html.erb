@@ -1,5 +1,14 @@
-<div class="govuk-cookie-banner" role="region" aria-label="Cookies banner" data-nosnippet hidden data-module="cookie-banner">
-  <div class="govuk-cookie-banner__message govuk-width-container dfe-width-container">
+<div
+  class="govuk-cookie-banner"
+  role="region"
+  aria-label="Cookies banner"
+  data-nosnippet
+  hidden
+  data-module="cookie-banner"
+>
+  <div
+    class="govuk-cookie-banner__message govuk-width-container dfe-width-container"
+  >
     <div class="govuk-grid-row">
       <div class="govuk-grid-column-two-thirds">
         <h2 class="govuk-cookie-banner__heading govuk-heading-m">
@@ -17,19 +26,40 @@
       </div>
     </div>
     <div class="govuk-button-group">
-      <button value="yes" type="button" class="govuk-button" data-module="govuk-button">
+      <button
+        value="yes"
+        type="button"
+        class="govuk-button"
+        data-module="govuk-button"
+      >
         Accept analytics cookies
       </button>
-      <button value="no" type="button" class="govuk-button" data-module="govuk-button">
+      <button
+        value="no"
+        type="button"
+        class="govuk-button"
+        data-module="govuk-button"
+      >
         Reject analytics cookies
       </button>
-      <a class="govuk-link" href="<%= @base_url %>/cookie-policy">View cookies</a>
+      <a class="govuk-link" href="<%= base_url %>/cookie-policy"
+        >View cookies</a
+      >
     </div>
   </div>
 </div>
 
-<div class="govuk-cookie-banner govuk-!-display-none-print" role="region" aria-label="Cookies banner" data-nosnippet hidden data-module="after-consent-cookie-banner">
-  <div class="govuk-cookie-banner__message govuk-width-container dfe-width-container">
+<div
+  class="govuk-cookie-banner govuk-!-display-none-print"
+  role="region"
+  aria-label="Cookies banner"
+  data-nosnippet
+  hidden
+  data-module="after-consent-cookie-banner"
+>
+  <div
+    class="govuk-cookie-banner__message govuk-width-container dfe-width-container"
+  >
     <div class="govuk-grid-row">
       <div class="govuk-grid-column-two-thirds">
         <div class="govuk-cookie-banner__content">
@@ -37,13 +67,23 @@
             You’ve
             <span class="decision accepted">accepted</span>
             <span class="decision rejected">rejected</span>
-            analytics cookies.
-            You can <a class="govuk-link" href="<%= @base_url %>/cookie-policy">change your cookie settings</a> at any time.</p>
+            analytics cookies. You can
+            <a class="govuk-link" href="<%= base_url %>/cookie-policy"
+              >change your cookie settings</a
+            >
+            at any time.
+          </p>
         </div>
       </div>
     </div>
     <div class="govuk-button-group">
-      <button value="yes" type="submit" name="cookies[hide]" class="govuk-button cookie-button" data-module="govuk-button">
+      <button
+        value="yes"
+        type="submit"
+        name="cookies[hide]"
+        class="govuk-button cookie-button"
+        data-module="govuk-button"
+      >
         Hide cookie message
       </button>
     </div>

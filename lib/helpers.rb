@@ -6,3 +6,7 @@ use_helper Nanoc::Helpers::Rendering
 use_helper Nanoc::Helpers::LinkTo
 use_helper Nanoc::Helpers::Breadcrumbs
 use_helper NavigationHelper
+
+def base_url
+  @config[:base_url]
+end
