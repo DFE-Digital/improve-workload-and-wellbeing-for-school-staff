@@ -55,7 +55,7 @@ appropriate.
 
 ## Presentation length
 
-1 hour. Time should also be allocated for the facilitator to enable
+The presentation should take 1 hour. Time should also be allocated for the facilitator to enable
 them to effectively prepare the session for use in your school.
 
 ## How to run with your staff
@@ -91,8 +91,6 @@ Provide a supportive environment for open and honest professional dialogue.
 ## Useful reading
 
 - [Creating a culture: a review of behaviour management in schools](https://www.gov.uk/government/publications/behaviour-in-schools)
-
-- [Behaviour in schools: advice for headteachers and school staff](https://www.gov.uk/government/publications/behaviour-in-schools--2)
 
 - [Policy Exchange publication: It just grinds you down](https://policyexchange.org.uk/publication/it-just-grinds-you-down)
 

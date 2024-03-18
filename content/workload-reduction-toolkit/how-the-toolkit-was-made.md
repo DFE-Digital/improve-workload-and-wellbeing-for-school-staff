@@ -17,7 +17,7 @@ at a national level.
 
 It builds on the principles of the Workload Advisory Group report
 [Making data work](https://www.gov.uk/government/publications/teacher-workload-advisory-group-report-and-government-response)
-and 3 independent reports on marking, planning and resources and data management:
+and three independent reports on marking, planning and resources and data management:
 
 - [Data Management Review Group report](https://www.gov.uk/government/publications/reducing-teacher-workload-data-management-review-group-report)
 - [Marking Policy Review Group report](https://www.gov.uk/government/publications/reducing-teacher-workload-marking-policy-review-group-report)

@@ -1,5 +1,5 @@
 ---
-title: Have stuctured conversations with staff to evaluate outcomes
+title: Have structured conversations to evaluate outcomes
 colour: green
 ---
 

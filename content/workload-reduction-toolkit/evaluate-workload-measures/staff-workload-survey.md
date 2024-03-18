@@ -50,29 +50,17 @@ refine any actions you’ve taken to reduce workload.
           <img src="/assets/images/preview-placeholder.jpg" alt="Placeholder image" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <a class="govuk-link--no-visited-state govuk-body" href="#">
-            Download Microsoft PowerPoint
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Staff workload survey.docx">
+            Download Microsoft Word Document
           </a>
           <p>
-            PPTX, TBC KB, TBC slides
+            DOCX, ?KB, ? pages
           </p>
-          <a class="govuk-link--no-visited-state govuk-body" href="#">
-            Download OpenDocument Presentation
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Staff workload survey.odt">
+            Download OpenDocument Text
           </a>
           <p>
-            ODP, TBC KB, TBC slides
-          </p>
-          <p class="govuk-body-m">
-            70KB, 5 pages
-          </p>
-          <a class="govuk-link--no-visited-state govuk-body" href="#">
-            Download OpenDocument Presentation
-          </a>
-          <p>
-            ODP, TBC KB, TBC slides
-          </p>
-          <p class="govuk-body-m">
-            70KB, 5 pages
+            ODT, ?KB, ? pages
           </p>
         </div>
       </div>

@@ -68,6 +68,6 @@ each action.
 Once you have addressed a workload issue, speak with your staff again to assess
 how their workload and views have changed.
 
-You can use the [Evaluate workload meaures](/workload-reduction-toolkit/evaluate-workload-measures/)
+You can use the [Evaluate workload measures](/workload-reduction-toolkit/evaluate-workload-measures/)
 section of the workload reduction toolkit to help you evaluate and monitor the
 impact of your workload reduction measures.
