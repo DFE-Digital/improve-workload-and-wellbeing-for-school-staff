@@ -8,5 +8,8 @@ use_helper Nanoc::Helpers::Breadcrumbs
 use_helper NavigationHelper
 
 def base_url
+  # Set base_url to DEPLOY_PRIME_URL for Netlify previews
+  return ENV['DEPLOY_PRIME_URL'] if ENV['DEPLOY_PRIME_URL']
+
   @config[:base_url]
 end

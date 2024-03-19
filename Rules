@@ -1,6 +1,11 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
+preprocess do
+  # Override base_url for Netlify previews
+  @config[:base_url] = ENV['DEPLOY_PRIME_URL'] if ENV['DEPLOY_PRIME_URL']
+end
+
 compile '/**/*.html.erb' do
   filter :erb
   layout item.fetch(:layout, '/default.*')

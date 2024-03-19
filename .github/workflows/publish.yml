@@ -7,9 +7,8 @@ on:
 
 permissions:
   contents: read
-  pages: write      # to deploy to Pages
-  id-token: write   # to verify the deployment originates from an appropriate source
-
+  pages: write # to deploy to Pages
+  id-token: write # to verify the deployment originates from an appropriate source
 
 jobs:
   build-and-deploy:
@@ -27,11 +26,13 @@ jobs:
 
       - name: Build site
         uses: ./.github/actions/build-site
+        env:
+          NANOC_ENV: production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'output'
+          path: "output"
 
       - name: Deploy to GitHub Pages
         id: deployment
