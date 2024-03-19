@@ -24,21 +24,17 @@ your school. Gather feedback and evaluate if any actions taken have had an impac
           <img src="/assets/images/identify--share-progress-with-staff.jpg" alt="Share progress with staff" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <p class="govuk-body-m govuk-!-margin-top-3 govuk-!-margin-bottom-0">
-            <a class="govuk-link govuk-link--no-visited-state" href="#">
-              Download Microsoft Word Document
-            </a>
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.docx">
+            Download Microsoft Word Document
+          </a>
+          <p>
+            DOCX, 27KB, 1 page
           </p>
-          <p class="govuk-body-m">
-            --KB, 1 page
-          </p>
-          <p class="govuk-body-m govuk-!-margin-top-3 govuk-!-margin-bottom-0">
-            <a class="govuk-link govuk-link--no-visited-state" href="#">
-              Download Open Source Document
-            </a>
-          </p>
-          <p class="govuk-body-m">
-            --KB, 1 page
+          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.odt">
+            Download OpenDocument Text
+          </a>
+          <p>
+            ODT, 8KB, 1 page
           </p>
         </div>
       </div>
