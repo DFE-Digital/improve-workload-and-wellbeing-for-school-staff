@@ -8,7 +8,7 @@ layout: /markdown_layout.html.erb
 The toolkit is a set of workload reduction resources produced by school leaders, for school leaders. They have been
 designed to support what you are already doing and can be adapted to work in your school.
 
----
+<hr class="section-break--thin"></hr>
 
 ## Background to the toolkit
 
