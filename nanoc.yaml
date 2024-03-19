@@ -44,4 +44,4 @@ environments:
   default:
     base_url: "http://127.0.0.1:3000"
   production:
-    base_url: "https://dfe-digital.github.io/improve-school-workload-and-wellbeing"
+    base_url: "https://improve-workload-and-wellbeing-for-school-staff.education.gov.uk"
