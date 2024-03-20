@@ -28,13 +28,13 @@ staff workload survey, prioritise next steps and identify:
           <img src="/assets/images/identify--act-on-your-staff-survey.jpg" alt="Act on your staff workload survey" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Act on the staff workload survey.pptx">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Act on the staff workload survey.pptx">
             Download Microsoft PowerPoint
           </a>
           <p>
             PPTX, 90KB, 4 slides
           </p>
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Act on the staff workload survey.odp">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Act on the staff workload survey.odp">
             Download OpenDocument Presentation
           </a>
           <p>

@@ -51,13 +51,13 @@ taken, what success looks like and the timescale for actions to be taken.
         </div>
         <div class="govuk-grid-column-one-half">
           <div class="info-box__content">
-             <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+             <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
               Download Microsoft Word Document
             </a>
             <p>
               DOCX, 29KB, 2 pages
             </p>
-            <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+            <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
               Download OpenDocument Text
             </a>
             <p>

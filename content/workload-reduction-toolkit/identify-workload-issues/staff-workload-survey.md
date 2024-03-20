@@ -49,13 +49,13 @@ resources from the workload reduction toolkit.
           <img src="/assets/images/identify-and-evaluate-survey.jpeg" alt="Staff workload survey" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Staff workload survey.docx">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Staff workload survey.docx">
             Download Microsoft Word Document
           </a>
           <p>
             DOCX, 31KB, 4 pages
           </p>
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Staff workload survey.odt">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Staff workload survey.odt">
             Download OpenDocument Text
           </a>
           <p>

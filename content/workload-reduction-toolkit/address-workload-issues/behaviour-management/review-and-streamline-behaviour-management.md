@@ -29,13 +29,13 @@ The presentation includes:
           <img src="/assets/images/behaviour-management--review-and-streamline-behaviour-management.jpg" alt="Review and streamline behaviour management" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Review and streamline behaviour management.pptx">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline behaviour management.pptx">
             Download Microsoft PowerPoint
          </a>
          <p>
            PPTX, 181KB, 7 slides
          </p>
-         <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Review and streamline behaviour management.odp">
+         <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline behaviour management.odp">
            Download OpenDocument Presentation
          </a>
          <p>

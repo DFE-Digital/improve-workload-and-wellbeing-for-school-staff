@@ -37,13 +37,13 @@ colour: green
           <img src="/assets/images/identify-and-evaluate--action-plan.jpg" alt="Workload action plan" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
             Download Microsoft Word Document
           </a>
           <p>
             DOCX, 29KB, 2 pages
           </p>
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
             Download OpenDocument Text
           </a>
           <p>

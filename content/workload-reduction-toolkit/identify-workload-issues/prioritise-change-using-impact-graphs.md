@@ -25,13 +25,13 @@ one-to-ones, or in team or whole staff meetings.
           <img src="/assets/images/identify--prioritise-change-using-impact-graphs.jpg" alt="Prioritise change using impact graphs" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-           <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Impact graph.docx">
+           <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact graph.docx">
             Download Microsoft Word Document
           </a>
           <p>
             DOCX, 31KB, 1 page
           </p>
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Impact graph.odt">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact graph.odt">
             Download OpenDocument Text
           </a>
           <p>

@@ -445,6 +445,11 @@ hr.section-break--thin {
   margin-right: govuk-spacing(7);
   align-items: center;
   line-height: 0;
+
+  p {
+    margin-bottom: 0;
+    font-size: 16px;
+  }
 }
 
 .share-resource__icon {

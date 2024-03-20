@@ -24,13 +24,13 @@ workload issues identified in your school.
           <img src="/assets/images/identify--share-progress-with-staff.jpg" alt="Share progress with staff" class="dfe-file-preview-image">
         </div>
         <div class="govuk-grid-column-one-half">
-           <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.docx">
+           <a class="govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.docx">
             Download Microsoft Word Document
           </a>
           <p>
             DOCX, 27KB, 1 page
           </p>
-          <a class="govuk-link--no-visited-state govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.odt">
+          <a class="govuk-body" href="<%= @base_url %>/assets/files/Share progress with staff template.odt">
             Download OpenDocument Text
           </a>
           <p>
