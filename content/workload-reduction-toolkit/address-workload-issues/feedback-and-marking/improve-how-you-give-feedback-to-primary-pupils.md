@@ -18,7 +18,7 @@ title: Improve how you give feedback to primary pupils
 
 **Number of pupils:** 700
 
-**Contact details:** Email the school office at <info@kensington.ttlt.academy> 
+**Contact details:** Email the school office at <info@kensington.ttlt.academy>
 
 {/inset-text}
 
@@ -42,38 +42,37 @@ title: Improve how you give feedback to primary pupils
 
 {inset-text}
 
-We interrogated the most recent research on effective feedback and discussed how it could work in our own practice with our whole staff. We developed our approach based on the question “why are we giving this feedback?”  
+We interrogated the most recent research on effective feedback and discussed how it could work in our own practice with our whole staff. We developed our approach based on the question “why are we giving this feedback?”
 
-As a school we went through a number of iterations of the approach, which allowed our staff to gradually change their practice rather than having to transform overnight. This helped us prevent added workload that often comes with sudden big changes. Throughout the changes we gathered feedback and provided support for staff who needed help and guidance. 
+As a school we went through a number of iterations of the approach, which allowed our staff to gradually change their practice rather than having to transform overnight. This helped us prevent added workload that often comes with sudden big changes. Throughout the changes we gathered feedback and provided support for staff who needed help and guidance.
 
 {/inset-text}
 
-## Why give feedback 
+## Why give feedback
 
-There are two main reasons we give feedback. Firstly, to motivate the child. Secondly, we can see an opportunity for learning by: 
+There are two main reasons we give feedback. Firstly, to motivate the child. Secondly, we can see an opportunity for learning by:
 
-* addressing a misunderstanding 
+- addressing a misunderstanding
 
-* reinforcing a skill or key piece of information 
+- reinforcing a skill or key piece of information
 
-* extending a child’s understanding or ability to do something 
+- extending a child’s understanding or ability to do something
 
-## When to give feedback 
+## When to give feedback
 
-When and how feedback is given matters. It needs to be based on what will most positively impact that child's progress. 
+When and how feedback is given matters. It needs to be based on what will most positively impact that child's progress.
 
 As a school, we encourage teachers to use their professional judgement to decide when it is the right time to:
 
-* provide verbal feedback
-  
-* to surface mark
+- provide verbal feedback
+- to surface mark
 
-* highlight mistakes
+- highlight mistakes
 
-* give a next step comment
+- give a next step comment
 
-## Support staff to make decisions 
+## Support staff to make decisions
 
-Whilst this level of professional decision making is our ultimate goal, we understand that these judgements are difficult. Often, it can take time to develop a real understanding of when to use a particular type of feedback. 
+Whilst this level of professional decision making is our ultimate goal, we understand that these judgements are difficult. Often, it can take time to develop a real understanding of when to use a particular type of feedback.
 
 If teachers are ever unsure, they can speak to another staff member, phase leader or SLT member, who can offer further advice and support. If there are queries, SLT will have conversations with teachers to understand why they have made certain choices and offer further support and guidance.

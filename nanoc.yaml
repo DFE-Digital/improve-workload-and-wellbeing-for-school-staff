@@ -42,6 +42,6 @@ data_sources:
 # Define base_url for different environments
 environments:
   default:
-    base_url: "http://127.0.0.1:3000"
+    base_url: ""
   production:
     base_url: "https://improve-workload-and-wellbeing-for-school-staff.education.gov.uk"

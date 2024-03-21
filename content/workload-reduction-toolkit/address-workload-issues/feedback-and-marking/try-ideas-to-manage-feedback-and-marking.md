@@ -54,27 +54,27 @@ title: Try ideas to manage feedback and marking workload
 
 {inset-text}
 
-At King Charles I School we know that teaching is exhilarating and rewarding but recognise that it can also be exhausting. We understand that time is precious and that tired teachers do not make effective teachers. Our aim is for staff to not have to take work home. 
+At King Charles I School we know that teaching is exhilarating and rewarding but recognise that it can also be exhausting. We understand that time is precious and that tired teachers do not make effective teachers. Our aim is for staff to not have to take work home.
 {/inset-text}
 
-## 10 ways that we manage feedback and marking workload 
+## 10 ways that we manage feedback and marking workload
 
-1. Setting quizzing homework in Years 7 and 8 has substantially reduced planning and setting of tasks. It also requires zero marking, only checking.  
+1. Setting quizzing homework in Years 7 and 8 has substantially reduced planning and setting of tasks. It also requires zero marking, only checking.
 
-2. Homework tasks in Year 9 to 11 also include quizzing. Other tasks are based on key revision strategies, which can be self or peer marked in class and require minimal teacher marking.   
+2. Homework tasks in Year 9 to 11 also include quizzing. Other tasks are based on key revision strategies, which can be self or peer marked in class and require minimal teacher marking.
 
 3. No setting of homework for Years 7, 8 and 9. Reading or revision is set for Years 10 and 11 in the final week before a holiday, to ensure staff do not return to a pile of marking.
 
-4. We use online packages for homework such as Hegarty Maths or Quizlet to further reduce planning, setting and marking.   
+4. We use online packages for homework such as Hegarty Maths or Quizlet to further reduce planning, setting and marking.
 
-5. We have significantly reduced the number of data collections. There are only two data collections per year for all year groups and no written subject reports. 
+5. We have significantly reduced the number of data collections. There are only two data collections per year for all year groups and no written subject reports.
 
-6. Our management information system (MIS) pulls the data from departmental databases, meaning that data is only entered once.  
+6. Our management information system (MIS) pulls the data from departmental databases, meaning that data is only entered once.
 
-7. The whole school assessment calendar is created alongside middle leaders to ensure the best possible timings of exams and moderation and to avoid pinch points.  
+7. The whole school assessment calendar is created alongside middle leaders to ensure the best possible timings of exams and moderation and to avoid pinch points.
 
 8. We use tests and exams that clearly indicate what students do and don’t know and can and can’t do to inform future planning and help students progress. We don’t collect data just for the fun of it.
 
-9. We make sure tests and exams can be self or peer marked with minimal teaching marking.  
+9. We make sure tests and exams can be self or peer marked with minimal teaching marking.
 
-10. We do not have an onerous or impossible marking policy. Instead, we have a feedback policy that focuses on whole class feedback, verbal feedback and daily quizzes. No more hours spent marking hundreds of books ‘just because’. 
+10. We do not have an onerous or impossible marking policy. Instead, we have a feedback policy that focuses on whole class feedback, verbal feedback and daily quizzes. No more hours spent marking hundreds of books ‘just because’.

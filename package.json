@@ -9,12 +9,16 @@
   },
   "author": "",
   "license": "MIT",
+  "prettier": {
+    "printWidth": 80
+  },
   "dependencies": {
     "dfe-frontend-alpha": "^1.0.1",
     "govuk-frontend": "^5.2.0",
     "sass": "^1.72.0"
   },
   "devDependencies": {
+    "prettier": "^3.2.5",
     "shx": "^0.3.4"
   }
 }

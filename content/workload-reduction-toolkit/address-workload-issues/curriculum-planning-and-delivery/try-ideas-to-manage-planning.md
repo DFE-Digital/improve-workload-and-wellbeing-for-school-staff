@@ -54,14 +54,14 @@ title: Try ideas to manage planning and curriculum workload
 
 {inset-text}
 
-At King Charles I School we know that teaching is exhilarating and rewarding but recognise that it can also be exhausting. We understand that time is precious and that tired teachers do not make effective teachers. Our aim is for staff to not have to take work home. 
+At King Charles I School we know that teaching is exhilarating and rewarding but recognise that it can also be exhausting. We understand that time is precious and that tired teachers do not make effective teachers. Our aim is for staff to not have to take work home.
 {/inset-text}
 
-## 15 ways that we manage curriculum planning and delivery workload 
+## 15 ways that we manage curriculum planning and delivery workload
 
-Collaborative planning enables teachers to discuss and share best practice rather than everyone busily planning the same lessons in their individual classrooms. We accept that collaborative planning will lead to less autonomy in the classroom but the trade off is much less work to do at home. 
+Collaborative planning enables teachers to discuss and share best practice rather than everyone busily planning the same lessons in their individual classrooms. We accept that collaborative planning will lead to less autonomy in the classroom but the trade off is much less work to do at home.
 
-Staff within departments, where possible, have preparation, planning and assessment time (PPA) together to allow for collaborative planning. 
+Staff within departments, where possible, have preparation, planning and assessment time (PPA) together to allow for collaborative planning.
 
 Departmental resources are shared centrally to stop individuals having to create new plans from scratch.
 
@@ -69,18 +69,18 @@ We provided better quality schemes of work that specify the sequence of key know
 
 All teachers follow research-driven teaching models that focus on activities that have a significant impact on progress. In our school, we do not waste time creating teaching resources such as card sorts and slideshows.
 
-We focus on the use of textbooks and ready-made quality assured resources to help reduce planning time and support better teaching. 
+We focus on the use of textbooks and ready-made quality assured resources to help reduce planning time and support better teaching.
 
-No ‘all, most, some’ learning objectives or creation of different worksheets for different abilities. There is no need for any differentiation by task. 
+No ‘all, most, some’ learning objectives or creation of different worksheets for different abilities. There is no need for any differentiation by task.
 
 The PPA allocation for teachers is more than the requirements set out in the School Teachers’ Pay and Conditions Document. This amounts to 12% of a teacher’s timetabled teaching hours.
 
-There is no pressure to perform in lessons and observations are not graded to help reinforce this. The number of lesson observations per year has been reduced.  
+There is no pressure to perform in lessons and observations are not graded to help reinforce this. The number of lesson observations per year has been reduced.
 
-There is no pointless requesting or completing of lesson plans. In fact, there is no need to write lesson plans of any kind.  
+There is no pointless requesting or completing of lesson plans. In fact, there is no need to write lesson plans of any kind.
 
-There is no requirement to run lunch time or after school revision sessions. Instead, we focus on what is going on in lessons.  
+There is no requirement to run lunch time or after school revision sessions. Instead, we focus on what is going on in lessons.
 
 We creatively timetable with workload in mind. Teachers generally don’t have classes from all year groups, to reduce planning time and attendance at parents’ evenings.
 
-We do not do walks to check that everyone is meeting the identified standards. 
+We do not do walks to check that everyone is meeting the identified standards.
