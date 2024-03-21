@@ -1,9 +1,9 @@
 ---
-title: Academy trust workload agreement 
+title: Academy trust workload agreement
 colour: blue
 ---
 
-# Academy trust workload agreement 
+# Academy trust workload agreement
 
 <strong class="govuk-tag">Example</strong>
 
@@ -19,7 +19,7 @@ colour: blue
 
 **Number of pupils**: 130 to 200
 
-**Contact details**: Email CEO Carolyn Morgan at <cmorgan@ascenttrust.org>  
+**Contact details**: Email CEO Carolyn Morgan at <cmorgan@ascenttrust.org>
 
 {/inset-text}
 
@@ -54,42 +54,40 @@ colour: blue
 
 {inset-text}
 
-It is clear from national surveys and Ascent Trust’s own fact finding, that excessive workload is a major obstacle to schools across the country being able to successfully recruit and retain the best teachers and support staff.  
+It is clear from national surveys and Ascent Trust’s own fact finding, that excessive workload is a major obstacle to schools across the country being able to successfully recruit and retain the best teachers and support staff.
 
-We developed our academy trust workload agreement to support better recruitment and retention of teachers and support staff. 
+We developed our academy trust workload agreement to support better recruitment and retention of teachers and support staff.
 
 {/inset-text}
 
-## Ensuring fair and reasonable workload 
+## Ensuring fair and reasonable workload
 
-How the Ascent Trust ensures fair and reasonable workload:  
+How the Ascent Trust ensures fair and reasonable workload:
 
-* the executive leadership team has a commitment to reducing work hours (above and beyond 1265) for all teachers. We also carry out a Trust review of Teaching Assistant contractual hours and duties  
+- the executive leadership team has a commitment to reducing work hours (above and beyond 1265) for all teachers. We also carry out a Trust review of Teaching Assistant contractual hours and duties
 
-* we ensure that the appraisal of all staff includes a workload review.
+- we ensure that the appraisal of all staff includes a workload review.
 
-* we take supporting actions to ensure employers exercise their duty of care to employees regarding workload, including heads of academy
+- we take supporting actions to ensure employers exercise their duty of care to employees regarding workload, including heads of academy
 
-* we review the Educational Health Care Plan (EHCP) reports and meetings, with Ascent (rather than local authorities) providing the lead on systems and procedures 
+- we review the Educational Health Care Plan (EHCP) reports and meetings, with Ascent (rather than local authorities) providing the lead on systems and procedures
 
-* we have a working party to review curriculum planning systems across the trust, with the intention of reducing workload 
+- we have a working party to review curriculum planning systems across the trust, with the intention of reducing workload
 
-* we ensure that Ascent completes a workload impact assessment before any new trust policies, reports or initiatives are introduced
+- we ensure that Ascent completes a workload impact assessment before any new trust policies, reports or initiatives are introduced
 
-* we ensure that policy requirements are reasonably deliverable within contracted hours for non-teaching staff
+- we ensure that policy requirements are reasonably deliverable within contracted hours for non-teaching staff
 
-* we regularly review the workload charter with all staff 
+- we regularly review the workload charter with all staff
 
-How individual academies within the trust ensure fair and reasonable workload: 
+How individual academies within the trust ensure fair and reasonable workload:
 
-* the Senior Leadership Team (SLT) states and plans the allocation of directed time with staff  
+- the Senior Leadership Team (SLT) states and plans the allocation of directed time with staff
 
-* by publishing and adhering to termly calendars where possible 
+- by publishing and adhering to termly calendars where possible
 
-* the SLT guarantees to staff that any major changes initiated by the Trust will be planned on an annual basis
+- the SLT guarantees to staff that any major changes initiated by the Trust will be planned on an annual basis
 
-* by setting clear expectations policies for marking, feedback and assessment 
+- by setting clear expectations policies for marking, feedback and assessment
 
-* the SLT and business review the support needed by teachers to reduce their admin duties
-
- 
+- the SLT and business review the support needed by teachers to reduce their admin duties

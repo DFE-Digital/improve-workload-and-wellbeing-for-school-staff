@@ -1,9 +1,9 @@
 ---
-title: Communicate about wellbeing to improve staff retention 
+title: Communicate about wellbeing to improve staff retention
 colour: blue
 ---
 
-# Communicate about wellbeing to improve staff retention 
+# Communicate about wellbeing to improve staff retention
 
 <strong class="govuk-tag">Case study</strong>
 
@@ -11,7 +11,7 @@ colour: blue
 
 ## School details
 
-**School name**: Bedford Academy   
+**School name**: Bedford Academy
 
 **Location**: Bedford
 

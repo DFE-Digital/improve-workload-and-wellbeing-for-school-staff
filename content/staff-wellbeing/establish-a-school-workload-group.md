@@ -11,7 +11,7 @@ colour: blue
 
 ## School details
 
-**School name**: Baylis Court School   
+**School name**: Baylis Court School
 
 **Location**: Slough
 
@@ -19,8 +19,7 @@ colour: blue
 
 **Number of pupils**: 900
 
-**Contact details**: Email CEO Richard Kearsey at <RKearsey@bayliscourttrust.co.uk>  
-
+**Contact details**: Email CEO Richard Kearsey at <RKearsey@bayliscourttrust.co.uk>
 
 {/inset-text}
 
@@ -52,78 +51,78 @@ colour: blue
 
 {inset-text}
 
-Baylis Court School set up a working group to address staff workload. This was following the involvement of the executive headteacher in the independent teacher workload review groups for data management.  
+Baylis Court School set up a working group to address staff workload. This was following the involvement of the executive headteacher in the independent teacher workload review groups for data management.
 
 {/inset-text}
 
-## Why we set up a workload group 
+## Why we set up a workload group
 
-School leaders recognised that they needed to better understand the workload of teaching staff. Leaders wanted to develop possible strategies that would reduce workload for teachers without increasing it for others.  
+School leaders recognised that they needed to better understand the workload of teaching staff. Leaders wanted to develop possible strategies that would reduce workload for teachers without increasing it for others.
 
-The group was chaired by a senior leadership team (SLT) member to ensure that direct feedback was given to senior leaders of the school. 
+The group was chaired by a senior leadership team (SLT) member to ensure that direct feedback was given to senior leaders of the school.
 
-## How we established our workload group 
+## How we established our workload group
 
-### Decide on the purpose of the group 
+### Decide on the purpose of the group
 
-For example, to receive feedback on a termly basis about staff workload, and recommendations for colleagues and senior leadership to support staff to manage this.  
+For example, to receive feedback on a termly basis about staff workload, and recommendations for colleagues and senior leadership to support staff to manage this.
 
-### Decide members of the group 
+### Decide members of the group
 
-Membership should be representative of staff, and include a range of experience, for example: 
+Membership should be representative of staff, and include a range of experience, for example:
 
-* newly qualified teachers (NQTs) 
+- newly qualified teachers (NQTs)
 
-* teachers 2 or 3 years into teaching 
+- teachers 2 or 3 years into teaching
 
-* staff who have taught in at least one other school 
+- staff who have taught in at least one other school
 
-* middle leaders – both pastoral and academic 
+- middle leaders – both pastoral and academic
 
-* staff who have previously worked outside of teaching 
+- staff who have previously worked outside of teaching
 
-* support staff 
+- support staff
 
-* union representatives 
+- union representatives
 
-### Identify priorities of the group 
+### Identify priorities of the group
 
-Identify priorities to support staff in managing workload, for example: 
+Identify priorities to support staff in managing workload, for example:
 
-* time taken up by replying to e-mail and face-to-face requests for information 
+- time taken up by replying to e-mail and face-to-face requests for information
 
-* further training on ‘remote access’ for staff 
+- further training on ‘remote access’ for staff
 
-* perceived excessive marking burden 
+- perceived excessive marking burden
 
-* relevance of some weekly CPD sessions for all staff 
+- relevance of some weekly CPD sessions for all staff
 
-* lack of clarity about how staff are meant to spend their directed time 
+- lack of clarity about how staff are meant to spend their directed time
 
-* the imbalance between all-staff meetings, department time and individual time 
+- the imbalance between all-staff meetings, department time and individual time
 
-* scheduling of assessment weeks adjacent to other tasks that may cause more workload, such as book scrutinies every half term
+- scheduling of assessment weeks adjacent to other tasks that may cause more workload, such as book scrutinies every half term
 
-* excessive volume of data entry required due to assessment changes 
+- excessive volume of data entry required due to assessment changes
 
-* teachers having to provide work for students removed from lessons 
+- teachers having to provide work for students removed from lessons
 
-## Develop an action plan 
+## Develop an action plan
 
-Develop an action plan and disseminate this to staff. Examples of actions: 
+Develop an action plan and disseminate this to staff. Examples of actions:
 
-* review the school’s draft teaching and learning calendar, to make recommendations to support reduction of ‘pressure points’ 
+- review the school’s draft teaching and learning calendar, to make recommendations to support reduction of ‘pressure points’
 
-* produce a weekly staff bulletin, to better support communication with staff and reduce the number of meetings and separate emails   
+- produce a weekly staff bulletin, to better support communication with staff and reduce the number of meetings and separate emails
 
-* implement relevant recommendations from the DfE, such as reducing the number of data collection points per academic year
+- implement relevant recommendations from the DfE, such as reducing the number of data collection points per academic year
 
-* effective training for staff on use of IT systems 
+- effective training for staff on use of IT systems
 
-Staff working on these actions, for example, producing the bulletin, should be freed up from other tasks where appropriate. 
+Staff working on these actions, for example, producing the bulletin, should be freed up from other tasks where appropriate.
 
-## Evaluate the impact of the group 
+## Evaluate the impact of the group
 
-Evaluate the ongoing impact of the group and share findings with staff.  
+Evaluate the ongoing impact of the group and share findings with staff.
 
-You could group representatives to run an INSET session to feed back on the work and impact of the group and seek further recommendations. 
+You could group representatives to run an INSET session to feed back on the work and impact of the group and seek further recommendations.
