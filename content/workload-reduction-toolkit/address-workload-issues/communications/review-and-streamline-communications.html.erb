@@ -132,15 +132,39 @@ title: Review and streamline communications
         </h2>
 
         <ul class="resource-card-group">
-          <%= render('/partials/resource_card.*', title: "How we communicate" ,
-            href: "#{@base_url}/assets/files/Review school communications.odt" ,
+          <%= render('/partials/resource_card_with_image.*', title: "How we communicate" ,
             body: "A template to help you explore how effective and efficient your communications are." ,
-            tag: "Template" , download_link: true) %>
+            image_url: "/assets/images/communications--how-we-communicate.jpg" ,
+            tag: "Template" , download_links: [
+              {
+                href: "#{@base_url}/assets/files/Review_school_communications.docx",
+                text: "Download Microsoft Word Document",
+                details: "DOCX, 25KB, 1 page",
+              },
+              {
+                href: "#{@base_url}/assets/files/Review_school_communications.odt",
+                text: "Download OpenDocument Text",
+                details: "ODP, 8KB, 1 page",
+              },
+            ]
+          ) %>
 
-          <%= render('/partials/resource_card.*', title: "Impact graph" ,
-            href: "#{@base_url}/assets/files/Impact graph.odt" ,
-            body: "A template to help you prioritise what to address first.",
-            tag: "Template" , download_link: true) %>
+          <%= render('/partials/resource_card_with_image.*', title: "Impact graph" ,
+            body: "A template to help you prioritise what to address first." ,
+            image_url: "/assets/images/communications--impact-graph.jpg" ,
+            tag: "Template" , download_links: [
+              {
+                href: "#{@base_url}/assets/files/Impact graph.docx",
+                text: "Download Microsoft Word Document",
+                details: "DOCX, 31KB, 1 page",
+              },
+              {
+                href: "#{@base_url}/assets/files/Impact graph.odt",
+                text: "Download OpenDocument Text",
+                details: "ODP, 6KB, 1 page",
+              },
+            ]
+          ) %>
         </ul>
       </div>
 

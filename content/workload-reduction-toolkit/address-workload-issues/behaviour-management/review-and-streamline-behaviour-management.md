@@ -95,3 +95,26 @@ Provide a supportive environment for open and honest professional dialogue.
 - [Policy Exchange publication: It just grinds you down](https://policyexchange.org.uk/publication/it-just-grinds-you-down)
 
 - [Making data work: Teacher workload advisory group report](https://www.gov.uk/government/publications/teacher-workload-advisory-group-report-and-government-response)
+
+<h2 class="govuk-heading-m govuk-!-margin-top-7 govuk-!-margin-bottom-7">
+  Supporting resources
+</h2>
+
+<ul class="resource-card-group">
+  <%= render('/partials/resource_card_with_image.*', title: "Behaviour management workload discussion" ,
+    body: "A template to guide behaviour management workload discussions." ,
+    image_url: "/assets/images/behaviour-management--workload-discussion.jpg" ,
+    tag: "Template" , download_links: [
+      {
+        href: "#{@base_url}/assets/files/Behaviour management workload discussion.docx",
+        text: "Download Microsoft Word Document",
+        details: "DOCX, 22KB, 1 page",
+      },
+      {
+        href: "#{@base_url}/assets/files/Behaviour management workload discussion.odt",
+        text: "Download OpenDocument Text",
+        details: "ODP, 8KB, 1 page",
+      },
+    ]) %>
+
+</ul>

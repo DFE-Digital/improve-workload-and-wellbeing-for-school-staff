@@ -381,6 +381,10 @@ hr.section-break--thin {
   background-color: #279b91;
 }
 
+.govuk-blue-text {
+  color: govuk-colour("blue");
+}
+
 .markdown-resource {
   .govuk-tag {
     margin-bottom: govuk-spacing(4);
