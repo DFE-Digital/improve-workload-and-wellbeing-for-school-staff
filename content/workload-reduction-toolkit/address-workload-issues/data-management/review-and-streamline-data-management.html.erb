@@ -118,10 +118,22 @@ title: Review and streamline data management
         </h2>
 
         <ul class="resource-card-group">
-          <%= render('/partials/resource_card.*', title: "Data collection audit" ,
-            href: "#{@base_url}/assets/files/Data collection audit.odt" ,
-            body: "An audit template to help you review how you collect data." ,
-            tag: "Template" , download_link: true) %>
+          <%= render('/partials/resource_card_with_image.*', title: "Review how data is collected" ,
+            body: "A template to help you review how data is collected." ,
+            image_url: "/assets/images/data-management--review-and-streamline-data-mangement.jpg" ,
+            tag: "Template" , download_links: [
+              {
+                href: "#{@base_url}/assets/files/Review how data is collected.docx",
+                text: "Download Microsoft Word Document",
+                details: "DOCX, 31KB, 1 page",
+              },
+              {
+                href: "#{@base_url}/assets/files/Review how data is collected.odt",
+                text: "Download OpenDocument Text",
+                details: "ODP, 6KB, 1 page",
+              },
+            ]
+          ) %>
         </ul>
       </div>
 

@@ -144,3 +144,28 @@ or every half-term, and used to create lists or graphs for assemblies.
 
 Some management information systems also include a messaging system that can
 flag important messages to parents and carers, form tutors or senior leaders.
+
+<div class="dfe-width-container govuk-grid-row">
+  <h2 class="govuk-heading-m govuk-!-margin-top-7 govuk-!-margin-bottom-7">
+    Supporting resources
+  </h2>
+
+  <ul class="resource-card-group">
+    <%= render('/partials/resource_card_with_image.*', title: "Behaviour and achievement report" ,
+      body: "A template behaviour and achievement report." ,
+      image_url: "/assets/images/behaviour--achievement-report.jpg" ,
+      tag: "Template" , download_links: [
+        {
+          href: "#{@base_url}/assets/files/Behaviour_and_achievement_reports.docx",
+          text: "Download Microsoft Word Document",
+          details: "DOCX, 25KB, 1 page",
+        },
+        {
+          href: "#{@base_url}/assets/files/Behaviour_and_achievement_reports.odt",
+          text: "Download OpenDocument Text",
+          details: "ODP, 10KB, 1 page",
+        },
+      ]) %>
+
+  </ul>
+</div>

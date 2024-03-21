@@ -1,0 +1,49 @@
+<li class="resource-card-group__item">
+  <div class="resource-card">
+    <h3 class="govuk-blue-text">
+      <%= title %>
+    </h3>
+    <div class="resource-card__body">
+      <p class="govuk-body">
+        <%= body %>
+      </p>
+      <p class="govuk-body">
+        <% if defined?(download_link) && (download_link == true) %>
+          <div class="govuk-grid-row" style="align-items: center;">
+            <div class="govuk-grid-column-three-quarters">
+              <strong class="govuk-tag"><%= tag %></strong>
+            </div>
+          </div>
+        <% else %>
+          <strong class="govuk-tag"><%= tag %></strong>
+        <% end %>
+      </p>
+
+      <% defined?(details) && details.each do |detail, value| %>
+        <p class="govuk-body govuk-!-font-weight-bold">
+          <%= detail.to_s.humanize %>:
+          <span class="govuk-!-font-weight-regular"><%= value %></span>
+        </p>
+      <% end %>
+
+      <% defined?(image_url) || defined?(download_links) %>
+      <div class="govuk-grid-row info-box__download-content">
+        <% if defined?(image_url) %>
+          <div class="govuk-grid-column-one-half">
+            <img src="<%= image_url %>" alt="Review and streamline behaviour management" class="dfe-file-preview-image">
+          </div>
+        <% end %>
+        <% defined?(download_links) && download_links.each do |link| %>
+          <div class="govuk-grid-column-one-half">
+            <a class="govuk-link--no-visited-state govuk-body" href="<%= link[:href] %>">
+              <%= link[:text] %>
+            </a>
+            <p>
+              <%= link[:details] %>
+            </p>
+          </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+</li>
