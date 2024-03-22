@@ -35,6 +35,10 @@ $card-text-hover-color: govuk-colour("purple");
   }
 }
 
+.explore-resource-card__tag {
+  margin-bottom: govuk-spacing(2);
+}
+
 .resource-card {
   @include govuk-responsive-padding(5);
   border: $card-border-width solid govuk-colour("mid-grey");
