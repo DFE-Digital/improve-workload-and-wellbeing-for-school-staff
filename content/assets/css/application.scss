@@ -76,6 +76,17 @@
   }
 }
 
+@media (max-width: 48.0525em) {
+  .dfe-header__logo {
+    max-width: 100%;
+  }
+}
+@media (max-width: 450px) {
+  .dfe-header__logo {
+    max-width: 100%;
+  }
+}
+
 .govuk-breadcrumbs__list-item {
   font-size: 1rem;
 }
