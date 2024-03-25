@@ -24,10 +24,8 @@ easier to use if you have a disability.
 
 ## How accessible this website is
 
-We know some parts of this website are not fully accessible:
-
-- you cannot modify the line height or spacing of text
-- you cannot skip to the main content when using a screen reader
+We know the service is not fully accessible because you cannot modify the line
+height or spacing of text.
 
 ## Feedback and contact information
 
