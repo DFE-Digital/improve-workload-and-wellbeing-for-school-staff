@@ -79,11 +79,8 @@ Wellbeing is at the centre of everything we do. Three years ago, we had a high s
 The main platform for these changes has been:
 
 - a considerable shift in our focus, ensuring student and staff wellbeing is at our core
-
 - open communication to all stakeholders
-
 - regular staff consultations
-
 - a drive to improve educational standards for students in our school
 
 Bedford Academy is part of the HEART Academies Trust. The Trust supports individual schools to develop wellbeing strategies that are focused on their own needs, as opposed to a generic approach across the Trust.
@@ -159,23 +156,14 @@ A line manager plays an important role in promoting a productive workplace and s
 We encourage line managers to create a positive culture by:
 
 - building a culture where it’s the norm to say ‘thank you’ to people for the work they’ve done - ideas are welcomed and good practice is acknowledged
-
 - developing an ethos where staff know it’s fine to talk about wellbeing
-
 - supporting staff with manageable workload ideas
-
 - being positive and supportive in conversations
-
 - exploring issues and how you can help with solutions
-
 - reassuring your staff that your door is always open
-
 - providing time and resources for professional development
-
 - seeking opportunities for peer collaboration
-
 - understanding strengths and weaknesses
-
 - following up on actions in a timely way to continue to build trust
 
 ### Providing extras to staff

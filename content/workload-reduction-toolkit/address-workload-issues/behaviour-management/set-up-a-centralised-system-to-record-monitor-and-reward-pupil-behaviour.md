@@ -73,14 +73,12 @@ This has reduced workload and helped us to apply behaviour policy consistently.
 Our system helps us to:
 
 - see where disruption occurs, such as in a science classroom
-
 - reward good behaviour
 
 It also helps us to:
 
 - analyse behaviour and rewards over time - for example, you can see where
   behaviour issues spike
-
 - share findings – for example, we can generate graphs for use in assemblies
 
 It also flags when to notify parents, carers, tutors or senior leadership about
@@ -104,13 +102,9 @@ Alternatively, a member of staff could attend training.
 We use points and colours to categorise behaviour. For example:
 
 - 5 points (gold) for outstanding behaviour
-
 - 2 points (green) for good behaviour
-
 - minus one point (amber) for minor concern, such as homework
-
 - minus 2 points (red) for poor behaviour, particularly if repeated 3 times
-
 - minus 3 points (purple) for serious behaviour incidents
 
 We use 2 and 5 points for positive behaviours to help balance out minus points.
@@ -121,7 +115,6 @@ At Redbridge, staff can:
 
 - give pupils points during lessons and transitions such as breaks and
   lunchtimes
-
 - generate reports for individual pupils, classes or groups
 
 Think about the roles and responsibilities for different staff members such as
@@ -157,5 +150,4 @@ flag important messages to parents and carers, form tutors or senior leaders.
         details: "ODP, 10KB, 1 page",
       },
     ]) %>
-
 </ul>

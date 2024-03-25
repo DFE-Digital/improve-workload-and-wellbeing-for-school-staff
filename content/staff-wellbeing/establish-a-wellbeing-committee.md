@@ -83,16 +83,11 @@ wellbeing within the school and report to governors termly.
 For example, the committee could:
 
 - distribute a survey to monitor wellbeing
-
 - identify issues that challenge the wellbeing of the staff
-
 - communicate issues to the leadership team and governors, suggesting ways to
   resolve them
-
 - evaluate the impact of any intervention to resolve wellbeing issues
-
 - review the school’s wellbeing documentation at the start of each academic year
-
 - inform staff of wellbeing initiatives via the wellbeing notice board in the
   staff room, the bulletin and staff meetings (when appropriate)
 
