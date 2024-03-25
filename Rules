@@ -19,7 +19,7 @@ compile '/**/*.html.erb' do
 end
 
 compile '/**/*.html' do
-  layout '/default.*' unless item.identifier == '/index.html'
+  layout '/default.*'
   filter :base_url
 
   if item.identifier =~ '**/index.*'
