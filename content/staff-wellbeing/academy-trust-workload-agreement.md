@@ -23,31 +23,27 @@ colour: blue
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        The agreement sets out what teachers and support staff can expect from the academy and the trust they work in, in relation to their workload. It also sets out what leadership should do to manage workload.  
-      </p>
-      <p>
-        Staff at Ascent can expect:
-        <ul>
-          <li>
-            a fair and reasonable workload
-          </li>
-          <li>
-            high quality training and professional development opportunities that meet the needs of individual members of staff
-          </li>
-        </ul>
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    The agreement sets out what teachers and support staff can expect from the academy and the trust they work in, in relation to their workload. It also sets out what leadership should do to manage workload.  
+  </p>
+  <p>
+    Staff at Ascent can expect:
+    <ul>
+      <li>
+        a fair and reasonable workload
+      </li>
+      <li>
+        high quality training and professional development opportunities that meet the needs of individual members of staff
+      </li>
+    </ul>
+  </p>
 </div>
 
 ## Background from Carolyn Morgan, CEO

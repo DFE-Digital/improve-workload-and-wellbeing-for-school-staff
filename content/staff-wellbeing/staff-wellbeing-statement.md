@@ -23,33 +23,30 @@ colour: blue
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        Our united approach creates: 
-        <ul>
-          <li>
-            a sense of belonging
-          </li>
-          <li> 
-            a culture that is based upon our core wellbeing principles 
-          </li>
-          <li>
-            an environment that recognises skills and encourages personal development
-          </li>
-          <li>
-            an environment whereby employees feel they are listened to 
-          </li>
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    Our united approach creates:
+  </p>
+  <ul>
+    <li>
+      a sense of belonging
+    </li>
+    <li>
+      a culture that is based upon our core wellbeing principles
+    </li>
+    <li>
+      an environment that recognises skills and encourages personal development
+    </li>
+    <li>
+      an environment whereby employees feel they are listened to
+    </li>
+  </ul>
 </div>
 
 ## Background from Rachel Boyall, HR Manager

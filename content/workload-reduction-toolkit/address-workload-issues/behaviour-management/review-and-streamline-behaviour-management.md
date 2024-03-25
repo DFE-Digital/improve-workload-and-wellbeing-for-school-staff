@@ -15,34 +15,30 @@ The presentation includes:
 - questions for discussion and a structured discussion template
 - next steps, reviewing and updating the behaviour policy
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Download icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Download the presentation
-      </h2>
-      <div class="govuk-grid-row info-box__download-content">
-        <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/behaviour-management--review-and-streamline-behaviour-management.jpg" alt="Review and streamline behaviour management" class="dfe-file-preview-image">
-        </div>
-        <div class="govuk-grid-column-one-half">
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline behaviour management.pptx">
-            Download Microsoft PowerPoint
-         </a>
-         <p>
-           PPTX, 181KB, 7 slides
-         </p>
-         <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline behaviour management.odp">
-           Download OpenDocument Presentation
-         </a>
-         <p>
-           ODP, 322KB, 7 slides
-         </p>
-       </div>
-      </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/download-icon.svg" alt="Download icon">
+  </div>
+  <h2 class="govuk-heading-m">
+    Download the presentation
+  </h2>
+  <div class="govuk-grid-row info-box__download-content">
+    <div class="govuk-grid-column-one-half">
+      <img src="/assets/images/behaviour-management--review-and-streamline-behaviour-management.jpg" alt="Review and streamline behaviour management" class="dfe-file-preview-image">
+    </div>
+    <div class="govuk-grid-column-one-half">
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline behaviour management.pptx">
+        Download Microsoft PowerPoint
+      </a>
+      <p>
+        PPTX, 181KB, 7 slides
+      </p>
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline behaviour management.odp">
+        Download OpenDocument Presentation
+      </a>
+      <p>
+        ODP, 322KB, 7 slides
+      </p>
     </div>
   </div>
 </div>

@@ -26,8 +26,8 @@ title: Home
 </div>
 
 <div class="govuk-main-wrapper">
-  <div class="govuk-width-container dfe-width-container">
-    <ul class="govuk-grid-row card-group">
+  <div class="dfe-width-container">
+    <ul class="govuk-grid-row card-group govuk-!-margin-bottom-8">
       <li class="govuk-grid-column-one-half card-group__item govuk-!-padding-4">
         <%= render('/partials/tile.*', title: "Workload reduction toolkit",
           body: "Support workload reduction with resources produced by school leaders.",
@@ -43,24 +43,24 @@ title: Home
       </li>
     </ul>
   </div>
-</div>
 
-<div class="dfe-content-page--row">
-  <div class="govuk-grid-row govuk-width-container dfe-width-container">
-    <div class="govuk-grid-column-two-thirds">
-      <h2 class="govuk-heading-m">Explore all resources</h2>
-      <p class="govuk-body">Browse through all our staff wellbeing and workload reduction resources. They are
+  <div class="dfe-content-page--row">
+    <div class="govuk-grid-row dfe-width-container">
+      <div class="govuk-grid-column-two-thirds">
+        <h2 class="govuk-heading-m">Explore all resources</h2>
+        <p class="govuk-body">Browse through all our staff wellbeing and workload reduction resources. They are
         contributed by school leaders from their experiences improving workload and wellbeing in their schools.</p>
-      <a class="govuk-button govuk-button--blue govuk-!-margin-top-2" data-module="govuk-button"
-        href="<%= @base_url %>/explore-all-resources/identify-workload-issues">
-        Explore all resources
-      </a>
+        <a class="govuk-button govuk-button--blue govuk-!-margin-top-2" data-module="govuk-button"
+          href="<%= @base_url %>/explore-all-resources/identify-workload-issues">
+          Explore all resources
+        </a>
+      </div>
     </div>
   </div>
-</div>
 
-<div class="dfe-width-container govuk-grid-row govuk-!-margin-top-7">
-  <div class="govuk-grid-column-full">
-    <%= render '/partials/feedback.*' %>
+  <div class="dfe-width-container govuk-grid-row govuk-!-margin-top-9">
+    <div class="govuk-grid-column-full">
+      <%= render '/partials/feedback.*' %>
+    </div>
   </div>
 </div>

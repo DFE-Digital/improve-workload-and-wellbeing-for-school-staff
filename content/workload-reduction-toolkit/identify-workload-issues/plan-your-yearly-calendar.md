@@ -16,34 +16,30 @@ The presentation includes:
 - discussions about what aspects could be changed, streamlined or stopped
 - review of the yearly plan and pinch points
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Download icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Download the presentation
-      </h2>
-      <div class="govuk-grid-row info-box__download-content">
-        <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/identify--plan-your-yearly-calendar.jpg" alt="Plan your yearly calendar" class="dfe-file-preview-image">
-        </div>
-        <div class="govuk-grid-column-one-half">
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.pptx">
-            Download Microsoft PowerPoint
-          </a>
-          <p>
-            PPTX, 115KB, 9 slides
-          </p>
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.odp">
-            Download OpenDocument Presentation
-          </a>
-          <p>
-            ODP, 209KB, 9 slides
-          </p>
-        </div>
-      </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/download-icon.svg" alt="Download icon">
+  </div>
+  <h2 class="govuk-heading-m">
+    Download the presentation
+  </h2>
+  <div class="govuk-grid-row info-box__download-content">
+    <div class="govuk-grid-column-one-half">
+      <img src="/assets/images/identify--plan-your-yearly-calendar.jpg" alt="Plan your yearly calendar" class="dfe-file-preview-image">
+    </div>
+    <div class="govuk-grid-column-one-half">
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.pptx">
+        Download Microsoft PowerPoint
+      </a>
+      <p>
+        PPTX, 115KB, 9 slides
+      </p>
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Plan your yearly calendar.odp">
+        Download OpenDocument Presentation
+      </a>
+      <p>
+        ODP, 209KB, 9 slides
+      </p>
     </div>
   </div>
 </div>
@@ -58,7 +54,7 @@ the whole school, teams or departments.
 The presentation should take 1 hour and 15 minutes. You should also allocate
 time for the facilitator to prepare the session for use in your school.
 
-## How to run with your staff 
+## How to run with your staff
 
 Use this presentation to map out your school year, considering how it impacts on
 workload. Decide if elements can be streamlined, removed, or can take place at a

@@ -22,26 +22,25 @@ title: School email protocol
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        As a result of this school email protocol the: 
-      </p>
-      <p>
-        <ul>
-          <li>volume of emails we send has reduced</li>
-          <li>use of centralised bulletins has gathered important general communications into one place</li>
-        </ul>
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    As a result of this school email protocol the:
+  </p>
+  <ul>
+    <li>
+      volume of emails we send has reduced
+    </li>
+    <li>
+      use of centralised bulletins has gathered important general communications
+      into one place
+    </li>
+  </ul>
 </div>
 
 ## Background from Michael Antram, Headteacher

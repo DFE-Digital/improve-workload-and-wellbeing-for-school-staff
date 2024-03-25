@@ -23,34 +23,30 @@ colour: green
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container govuk-!-padding-bottom-6">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Download icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Download the example
-      </h2>
-      <div class="govuk-grid-row info-box__download-content">
-        <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/identify-and-evaluate--action-plan.jpg" alt="Workload action plan" class="dfe-file-preview-image">
-        </div>
-        <div class="govuk-grid-column-one-half">
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
-            Download Microsoft Word Document
-          </a>
-          <p>
-            DOCX, 29KB, 2 pages
-          </p>
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
-            Download OpenDocument Text
-          </a>
-          <p>
-            ODT, 11KB, 2 pages
-          </p>
-        </div>
-      </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/download-icon.svg" alt="Download icon">
+  </div>
+  <h2 class="govuk-heading-m">
+    Download the template
+  </h2>
+  <div class="govuk-grid-row info-box__download-content">
+    <div class="govuk-grid-column-one-half">
+      <img src="/assets/images/identify-and-evaluate--action-plan.jpg" alt="Workload action plan" class="dfe-file-preview-image">
+    </div>
+    <div class="govuk-grid-column-one-half">
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+        Download Microsoft Word Document
+      </a>
+      <p>
+        DOCX, 29KB, 2 pages
+      </p>
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+        Download OpenDocument Text
+      </a>
+      <p>
+        ODT, 11KB, 2 pages
+      </p>
     </div>
   </div>
 </div>

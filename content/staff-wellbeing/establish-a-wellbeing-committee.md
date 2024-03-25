@@ -23,35 +23,31 @@ colour: blue
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        We established a wellbeing committee who created a report on staff
-        wellbeing which was shared with governors and staff. The report included
-        quantitative data on staff absence rates which we try to benchmark
-        against national data. We use this, as well as qualitative data from our
-        staff wellbeing survey, to give an indication of staff wellbeing to
-        governors.
-      </p>
-      <p>
-        We review the committee terms of reference annually. They were
-        introduced to give clear purpose to the work of the committee so that it
-        did not simply become a ‘talking shop’.
-      </p>
-      <p>
-        All documentation, including minutes of meetings, is freely available to
-        all staff via our intranet. We make this transparent to increase
-        confidence, trust and accountability in what we seek to do.
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    We established a wellbeing committee who created a report on staff
+    wellbeing which was shared with governors and staff. The report included
+    quantitative data on staff absence rates which we try to benchmark
+    against national data. We use this, as well as qualitative data from our
+    staff wellbeing survey, to give an indication of staff wellbeing to
+    governors.
+  </p>
+  <p>
+    We review the committee terms of reference annually. They were
+    introduced to give clear purpose to the work of the committee so that it
+    did not simply become a ‘talking shop’.
+  </p>
+  <p>
+    All documentation, including minutes of meetings, is freely available to
+    all staff via our intranet. We make this transparent to increase
+    confidence, trust and accountability in what we seek to do.
+  </p>
 </div>
 
 ## Background from Neil Cully, Headteacher

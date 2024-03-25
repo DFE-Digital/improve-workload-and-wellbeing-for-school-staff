@@ -10,34 +10,30 @@ colour: pink
 A structured conversation template to help gather information from staff and
 teachers about their workload issues.
 
-<div class="govuk-grid-row dfe-width-container govuk-!-padding-bottom-6">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Download icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Download the template
-      </h2>
-      <div class="govuk-grid-row info-box__download-content">
-        <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/identify--have-structured-conversations-with-staff.jpg" alt="Have structured conversations to identify issues" class="dfe-file-preview-image">
-        </div>
-        <div class="govuk-grid-column-one-half">
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Identify structured conversation template.docx">
-            Download Microsoft Word Document
-          </a>
-          <p>
-            DOCX, 26KB, 1 page
-          </p>
-          <a class="govuk-body" href="<%= @base_url %>/assets/files/Identify structured conversation template.odt">
-            Download OpenDocument Text
-          </a>
-          <p>
-            ODT, 8KB, 1 page
-          </p>
-        </div>
-      </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/download-icon.svg" alt="Download icon">
+  </div>
+  <h2 class="govuk-heading-m">
+    Download the template
+  </h2>
+  <div class="govuk-grid-row info-box__download-content">
+    <div class="govuk-grid-column-one-half">
+      <img src="/assets/images/identify--have-structured-conversations-with-staff.jpg" alt="Have structured conversations to identify issues" class="dfe-file-preview-image">
+    </div>
+    <div class="govuk-grid-column-one-half">
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Identify structured conversation template.docx">
+        Download Microsoft Word Document
+      </a>
+      <p>
+        DOCX, 26KB, 1 page
+      </p>
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Identify structured conversation template.odt">
+        Download OpenDocument Text
+      </a>
+      <p>
+        ODT, 8KB, 1 page
+      </p>
     </div>
   </div>
 </div>

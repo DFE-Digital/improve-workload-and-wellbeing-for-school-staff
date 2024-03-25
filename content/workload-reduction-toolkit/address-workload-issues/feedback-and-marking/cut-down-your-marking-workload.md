@@ -22,23 +22,24 @@ title: Cut down your marking workload
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        Within a term of encouraging teachers to try alternative approaches, some teachers said their marking workload had reduced by up to 75%. Several teachers said they “couldn’t believe we used to spend four hours on a set of exercise books. Now I spend much less time marking.”  
-      </p>
-      <p>
-      To make sure marking was contributing to pupil progress, we rigorously monitored the quality of feedback by asking pupils “what are you doing well in this subject?” and “what do you need to do to improve in this subject?”
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    Within a term of encouraging teachers to try alternative approaches, some
+    teachers said their marking workload had reduced by up to 75%. Several
+    teachers said they “couldn’t believe we used to spend four hours on a set of
+    exercise books. Now I spend much less time marking.”
+  </p>
+  <p>
+    To make sure marking was contributing to pupil progress, we rigorously
+    monitored the quality of feedback by asking pupils “what are you doing well
+    in this subject?” and “what do you need to do to improve in this subject?”
+  </p>
 </div>
 
 ## Background from David Lowbridge-Ellis, Deputy Headteacher

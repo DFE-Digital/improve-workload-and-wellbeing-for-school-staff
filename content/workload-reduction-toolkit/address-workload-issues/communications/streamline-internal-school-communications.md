@@ -22,32 +22,32 @@ title: Streamline internal school communications
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        The total number of minutes spent on communication in school was collated both pre and post intervention. There was an 18% reduction in the number of minutes spent per week.
-      </p>
-      <p>
-        Staff surveys at the beginning and end of the project showed that staff perceptions of communications had improved in four out of five areas:
-      </p>
-      <ul>
-        <li>efficiency</li>
-        <li>less time wasted</li>
-        <li>being kept informed</li>
-        <li>sufficient notice of changes</li>
-      </ul>
-      <p>
-        There was no change in teacher perception on responding to emails outside of work.
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    The total number of minutes spent on communication in school was collated
+    both pre and post intervention. There was an 18% reduction in the number of
+    minutes spent per week.
+  </p>
+  <p>
+    Staff surveys at the beginning and end of the project showed that staff
+    perceptions of communications had improved in four out of five areas:
+  </p>
+  <ul>
+    <li>efficiency</li>
+    <li>less time wasted</li>
+    <li>being kept informed</li>
+    <li>sufficient notice of changes</li>
+  </ul>
+  <p>
+    There was no change in teacher perception on responding to emails outside of
+    work.
+  </p>
 </div>
 
 ## Background from Jane Robinson, Head of School

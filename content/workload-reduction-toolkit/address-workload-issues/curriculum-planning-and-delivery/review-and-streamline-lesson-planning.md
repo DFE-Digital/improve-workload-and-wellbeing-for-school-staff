@@ -15,36 +15,30 @@ The presentation includes:
 - a discussion on how planning can best improve the quality of teaching and learning
 - next steps
 
-<div class="dfe-width-container govuk-grid-row">
-  <div class="govuk-grid-row dfe-width-container">
-    <div class="govuk-grid-column-full">
-      <div class="info-box">
-        <div class="info-box__corner">
-          <img src="/assets/images/download-icon.svg" alt="Download icon">
-        </div>
-        <h2 class="govuk-heading-m">
-          Download the presentation
-        </h2>
-        <div class="govuk-grid-row info-box__download-content">
-          <div class="govuk-grid-column-one-half">
-            <img src="/assets/images/curriculum-planning-and-delivery--review-and-streamline-lesson-planning.jpg" alt="Review and streamline lesson planning" class="dfe-file-preview-image">
-          </div>
-          <div class="govuk-grid-column-one-half">
-            <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.pptx">
-              Download Microsoft PowerPoint
-            </a>
-            <p>
-              PPTX, 114KB, 9 slides
-            </p>
-            <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.odp">
-              Download OpenDocument Presentation
-            </a>
-            <p>
-              ODP, 252KB, 9 slides
-            </p>
-          </div>
-        </div>
-      </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/download-icon.svg" alt="Download icon">
+  </div>
+  <h2 class="govuk-heading-m">
+    Download the presentation
+  </h2>
+  <div class="govuk-grid-row info-box__download-content">
+    <div class="govuk-grid-column-one-half">
+      <img src="/assets/images/curriculum-planning-and-delivery--review-and-streamline-lesson-planning.jpg" alt="Review and streamline lesson planning" class="dfe-file-preview-image">
+    </div>
+    <div class="govuk-grid-column-one-half">
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.pptx">
+        Download Microsoft PowerPoint
+      </a>
+      <p>
+        PPTX, 114KB, 9 slides
+      </p>
+      <a class="govuk-body" href="<%= @base_url %>/assets/files/Review and streamline lesson planning.odp">
+        Download OpenDocument Presentation
+      </a>
+      <p>
+        ODP, 252KB, 9 slides
+      </p>
     </div>
   </div>
 </div>

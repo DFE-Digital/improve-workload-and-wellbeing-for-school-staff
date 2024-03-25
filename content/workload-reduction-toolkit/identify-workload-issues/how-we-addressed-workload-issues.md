@@ -23,27 +23,23 @@ colour: pink
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        We formed our
-        <%= link_to("Trust Workload and Wellbeing group", "https://www.heartsacademytrust.co.uk/workload-and-wellbeing") %>.
-      </p>
-      <p>
-        As a Trust we also developed a Workload and Wellbeing Charter which is
-        updated each September and mid-year if needed to ensure that messages
-        are reinforced. An annual well-being survey also supports schools to
-        understand if the charter is effective and being implemented.
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    We formed our
+    <%= link_to("Trust Workload and Wellbeing group", "https://www.heartsacademytrust.co.uk/workload-and-wellbeing") %>.
+  </p>
+  <p>
+    As a Trust we also developed a Workload and Wellbeing Charter which is
+    updated each September and mid-year if needed to ensure that messages
+    are reinforced. An annual well-being survey also supports schools to
+    understand if the charter is effective and being implemented.
+  </p>
 </div>
 
 ## Background from Jane Robinson, Head of School

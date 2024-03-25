@@ -1,19 +1,19 @@
 <% wrapped_content=capture do %>
   <div class="govuk-main-wrapper two-column-page content-section--purple">
-    <div class="dfe-width-container govuk-grid-row">
-      <div class="govuk-grid-column-two-thirds">
-        <h1 class="govuk-heading-l"><%= @item[:title] %></h1>
-        <p>
-          These resources are designed to help you address workload issues
-          with <%= @item[:title].downcase %> in your school.
-        </p>
+    <div class="dfe-width-container">
+      <div class="govuk-grid-row">
+        <div class="govuk-grid-column-two-thirds">
+          <h1 class="govuk-heading-l"><%= @item[:title] %></h1>
+          <p>
+            These resources are designed to help you address workload issues
+            with <%= @item[:title].downcase %> in your school.
+          </p>
+        </div>
       </div>
-    </div>
-
-    <div class="dfe-width-container govuk-grid-row">
-      <div class="govuk-grid-column-two-thirds">
-        <div class="govuk-grid-row dfe-width-container">
-          <div class="info-box">
+    
+      <div class="govuk-grid-row">
+        <div class="govuk-grid-column-two-thirds">
+          <div class="info-box govuk-!-margin-top-8">
             <div class="info-box__corner">
               <img src="/assets/images/i-icon.svg" alt="info icon">
             </div>
@@ -35,26 +35,18 @@
               have reduced <%= @item[:title].downcase %> workload.
             </p>
           </div>
+
+          <h2 class="govuk-heading-m">
+            Resources to help <%= @item[:title].downcase %> workload
+          </h2>
+
+          <%= yield %>
         </div>
 
-        <div class="govuk-grid-row">
-          <div class="govuk-grid-column-full">
-            <h2 class="govuk-heading-m">
-              Resources to help <%= @item[:title].downcase %> workload
-            </h2>
-          </div>
+        <div class="govuk-grid-column-one-third">
+          <hr class="govuk-section-break--blue govuk-section-break--thick">
+          <%= render '/partials/feedback.*', colour: "purple" %>
         </div>
-
-        <div class="govuk-grid-row">
-          <div class="govuk-grid-column-full">
-            <%= yield %>
-          </div>
-        </div>
-      </div>
-
-      <div class="govuk-grid-column-one-third">
-        <hr class="govuk-section-break--blue govuk-section-break--thick">
-        <%= render '/partials/feedback.*', colour: "purple" %>
       </div>
     </div>
   </div>

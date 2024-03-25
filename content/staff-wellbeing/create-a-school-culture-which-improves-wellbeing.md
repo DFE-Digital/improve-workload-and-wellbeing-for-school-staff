@@ -23,26 +23,22 @@ colour: blue
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        By engaging with our staff about workload, we have created a culture of wellbeing and ongoing reflection.  
-      </p>
-      <p>
-        We have relentlessly removed unnecessary tasks or reduced them to their essential components, especially when the justification for doing them was ‘that’s what everyone else does’ or ‘that’s what OFSTED, DfE or some other body want’.  
-      </p>
-      <p>
-        As a result, in our most recent wellbeing survey, 95% of our staff believed they completed their work ‘on time’ and, consequently, over 70% answered ‘very much so’ to the question: do you have a life outside work?  
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    By engaging with our staff about workload, we have created a culture of wellbeing and ongoing reflection.  
+  </p>
+  <p>
+    We have relentlessly removed unnecessary tasks or reduced them to their essential components, especially when the justification for doing them was ‘that’s what everyone else does’ or ‘that’s what OFSTED, DfE or some other body want’.  
+  </p>
+  <p>
+    As a result, in our most recent wellbeing survey, 95% of our staff believed they completed their work ‘on time’ and, consequently, over 70% answered ‘very much so’ to the question: do you have a life outside work?  
+  </p>
 </div>
 
 ## Background from Ben Levinson, Headteacher

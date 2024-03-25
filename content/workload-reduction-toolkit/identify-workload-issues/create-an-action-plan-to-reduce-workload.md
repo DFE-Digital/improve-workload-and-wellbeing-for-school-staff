@@ -23,6 +23,36 @@ colour: pink
 
 {/inset-text}
 
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/download-icon.svg" alt="Download icon">
+  </div>
+  <h2 class="govuk-heading-m">
+    Download the example
+  </h2>
+  <div class="govuk-grid-row info-box__download-content">
+    <div class="govuk-grid-column-one-half">
+      <img src="/assets/images/identify-and-evaluate--action-plan.jpg" alt="Workload action plan" class="dfe-file-preview-image">
+    </div>
+    <div class="govuk-grid-column-one-half">
+      <div class="info-box__content">
+        <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
+          Download Microsoft Word Document
+        </a>
+        <p>
+          DOCX, 29KB, 2 pages
+        </p>
+        <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.odt">
+          Download OpenDocument Text
+        </a>
+        <p>
+          ODT, 11KB, 2 pages
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
+
 ## Background from Neil Cully, Headteacher
 
 {inset-text}
@@ -35,40 +65,6 @@ The action plan outlines the key areas of focus, the actions that need to be
 taken, what success looks like and the timescale for actions to be taken.
 
 {/inset-text}
-
-<div class="dfe-width-container govuk-grid-row">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Download icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Download the example
-      </h2>
-      <div class="govuk-grid-row info-box__download-content">
-        <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/identify-and-evaluate--action-plan.jpg" alt="Workload action plan" class="dfe-file-preview-image">
-        </div>
-        <div class="govuk-grid-column-one-half">
-          <div class="info-box__content">
-             <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
-              Download Microsoft Word Document
-            </a>
-            <p>
-              DOCX, 29KB, 2 pages
-            </p>
-            <a class="govuk-body" href="<%= @base_url %>/assets/files/Workload and wellbeing action plan.docx">
-              Download OpenDocument Text
-            </a>
-            <p>
-              ODT, 11KB, 2 pages
-            </p>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 ## Creating an action plan
 

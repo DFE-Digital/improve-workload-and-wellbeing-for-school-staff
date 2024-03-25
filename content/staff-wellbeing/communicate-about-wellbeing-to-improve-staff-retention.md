@@ -23,55 +23,51 @@ colour: blue
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        A focus on positive wellbeing had led to:
-        <ul>
-          <li>
-            more effective communication among staff  
-          </li>
-          <li>
-            improved educational outcomes for students 
-          </li>
-          <li>
-            improved career satisfaction which can support retention 
-          </li>
-          <li>
-            lower levels of staff absence
-          </li>
-          <li>
-            increased staff motivation and productivity 
-          </li>
-          <li>
-            staff turnover has reduced from 14% to 6% in the last three years 
-          </li>
-          <li>
-            raised levels of staff morale 
-          </li>
-          <li>
-            staff more able to manage stress  
-          </li>
-          <li>
-            stronger working relationships
-          </li>
-          <li>
-            a team of loyal and committed staff 
-          </li>
-        </ul>
-      </p>
-      <p>
-        Staff have reported that wellbeing and workload has been assessed when leaders introduce new initiatives.
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    A focus on positive wellbeing had led to:
+  </p>
+  <ul>
+    <li>
+      more effective communication among staff  
+    </li>
+    <li>
+      improved educational outcomes for students
+    </li>
+    <li>
+      improved career satisfaction which can support retention
+    </li>
+    <li>
+      lower levels of staff absence
+    </li>
+    <li>
+      increased staff motivation and productivity
+    </li>
+    <li>
+      staff turnover has reduced from 14% to 6% in the last three years
+    </li>
+    <li>
+      raised levels of staff morale
+    </li>
+    <li>
+      staff more able to manage stress  
+    </li>
+    <li>
+      stronger working relationships
+    </li>
+    <li>
+      a team of loyal and committed staff
+    </li>
+  </ul>
+  <p>
+    Staff have reported that wellbeing and workload has been assessed when leaders introduce new initiatives.
+  </p>
 </div>
 
 ## Background from Chris Deller, Headteacher and Laura Fordham, senior leader and Wellbeing Lead

@@ -22,24 +22,20 @@ title: Use time effectively and work together when planning your curriculum
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        We found ways to use time effectively when planning our curriculum, such as making the most of published and online schemes.
-      </p>
-      <p>
-        We also saved time on curriculum planning by working together. 
-      </p>
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    We found ways to use time effectively when planning our curriculum, such as
+    making the most of published and online schemes.
+  </p>
+  <p>
+    We also saved time on curriculum planning by working together.
+  </p>
 </div>
 
 ## Background from Julie Kelly, Headteacher

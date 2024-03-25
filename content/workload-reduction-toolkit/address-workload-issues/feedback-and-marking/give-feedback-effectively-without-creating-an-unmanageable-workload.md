@@ -22,37 +22,33 @@ title: Give feedback effectively without creating an unmanageable workload
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        Outwood Grange Academies Trust has created a culture where teachers give feedback effectively without creating an unmanageable workload. 
-      </p>
-      <p>
-        Thanks to their approach, teachers are innovative in how they provide feedback. They’re empowered to:
-        <ul>
-          <li>give feedback and mark in a way that best suits their subject and pupils</li>
-          <li>use a wide variety of feedback strategies such as verbal feedback and live marking</li>
-        </ul>
-      </p>
-      <p>
-        Teachers are also more selective in what, why and how they mark. They:
-        <ul>
-          <li>focus on what makes a difference in written marking</li>
-          <li>mark for pupils - not leaders</li>
-        </ul>
-      </p>
-      <p>
-      Workload has also reduced and there is a better balance between time spent on planning and marking. Pupils are more actively engaged in checking their own work and responding to feedback.
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    Outwood Grange Academies Trust has created a culture where teachers give feedback effectively without creating an unmanageable workload. 
+  </p>
+  <p>
+    Thanks to their approach, teachers are innovative in how they provide feedback. They’re empowered to:
+    <ul>
+      <li>give feedback and mark in a way that best suits their subject and pupils</li>
+      <li>use a wide variety of feedback strategies such as verbal feedback and live marking</li>
+    </ul>
+  </p>
+  <p>
+    Teachers are also more selective in what, why and how they mark. They:
+    <ul>
+      <li>focus on what makes a difference in written marking</li>
+      <li>mark for pupils - not leaders</li>
+    </ul>
+  </p>
+  <p>
+  Workload has also reduced and there is a better balance between time spent on planning and marking. Pupils are more actively engaged in checking their own work and responding to feedback.
+  </p>
 </div>
 
 ## Background from Lynn James, Executive Principal

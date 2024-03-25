@@ -23,31 +23,30 @@ colour: blue
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        We made these changes to enable every teacher to become highly effective by:
-        <ul>
-          <li>
-            ensuring every teacher has time to focus on what is important - planning, teaching and feedback
-          </li>
-          <li>
-            believing in simplicity, always taking the shortest route and aiming for maximum impact on student learning with minimal workload for staff
-          </li>
-          <li>
-            continuously reviewing and evaluating our systems in order to support all staff to achieve a healthy work life balance
-          </li>
-        </ul>
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    We made these changes to enable every teacher to become highly effective by:
+  </p>
+  <ul>
+    <li>
+      ensuring every teacher has time to focus on what is important - planning,
+      teaching and feedback
+    </li>
+    <li>
+      believing in simplicity, always taking the shortest route and aiming for
+      maximum impact on student learning with minimal workload for staff
+    </li>
+    <li>
+      continuously reviewing and evaluating our systems in order to support all
+      staff to achieve a healthy work life balance
+    </li>
+  </ul>
 </div>
 
 ## Background from Ruth Allen, Deputy Headteacher

@@ -20,26 +20,22 @@ title: Review marking practice with an impact matrix
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-         Using the impact matrix to review marking practices at the City of
-         Norwich School has meant that:
-        <ul>
-          <li>homework activities have been simplified and marking criteria removed</li>
-          <li>mid-unit tests became shorter and more positively structured</li>
-          <li>tasks became much easier to mark and celebrate</li>
-       </ul>
-      </p>
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    Using the impact matrix to review marking practices at the City of
+    Norwich School has meant that:
+  </p>
+  <ul>
+    <li>homework activities have been simplified and marking criteria removed</li>
+    <li>mid-unit tests became shorter and more positively structured</li>
+    <li>tasks became much easier to mark and celebrate</li>
+  </ul>
 </div>
 
 ## Background from Joanne Philpott, Headteacher
@@ -55,35 +51,31 @@ create and complete the impact matrix.
 
 {/inset-text}
 
-<div class="dfe-width-container govuk-grid-row">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/download-icon.svg" alt="Download icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Download the impact matrix template
-      </h2>
-      <div class="govuk-grid-row info-box__download-content">
-        <div class="govuk-grid-column-one-half">
-          <img src="/assets/images/feedback-and-marking--impact-matrix-template.jpg" alt="Impact matrix template" class="dfe-file-preview-image">
-        </div>
-        <div class="govuk-grid-column-one-half">
-          <div class="info-box__content">
-             <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact matrix.docx">
-              Download Microsoft Word Document
-            </a>
-            <p>
-              DOCX, 25KB, 1 page
-            </p>
-            <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact matrix.odt">
-              Download OpenDocument Text
-            </a>
-            <p>
-              ODT, 7KB, 1 page
-            </p>
-          </div>
-        </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/download-icon.svg" alt="Download icon">
+  </div>
+  <h2 class="govuk-heading-m">
+    Download the impact matrix template
+  </h2>
+  <div class="govuk-grid-row info-box__download-content">
+    <div class="govuk-grid-column-one-half">
+      <img src="/assets/images/feedback-and-marking--impact-matrix-template.jpg" alt="Impact matrix template" class="dfe-file-preview-image">
+    </div>
+    <div class="govuk-grid-column-one-half">
+      <div class="info-box__content">
+        <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact matrix.docx">
+          Download Microsoft Word Document
+        </a>
+        <p>
+          DOCX, 25KB, 1 page
+        </p>
+        <a class="govuk-body" href="<%= @base_url %>/assets/files/Impact matrix.odt">
+          Download OpenDocument Text
+        </a>
+        <p>
+          ODT, 7KB, 1 page
+        </p>
       </div>
     </div>
   </div>

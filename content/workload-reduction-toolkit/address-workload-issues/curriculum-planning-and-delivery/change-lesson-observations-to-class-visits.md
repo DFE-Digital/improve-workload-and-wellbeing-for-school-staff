@@ -22,49 +22,48 @@ title: Change lesson observations to class visits
 
 {/inset-text}
 
-<div class="govuk-grid-row dfe-width-container">
-  <div class="govuk-grid-column-full">
-    <div class="info-box">
-      <div class="info-box__corner">
-        <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
-      </div>
-      <h2 class="govuk-heading-m">
-        Impact and outcomes
-      </h2>
-      <p>
-        Changing lesson observations to more informal class visits resulted in:
-      </p>
-      <ul>
-        <li>
-          reduced workload in terms of planning and preparation for leaders and teachers
-        </li>
-        <li>
-          a truer and more authentic reflection of what happens in classrooms 
-        </li>
-        <li>
-          less stress for teachers with focused feedback 
-        </li>
-        <li>
-          the process being valued by teachers and a perception it’s not ‘being done’ to them
-        </li>
-        <li>
-          development of a genuine ‘open door’ culture 
-        </li>
-        <li>
-          an effective improvement in quality of education 
-        </li>
-        <li>
-          notes from lesson visits feeding into teacher’s appraisals alongside other evidence 
-        </li>
-        <li>
-          opportunities for leaders to learn from each other  
-        </li>
-        <li>
-          better support for professional development
-        </li>
-      </ul>      
-    </div>
+<div class="info-box">
+  <div class="info-box__corner">
+    <img src="/assets/images/bullseye.svg" alt="Bullseye icon">
   </div>
+  <h2 class="govuk-heading-m">
+    Impact and outcomes
+  </h2>
+  <p>
+    Changing lesson observations to more informal class visits resulted in:
+  </p>
+  <ul>
+    <li>
+      reduced workload in terms of planning and preparation for leaders and
+      teachers
+    </li>
+    <li>
+      a truer and more authentic reflection of what happens in classrooms
+    </li>
+    <li>
+      less stress for teachers with focused feedback
+    </li>
+    <li>
+      the process being valued by teachers and a perception it’s not
+      ‘being done’ to them
+    </li>
+    <li>
+      development of a genuine ‘open door’ culture
+    </li>
+    <li>
+      an effective improvement in quality of education
+    </li>
+    <li>
+      notes from lesson visits feeding into teacher’s appraisals alongside other
+      evidence
+    </li>
+    <li>
+      opportunities for leaders to learn from each other  
+    </li>
+    <li>
+      better support for professional development
+    </li>
+  </ul>
 </div>
 
 ## Background from Jo Summerfield, Headteacher
