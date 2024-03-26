@@ -56,30 +56,30 @@ In our school, we have found these suggestions to help reduce teacher’s worklo
 
 ### Verbal feedback may be quicker than written feedback
 
-Live writing on the board – the teacher models how to write the answer, giving a commentary of the thoughts that run through their head as they do, including making mistakes and corrections (English, Science).
+Live writing on the board – the teacher models how to write the answer, giving a commentary of the thoughts that run through their head as they do, including making mistakes and corrections.
 
-With sixth formers, record an audio file of you reading and commenting on a piece of work. This can be sent to the pupil to listen back (Media, Film).
+With sixth formers, record an audio file of you reading and commenting on a piece of work. This can be sent to the pupil to listen back.
 
 ### Standardising what feedback says reduces time spent writing repetitive feedback
 
-Use standardised codes (Languages, English, Humanities).
+Use standardised codes.
 
-Generate automatic feedback comments off exam spreadsheets (Science, Computing, PE).
+Generate automatic feedback comments off exam spreadsheets.
 
 When diagnostic assessment is most useful, use a diagnostic grid and select boxes rather than write sentences.
 
 ### Enable self or peer marking amongst students through the choice of assignment and by providing marking criteria
 
-Provide model answers for self-marking; teachers can check the marking if needed (Science, English, Geography).
+Provide model answers for self-marking; teachers can check the marking if needed.
 
-Use knowledge quizzing which pupils can self or peer mark against (Science and Humanities).
+Use knowledge quizzing which pupils can self or peer mark against.
 
-Get pupils to present work and peer mark against assessment criteria (Business).
+Get pupils to present work and peer mark against assessment criteria.
 
 ### Opt for whole class feedback instead of individual feedback
 
-Only mark in detail for those who need it. Not everyone needs to receive the same level of detail. For instance, if pupils have got full marks, don’t write anything. (History).
+Only mark in detail for those who need it. Not everyone needs to receive the same level of detail. For instance, if pupils have got full marks, don’t write anything.
 
-Address whole class misconceptions verbally, getting pupils to write it down in green so they don’t forget. (RE, Sociology, PE and Creative Arts, BTECs)
+Address whole class misconceptions verbally, getting pupils to write it down in green so they don’t forget.
 
-With smaller classes, go around and highlight the things they’ve done well in one colour and the things they need to improve on in another colour
+With smaller classes, go around and highlight the things they’ve done well in one colour and the things they need to improve on in another colour.
