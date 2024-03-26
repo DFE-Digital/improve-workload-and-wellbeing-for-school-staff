@@ -89,9 +89,7 @@ The senior leadership team or supply teachers cover their time off timetable.
 We manage the demands of the year by:
 
 - planning our school calendar together
-
 - being clear about what will happen and when it will happen, as part of directed time
-
 - sharing the directed time calendar with staff before the start of new school year
 
 ## Offer temporary responsibilities

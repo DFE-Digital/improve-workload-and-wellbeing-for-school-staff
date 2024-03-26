@@ -68,13 +68,9 @@ For us, if our ethos didn’t link in some way to workload, then we believed ini
 In the early days, we felt that staff weren’t sufficiently engaged in our approach to make the best decisions for the children. Therefore, our early initiatives focused on hard, practical realities:
 
 - changing the timetable
-
 - providing medium term plans as a starting point
-
 - blocking out time for staff to undertake continuing professional development (CPD)
-
 - removing telephones from classrooms
-
 - creating a school calendar
 
 Over time, we have empowered staff to use their professional judgement to make the best decisions for their children. This can be seen in our [marking policy](/workload-reduction-toolkit/address-workload-issues/feedback-and-marking/improve-how-you-give-feedback-to-primary-pupils/), which encourages you to mark when you believe it will make the greatest impact on teaching.

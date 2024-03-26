@@ -49,9 +49,7 @@ As a school we went through a number of iterations of the approach, which allowe
 There are two main reasons we give feedback. Firstly, to motivate the child. Secondly, we can see an opportunity for learning by:
 
 - addressing a misunderstanding
-
 - reinforcing a skill or key piece of information
-
 - extending a child’s understanding or ability to do something
 
 ## When to give feedback
@@ -62,9 +60,7 @@ As a school, we encourage teachers to use their professional judgement to decide
 
 - provide verbal feedback
 - to surface mark
-
 - highlight mistakes
-
 - give a next step comment
 
 ## Support staff to make decisions

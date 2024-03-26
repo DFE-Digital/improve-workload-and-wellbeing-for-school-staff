@@ -82,9 +82,7 @@ This change is about supporting everyone’s wellbeing, decreasing everyone’s 
 There needs to be a culture of trust that goes both ways:
 
 - the leadership team trust teachers to deliver high quality lessons without close, formal scrutiny
-
 - teachers trust that SLT are there to value what they do each and every day, support them and not to make unfair judgements
-
 - ‘a learning school’ culture becomes embedded: staff are open to feedback, want to improve their practice, know that their views are valued and want to try new things
 
 ## Change formal observations to lesson visits
@@ -126,11 +124,8 @@ Leaders give teachers feedback as soon as they can – this might be straight af
 The feedback is short and informal and leaders are expected to:
 
 - thank the teacher
-
 - say something they liked
-
 - suggest something to work on
-
 - suggest an area of professional development for them to look into
 
 As a staff we have agreed to do this by a quick email with a feedback document attached.

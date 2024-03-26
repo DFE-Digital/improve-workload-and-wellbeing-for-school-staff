@@ -61,29 +61,18 @@ We developed our academy trust workload agreement to support better recruitment 
 How the Ascent Trust ensures fair and reasonable workload:
 
 - the executive leadership team has a commitment to reducing work hours (above and beyond 1265) for all teachers. We also carry out a Trust review of Teaching Assistant contractual hours and duties
-
 - we ensure that the appraisal of all staff includes a workload review.
-
 - we take supporting actions to ensure employers exercise their duty of care to employees regarding workload, including heads of academy
-
 - we review the Educational Health Care Plan (EHCP) reports and meetings, with Ascent (rather than local authorities) providing the lead on systems and procedures
-
 - we have a working party to review curriculum planning systems across the trust, with the intention of reducing workload
-
 - we ensure that Ascent completes a workload impact assessment before any new trust policies, reports or initiatives are introduced
-
 - we ensure that policy requirements are reasonably deliverable within contracted hours for non-teaching staff
-
 - we regularly review the workload charter with all staff
 
 How individual academies within the trust ensure fair and reasonable workload:
 
 - the Senior Leadership Team (SLT) states and plans the allocation of directed time with staff
-
 - by publishing and adhering to termly calendars where possible
-
 - the SLT guarantees to staff that any major changes initiated by the Trust will be planned on an annual basis
-
 - by setting clear expectations policies for marking, feedback and assessment
-
 - the SLT and business review the support needed by teachers to reduce their admin duties

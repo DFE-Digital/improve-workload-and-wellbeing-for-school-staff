@@ -97,9 +97,7 @@ The full committee will meet at least once per half term. A schedule of these me
 The wellbeing committee will:
 
 - evaluate the impact of any intervention to resolve wellbeing issues
-
 - coordinate termly wellbeing weeks
-
 - inform staff of wellbeing initiatives via the wellbeing notice board the monthly BA Wellbeing Newsletter and staff meetings (when appropriate)
 
 ### Set up a working group
@@ -109,13 +107,9 @@ The workload group will be formed with a different group of staff each term. The
 The group will be representative of staff, and include a range of experience, for example:
 
 - Early Career Teachers (ECTs)
-
 - staff who have taught in at least one other school
-
 - middle leaders – both pastoral and academic
-
 - staff who have previously worked outside of teaching
-
 - support staff
 
 The workload group will identify priorities to support staff in managing workload and this will be disseminated to staff.

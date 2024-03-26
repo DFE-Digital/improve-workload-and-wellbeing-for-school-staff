@@ -56,13 +56,9 @@ colour: blue
 The staff wellbeing statement outlined below was developed by our wellbeing focus group. In addition to the statement, the focus group:
 
 - offers support to staff
-
 - seeks feedback on how staff are feeling
-
 - shares resources
-
 - looks for ways to boost morale
-
 - uses staff absence to measure wellbeing
 
 {/inset-text}
@@ -72,15 +68,10 @@ The staff wellbeing statement outlined below was developed by our wellbeing focu
 These principles are the cornerstone of our approach to wellbeing at St Peter’s:
 
 - because we care
-
 - because everyone matters
-
 - together we can make a difference
-
 - this is worth it
-
 - we are worth it
-
 - you are worth it
 
 ## Staff wellbeing statement
@@ -92,41 +83,24 @@ We recognise that work-related stress has a negative impact on employees’ well
 At St Peter’s we:
 
 - carefully plan and agree work-life balance solutions, including flexible working practices where possible and appropriate
-
 - ensure that the right people are recruited to the right jobs
-
 - manage pressures that may affect employees, including the impact of workload
-
 - anticipate likely problems, taking action to reduce the effects of these pressures where possible
-
 - pay attention to any changes in employee performance or behaviour and promote sympathetic alertness to employees who show signs of being under stress
-
 - create opportunities for employees to discuss concerns and enable employees to do so in a supportive environment
-
 - provide an Employment Assistant Programme (EAP), which offers a free 24-hour counselling service
-
 - put in place procedures for line managers to address concerns or absence due to work related stress
-
 - provide Occupational Health support to employees where appropriate
-
 - carry out a risk assessment where necessary and addressing any concerns raised as soon as possible
-
 - ensure that when staff are absent, proportionate and supportive contact is maintained with them, at a mutually agreed frequency
-
 - establish a return-to-work policy that is supportive of employee
 
 We ask employees to:
 
 - inform the organisation if they believe work or the work environment poses a risk to their health
-
 - seek support or help when they think they are experiencing a problem at the earliest opportunity to ensure effective strategies can be implemented
-
 - act in a manner that respects the health and safety needs of themselves and others whilst in the workplace
-
 - assist in the development of good practice and aim to not, through their actions or omissions, create unnecessary work for themselves or colleagues
-
 - treat colleagues and all other persons whom they interact with during the course of their work with consideration, respect and dignity
-
 - treat in confidence any health-related information disclosed by an employee during discussions with managers or the occupational health service
-
 - take responsibility for managing their own health and wellbeing outside of work

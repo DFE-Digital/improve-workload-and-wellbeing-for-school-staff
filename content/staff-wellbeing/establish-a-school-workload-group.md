@@ -68,17 +68,11 @@ For example, to receive feedback on a termly basis about staff workload, and rec
 Membership should be representative of staff, and include a range of experience, for example:
 
 - newly qualified teachers (NQTs)
-
 - teachers 2 or 3 years into teaching
-
 - staff who have taught in at least one other school
-
 - middle leaders – both pastoral and academic
-
 - staff who have previously worked outside of teaching
-
 - support staff
-
 - union representatives
 
 ### Identify priorities of the group
@@ -86,21 +80,13 @@ Membership should be representative of staff, and include a range of experience,
 Identify priorities to support staff in managing workload, for example:
 
 - time taken up by replying to e-mail and face-to-face requests for information
-
 - further training on ‘remote access’ for staff
-
 - perceived excessive marking burden
-
 - relevance of some weekly CPD sessions for all staff
-
 - lack of clarity about how staff are meant to spend their directed time
-
 - the imbalance between all-staff meetings, department time and individual time
-
 - scheduling of assessment weeks adjacent to other tasks that may cause more workload, such as book scrutinies every half term
-
 - excessive volume of data entry required due to assessment changes
-
 - teachers having to provide work for students removed from lessons
 
 ## Develop an action plan
@@ -108,11 +94,8 @@ Identify priorities to support staff in managing workload, for example:
 Develop an action plan and disseminate this to staff. Examples of actions:
 
 - review the school’s draft teaching and learning calendar, to make recommendations to support reduction of ‘pressure points’
-
 - produce a weekly staff bulletin, to better support communication with staff and reduce the number of meetings and separate emails
-
 - implement relevant recommendations from the DfE, such as reducing the number of data collection points per academic year
-
 - effective training for staff on use of IT systems
 
 Staff working on these actions, for example, producing the bulletin, should be freed up from other tasks where appropriate.

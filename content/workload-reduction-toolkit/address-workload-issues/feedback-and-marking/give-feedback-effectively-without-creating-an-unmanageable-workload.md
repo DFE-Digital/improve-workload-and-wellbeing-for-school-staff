@@ -66,23 +66,18 @@ Pupils’ books become a reflection of effective learning, not a check of markin
 We:
 
 - remove unnecessary marking
-
 - use a range of marking methodologies - one style of marking does not suit all purposes and all pupils
 
 There are many effective forms of feedback and we use a variety of methods. We believe that:
 
 - feedback should be a regular, but not onerous, practice
-
 - teachers should select the best feedback method available to impact positively on pupil learning and future performance
 
 We set clear and manageable expectations about how teachers can approach:
 
 - feedback in lessons
-
 - marking (for example, how regular it is)
-
 - identifying mistakes and errors
-
 - peer and self assessment
 
 Department leads quality assure marking and feedback in discussions with teams.
@@ -94,9 +89,7 @@ We give feedback as close as possible to the point of action, preferably during 
 We use different types of immediate feedback strategies in lessons. Their usage is evident:
 
 - in pupils’ books due to improved work
-
 - by pupils’ conversations about their lessons
-
 - by observing teaching over time
 
 ### Verbal feedback
@@ -130,7 +123,6 @@ Each department has its own approach to marking relevant to their subject. They 
 Sometimes teachers need to mark to make corrections to:
 
 - mistakes (when pupils usually do something correctly but did not do so on this occasion)
-
 - misconceptions (when pupils have not mastered or have misunderstood something)
 
 Use professional judgement about how to make corrections, whether it’s reshaping your teaching or providing feedback.
@@ -146,9 +138,7 @@ We build ‘student response time’ into lessons – this is time where pupils 
 This helps pupils:
 
 - strive for excellence
-
 - see the value of marking
-
 - respond to the feedback given in class or after marking
 
 ‘Student response time’ is a term we use across the trust to promote consistent practice.
@@ -190,11 +180,7 @@ Presentation standards and skills should be explicitly taught and modelled by th
 We use the ‘proud’ protocol when marking the presentation of work:
 
 - ‘p’ stands for ‘pen’ - use blue or black ink
-
 - ‘r’ stands for ‘ruler’ – user a ruler for straight lines and rule off work when finished
-
 - ‘o’ stands for ‘oops’ – draw a neat line through mistakes
-
 - ‘u’ stands for ‘underline’ – underline the title and date
-
 - ‘d’ stands for ‘pencil’ – draw in pencil
