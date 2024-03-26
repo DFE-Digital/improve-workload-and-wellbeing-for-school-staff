@@ -136,8 +136,7 @@ $card-text-hover-color: govuk-colour("purple");
   margin-bottom: 0;
   padding: 0;
 
-  .icon-card,
-  .dfe-card {
+  .icon-card {
     margin-bottom: govuk-spacing(8);
   }
 
@@ -182,20 +181,28 @@ $card-text-hover-color: govuk-colour("purple");
 .dfe-card-container {
   @include govuk-media-query($from: tablet) {
     display: flex;
+    justify-content: space-between;
+    margin-bottom: govuk-spacing(7);
+
+    .dfe-card:not(:last-child) {
+      margin-right: 85px;
+    }
   }
 }
 
 .dfe-card {
+  flex: 1;
   display: flex;
   align-items: center;
-  width: 100%;
   margin: govuk-spacing(3);
   background-color: #347ca9;
   text-decoration: none;
 
   @include govuk-media-query($from: tablet) {
-    margin: 20px;
+    align-items: flex-start;
+    margin: govuk-spacing(3);
     border: 1px solid #b1b4b6;
+    background-color: govuk-colour("white");
   }
 }
 
@@ -223,6 +230,14 @@ $card-text-hover-color: govuk-colour("purple");
   }
 
   &:focus {
+    p {
+      color: govuk-colour("black");
+    }
+
+    .dfe-card__chevron {
+      background-color: $govuk-focus-colour;
+    }
+
     .dfe-card-header {
       color: govuk-colour("black");
       background-color: $govuk-focus-colour;
@@ -231,13 +246,14 @@ $card-text-hover-color: govuk-colour("purple");
 
     .dfe-card-body {
       background-color: $govuk-focus-colour;
-      p {
-        color: govuk-colour("black");
-      }
 
       @include govuk-media-query($from: tablet) {
         background-color: govuk-colour("white");
       }
+    }
+
+    @include govuk-media-query($from: tablet) {
+      background-color: govuk-colour("white");
     }
   }
 }
@@ -249,34 +265,32 @@ $card-text-hover-color: govuk-colour("purple");
 }
 
 .dfe-card-header {
-  padding: govuk-spacing(4);
-  padding-bottom: 0;
   margin: 0;
+  padding: govuk-spacing(4) govuk-spacing(3);
+  padding-bottom: 0;
+  background-color: #347ca9;
   color: govuk-colour("white");
-  font-weight: bold;
-  font-size: 19px;
 
   @include govuk-media-query($from: tablet) {
+    padding: govuk-spacing(7);
     font-size: 22px;
-    padding: govuk-spacing(7) govuk-spacing(6);
   }
 }
 
 .dfe-card-body {
-  padding: govuk-spacing(4);
-  padding-top: govuk-spacing(3);
+  padding: govuk-spacing(3);
 
   p {
-    color: govuk-colour("white");
     margin-bottom: 0;
+    color: govuk-colour("white");
   }
 
   @include govuk-media-query($from: tablet) {
     padding: govuk-spacing(7);
+    padding-bottom: govuk-spacing(9);
     background-color: govuk-colour("white");
 
     p {
-      margin-bottom: govuk-spacing(7);
       color: $govuk-text-colour;
     }
   }
@@ -291,14 +305,14 @@ $card-text-hover-color: govuk-colour("purple");
   }
 }
 
-.dfe-card--pink {
+.bg-pink {
   background-color: #d4357f;
 }
 
-.dfe-card--purple {
+.bg-purple {
   background-color: govuk-colour("purple");
 }
 
-.dfe-card--green {
+.bg-green {
   background-color: #279b91;
 }

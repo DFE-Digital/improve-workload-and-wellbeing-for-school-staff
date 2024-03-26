@@ -1,6 +1,12 @@
 .feedback-section-container {
+  margin-top: govuk-spacing(1);
+  margin-bottom: govuk-spacing(3);
+
   @include govuk-media-query($from: tablet) {
     display: flex;
+    .feedback-section:not(:last-child) {
+      margin-right: 80px;
+    }
   }
 }
 
@@ -28,7 +34,7 @@
   margin-top: govuk-spacing(4);
 
   @include govuk-media-query($from: tablet) {
-    margin: govuk-spacing(4) govuk-spacing(6) 0 govuk-spacing(6);
+    margin: 0 govuk-spacing(6);
   }
 }
 

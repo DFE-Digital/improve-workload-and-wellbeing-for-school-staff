@@ -27,30 +27,37 @@ title: Home
 
 <div class="govuk-main-wrapper">
   <div class="dfe-width-container">
-    <ul class="govuk-grid-row card-group govuk-!-margin-bottom-8">
-      <li class="govuk-grid-column-one-half card-group__item govuk-!-padding-4">
-        <%= render('/partials/tile.*', title: "Workload reduction toolkit",
-          body: "Support workload reduction with resources produced by school leaders.",
-          href: "#{@base_url}/workload-reduction-toolkit"
-        ) %>
-      </li>
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-full">
+        <div class="dfe-card-container">
+          <%= render('/partials/tile.*', title: "Workload reduction toolkit",
+            body: "Support workload reduction with resources produced by school leaders.",
+            href: "#{@base_url}/workload-reduction-toolkit",
+            colour: "blue"
+          ) %>
 
-      <li class="govuk-grid-column-one-half card-group__item govuk-!-padding-4">
-        <%= render('/partials/tile.*', title: "Staff wellbeing",
-          body: "Promote a culture of wellbeing with resources made by school leaders.",
-          href: "#{@base_url}/staff-wellbeing"
-        ) %>
-      </li>
-    </ul>
+          <%= render('/partials/tile.*', title: "Staff wellbeing",
+            body: "Promote a wellbeing culture with resources made by school leaders. Sign up to the education staff wellbeing charter and find out how to support staff mental health in your school.",
+            href: "#{@base_url}/staff-wellbeing",
+            colour: "blue"
+          ) %>
+        </div>
+      </div>
+    </div>
   </div>
 
   <div class="dfe-content-page--row">
     <div class="govuk-grid-row dfe-width-container">
       <div class="govuk-grid-column-two-thirds">
-        <h2 class="govuk-heading-m">Explore all resources</h2>
-        <p class="govuk-body">Browse through all our staff wellbeing and workload reduction resources. They are
-        contributed by school leaders from their experiences improving workload and wellbeing in their schools.</p>
-        <a class="govuk-button govuk-button--blue govuk-!-margin-top-2" data-module="govuk-button"
+        <h2 class="govuk-heading-m">
+          Explore all resources
+        </h2>
+        <p class="govuk-body">
+          Browse through all our staff wellbeing and workload reduction
+          resources. They are contributed by school leaders from their
+          experiences improving workload and wellbeing in their schools.
+        </p>
+        <a class="govuk-button govuk-button--blue govuk-!-margin-top-1 govuk-!-margin-bottom-0" data-module="govuk-button"
           href="<%= @base_url %>/explore-all-resources/identify-workload-issues">
           Explore all resources
         </a>
