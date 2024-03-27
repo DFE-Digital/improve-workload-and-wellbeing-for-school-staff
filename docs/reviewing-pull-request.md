@@ -25,7 +25,7 @@ Welcome to our quick guide on how to review Pull Requests (PRs) on GitHub. This 
 
 1. **Access the deployed preview**: Look for the Netlify bot comment in the `Conversation` tab of the PR. It should provide a link to the deployed preview of the changes.
 2. **Test the links**: Click through all the links in the deployed preview to ensure they work correctly. Pay special attention to new resources or modified links.
-
+3. **Check resources are linked correctly**: Make sure any new resources are linked to both on the staff wellbeing page or the workload reduction toolkit **and** the appropriate explore resources section.
 ## Consider Mobile Responsiveness
 
 To ensure that changes look good and work well on mobile devices:
