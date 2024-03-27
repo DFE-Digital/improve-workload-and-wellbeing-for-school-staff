@@ -70,11 +70,11 @@ This work fed into the Trust’s actions on workload and wellbeing and an email 
 
 Please place this notice above work computers, in the staff room and offices or stick a small version to your laptop.
 
-As part of the workload group terms of reference we are looking at emails and the addition to workload that they cause for some members of staff. Below is our attempt to ensure that this is manageable for all staff. This policy will be kept under review and views can be shared with your Workload group representative
+As part of the workload group terms of reference we are looking at emails and the addition to workload that they cause for some members of staff. Below is our attempt to ensure that this is manageable for all staff. This policy will be kept under review and views can be shared with your Workload group representative.
 
 ## Principles
 
-Emails are unavoidable in a large organisation which is not sited in one place. They are a valuable form of communication for a diverse and dynamic workforce
+Emails are unavoidable in a large organisation which is not sited in one place. They are a valuable form of communication for a diverse and dynamic workforce.
 
 Emails should be part of a modern workforce communication methods but not the only form of communication.
 

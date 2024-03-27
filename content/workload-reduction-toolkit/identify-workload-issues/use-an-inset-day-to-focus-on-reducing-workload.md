@@ -34,21 +34,21 @@ colour: pink
     We have relentlessly removed unnecessary tasks or reduced them to their
     essential components, especially when the justification for doing them
     was ‘that’s what everyone else does’ or ‘that’s what OFSTED, DfE or some
-    other body want. The marking policy (now included in this service’s
+    other body want'. The marking policy (now included in this service’s
     school workload reduction toolkit) was one outcome of this wider work.
   </p>
   <p>
     As a result, in our most recent wellbeing survey, 95% of our staff
     believed they completed their work ‘on time’ and, consequently, over 70%
-    answered ‘very much so’ to the question: do you have a life outside
-    work?
+    answered ‘very much so’ when asked 'do you have a life outside
+    work?'
   </p>
 </div>
 
 ## Background from Ben Levinson, Headteacher
 
 At Kensington, reducing workload has been an obsession from day one. This INSET
-day was entitled ‘What gets in the way of teaching?’.
+day was entitled ‘What gets in the way of teaching?’
 
 We have been through countless iterations since and it has been a key component
 in the development of our culture and ethos.
@@ -64,16 +64,16 @@ It is borne from two beliefs:
 
 The agenda for the first INSET day was simple:
 
-Staff worked in groups to come up with a list of the things that get in the way
+1. Staff worked in groups to come up with a list of the things that get in the way
 of them doing the best possible job of teaching our pupils.
 
-They looked at a ‘long list’ of the school’s initiatives. For example, things
+2. They looked at a ‘long list’ of the school’s initiatives. For example, things
 like how we teach reading or mark pupils’ work, the housepoints system,
 attendance initiatives, interventions.
 
-They then decided what worked and what didn’t.
+3. They then decided what worked and what didn’t.
 
-We then categorised these and worked to remove everything that didn’t have a
+4. We then categorised these and worked to remove everything that didn’t have a
 direct impact on our pupils.
 
 ## Act on what you find out

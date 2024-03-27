@@ -82,7 +82,7 @@ This evaluation and any further actions should be discussed and agreed with all 
 
 Notre Dame High School considered the following questions for their action plan:
 
-- Who did we do this for?
-- Did it improve the quality of teaching?
-- What impact did it have on students?
-- Can we do this in a more efficient and effective way?
+- who did we do this for?
+- did it improve the quality of teaching?
+- what impact did it have on students?
+- can we do this in a more efficient and effective way?

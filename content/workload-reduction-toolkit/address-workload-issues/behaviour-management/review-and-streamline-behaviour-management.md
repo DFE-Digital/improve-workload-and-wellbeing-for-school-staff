@@ -72,7 +72,7 @@ Use the presentation:
   reduce workload
 - in a way that is most useful for you. For example you might want to have
   discussions as a whole school, team, department or leadership team, liaising
-  with governing boards.
+  with governing boards
 
 You might want to run the workshop as part of a whole school INSET following an
 initial discussion with governors. You could also complete the exercises
