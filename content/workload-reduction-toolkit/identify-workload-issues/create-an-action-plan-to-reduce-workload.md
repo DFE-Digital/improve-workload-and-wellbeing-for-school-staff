@@ -112,7 +112,7 @@ staff.
 Notre Dame High School considered the following questions when creating their
 action plan:
 
-- Who are we doing this for?
-- Will it improve the quality of teaching?
-- What impact will it have on students?
-- Can we do this in a more efficient and effective way?
+- who are we doing this for?
+- will it improve the quality of teaching?
+- what impact will it have on students?
+- can we do this in a more efficient and effective way?
