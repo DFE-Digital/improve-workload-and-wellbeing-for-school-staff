@@ -26,6 +26,8 @@ You'll find all the documentation for this project in the `docs` folder.
   resource from the site.
 - [Creating a pull request](/docs/creating-a-pull-request.md) contains
   instructions on how to create pull requests for both minor or major changes.
+- [Reviewing a pull request](/docs/reviewing-a-pull-request.md) contains
+  instructions on how to review pull requests for non-developers.
 
 ### General
 
