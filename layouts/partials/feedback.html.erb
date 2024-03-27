@@ -1,47 +1,35 @@
 <div class="govuk-grid-row feedback-section-container">
   <div class="feedback-section">
-    <div class="feedback-section__icon">
-      <img
-        src="<%= base_url %>/assets/images/idea-icon-<%= defined?(colour) ? colour : 'blue' %>.svg"
-        alt="Idea icon"
-        class="dfe-icon"
-      />
-    </div>
+    <img src="<%= base_url %>/assets/images/idea-icon-<%= defined?(colour) ? colour : 'blue' %>.svg" alt="Idea icon" class="feedback-section__icon" />
     <div class="feedback-section__content">
-      <h3 class="govuk-heading-m">Share your ideas</h3>
+      <div class="feedback-section__icon_header">
+        <img src="<%= base_url %>/assets/images/idea-icon-<%= defined?(colour) ? colour : 'blue' %>.svg" alt="Idea icon" class="feedback-section__hidden_icon" />
+        <h3 class="govuk-heading-m">Share your ideas</h3>
+      </div>
       <p class="govuk-body">
         You can help other school leaders by sharing what has worked in your
         school.
       </p>
       <p class="govuk-body">
-        <a
-          href="<%= base_url %>/share-your-ideas"
-          class="govuk-link govuk-link--no-visited-state"
-        >
+        <a href="<%= base_url %>/share-your-ideas" class="govuk-link govuk-link--no-visited-state">
           Share your ideas
         </a>
       </p>
     </div>
   </div>
   <div class="feedback-section">
-    <div class="feedback-section__icon">
-      <img
-        src="<%= base_url %>/assets/images/chat-icon-<%= defined?(colour) ? colour : 'blue' %>.svg"
-        alt="Chat icon"
-        class="dfe-icon"
-      />
-    </div>
+    <img src="<%= base_url %>/assets/images/chat-icon-<%= defined?(colour) ? colour : 'blue' %>.svg" alt="Chat icon" class="feedback-section__icon" />
     <div class="feedback-section__content">
-      <h3 class="govuk-heading-m">Help improve our service</h3>
+      <div class="feedback-section__icon_header">
+        <img src="<%= base_url %>/assets/images/chat-icon-<%= defined?(colour) ? colour : 'blue' %>.svg" alt="Chat icon" class="dfe-icon feedback-section__hidden_icon" />
+        <h3 class="govuk-heading-m">Help improve our service</h3>
+      </div>
       <p class="govuk-body">
         Your feedback will help us improve our service on workload and wellbeing
         for all school staff.
       </p>
       <p class="govuk-body">
-        <a
-          href="https://forms.office.com/e/sEhZxVyw29"
-          class="govuk-link govuk-link--no-visited-state"
-        >
+        <a href="https://forms.office.com/e/sEhZxVyw29" class="govuk-link govuk-link--no-visited-state">
           Complete our feedback form
         </a>
       </p>

@@ -8,6 +8,10 @@
       margin-right: 80px;
     }
   }
+
+  .feedback-section__hidden_icon {
+    display: none;
+  }
 }
 
 .govuk-grid-column-one-third {
@@ -22,7 +26,21 @@
   }
 
   .feedback-section__icon {
-    img {
+    display: none;
+  }
+
+  .feedback-section__icon_header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+
+    .govuk-heading-m {
+      margin: 0;
+    }
+
+    .feedback-section__hidden_icon {
+      display: block;
+      margin: 0 20px 0 0;
       width: 56px;
     }
   }
@@ -31,6 +49,7 @@
 .feedback-section {
   width: 100%;
   display: flex;
+  align-items: flex-start;
   margin-top: govuk-spacing(4);
 
   @include govuk-media-query($from: tablet) {
@@ -40,15 +59,7 @@
 
 .feedback-section__icon {
   margin-right: govuk-spacing(6);
-  img {
-    width: 67px;
-  }
-}
-
-.feedback-section__content {
-  .govuk-heading-m {
-    margin-top: 0 !important;
-  }
+  width: 67px;
 }
 
 // In markdown pages, we can't drop the feedback section in below the title /
