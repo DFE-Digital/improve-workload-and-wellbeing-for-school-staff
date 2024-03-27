@@ -64,16 +64,16 @@ It is borne from two beliefs:
 
 The agenda for the first INSET day was simple:
 
-Staff worked in groups to come up with a list of the things that get in the way
+1. Staff worked in groups to come up with a list of the things that get in the way
 of them doing the best possible job of teaching our pupils.
 
-They looked at a ‘long list’ of the school’s initiatives. For example, things
+2. They looked at a ‘long list’ of the school’s initiatives. For example, things
 like how we teach reading or mark pupils’ work, the housepoints system,
 attendance initiatives, interventions.
 
-They then decided what worked and what didn’t.
+3. They then decided what worked and what didn’t.
 
-We then categorised these and worked to remove everything that didn’t have a
+4. We then categorised these and worked to remove everything that didn’t have a
 direct impact on our pupils.
 
 ## Act on what you find out
