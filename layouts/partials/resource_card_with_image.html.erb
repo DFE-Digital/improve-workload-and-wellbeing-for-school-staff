@@ -33,16 +33,18 @@
             <img src="<%= image_url %>" alt="Review and streamline behaviour management" class="dfe-file-preview-image">
           </div>
         <% end %>
-        <% defined?(download_links) && download_links.each do |link| %>
-          <div class="govuk-grid-column-one-half">
-            <a class="govuk-link--no-visited-state govuk-body" href="<%= link[:href] %>">
-              <%= link[:text] %>
-            </a>
-            <p>
-              <%= link[:details] %>
-            </p>
-          </div>
-        <% end %>
+        <div class="govuk-grid-column-one-half">
+          <% defined?(download_links) && download_links.each do |link| %>
+            <div>
+              <a class="govuk-link--no-visited-state govuk-body" href="<%= link[:href] %>">
+                <%= link[:text] %>
+              </a>
+              <p>
+                <%= link[:details] %>
+              </p>
+            </div>
+            <% end %>
+        </div>
       </div>
     </div>
   </div>
