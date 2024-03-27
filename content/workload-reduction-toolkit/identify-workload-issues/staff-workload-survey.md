@@ -48,7 +48,7 @@ reduction toolkit.
     </div>
     <div class="govuk-grid-column-one-half">
       <a class="govuk-body" href="<%= @base_url %>/assets/files/Staff workload survey.docx">
-        Download Microsoft PowerPoint
+        Download Microsoft Word Document
       </a>
       <p>
         DOCX, 31KB, 4 pages
