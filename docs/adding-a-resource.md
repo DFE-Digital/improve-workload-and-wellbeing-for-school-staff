@@ -8,6 +8,8 @@ Useful links:
 
 - [Example resource file](example-resource.md)
 
+- [Example presentation file](example-presentation.md)
+
 - [Example pull request](https://github.com/DFE-Digital/improve-school-workload-and-wellbeing/pull/39) -
   this is an example pull request on Github, where a single resource has been
   added. If you make the same changes as in this pull request, you will also
