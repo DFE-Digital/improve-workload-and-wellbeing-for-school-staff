@@ -42,7 +42,7 @@ colour: blue
   </ul>
 </div>
 
-## Background from David Lowbridge-Ellis, Deputy Headteacher
+## Background from David Lowbridge-Ellis MBE, Director of School Improvement
 
 {inset-text}
 

@@ -19,8 +19,6 @@ colour: blue
 
 **Number of pupils**: 1300
 
-**Contact details**: Email Vice Principal Mary Hall at <mhall.pingle@deferrerstrust.com>
-
 {/inset-text}
 
 <div class="info-box">
