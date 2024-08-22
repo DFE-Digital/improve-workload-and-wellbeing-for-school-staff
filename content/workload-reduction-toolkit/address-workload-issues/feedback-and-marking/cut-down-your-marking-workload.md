@@ -18,7 +18,7 @@ title: Cut down your marking workload
 
 **Number of pupils:** 1500
 
-**Contact details:** Email Deputy Headteacher David Lowbridge-Ellis at <dlowbridgeellis@matrixacademytrust.co.uk>
+**Contact details:** Email David Lowbridge-Ellis MBE, Director of School Improvement at <dlowbridgeellis@matrixacademytrust.co.uk>
 
 {/inset-text}
 
@@ -42,7 +42,7 @@ title: Cut down your marking workload
   </p>
 </div>
 
-## Background from David Lowbridge-Ellis, Deputy Headteacher
+## Background from David Lowbridge-Ellis MBE, Director of School Improvement
 
 {inset-text}
 I asked staff to mark however they like. This was so they could try new approaches which were more specific to their subjects and the pupils in front of them. I collated some of these ideas in a document and sent it to all staff to further encourage them to try doing things in a more time efficient manner.

@@ -19,6 +19,8 @@ colour: blue
 
 **Number of pupils**: 1500
 
+**Contact details:** Email David Lowbridge-Ellis MBE, Director of School Improvement at <dlowbridgeellis@matrixacademytrust.co.uk>
+
 {/inset-text}
 
 <div class="info-box">
@@ -42,7 +44,7 @@ colour: blue
   </ul>
 </div>
 
-## Background from David Lowbridge-Ellis, Deputy Headteacher
+## Background from David Lowbridge-Ellis MBE, Director of School Improvement
 
 {inset-text}
 
