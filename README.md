@@ -15,7 +15,7 @@ You'll find all the documentation for this project in the `docs` folder.
 
 ### For developers
 
-- [Set up](/docs/set-up) covers setting up the application on both MacOS and
+- [Set up](/docs/set-up.md) covers setting up the application on both MacOS and
   Windows devices.
 
 ### For contributing to resources
