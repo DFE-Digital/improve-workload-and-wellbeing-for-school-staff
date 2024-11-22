@@ -7,7 +7,7 @@ high-quality content and avoiding regressions.
 
 The external URL for the project is <http://improve-workload-and-wellbeing-for-school-staff.education.gov.uk/>.
 
-The GitHub pages URL for the project is <https://dfe-digital.github.io/improve-school-workload-and-wellbeing/>.
+The GitHub pages URL for the project is <https://dfe-digital.github.io/improve-workload-and-wellbeing-for-school-staff>.
 
 ## Documentation
 
