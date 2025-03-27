@@ -1,0 +1,22 @@
+---
+title: Explore resources
+layout: /explore_resources.html.erb
+---
+
+<% content_for :topic_list do %>
+  <%= render('/partials/topic_list.*', active: "attendance")%>
+<% end %>
+
+<div class="explore-resource-card-group">
+  <%= render("/partials/explore_resource_card.*",
+    title: "Improve school attendance by supporting pupils, parents and carers",
+    href: "#{@base_url}/workload-reduction-toolkit/address-workload-issues/attendance/improve-school-attendance-by-supporting-pupils-parents-and-carers",
+    tag: "Attendance",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Case study",
+      reading_time: "3 minutes",
+      created_by: "Kensington Primary School (Primary)",
+    }
+  ) %>
+</div>
