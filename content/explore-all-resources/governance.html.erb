@@ -1,0 +1,22 @@
+---
+title: Explore resources
+layout: /explore_resources.html.erb
+---
+
+<% content_for :topic_list do %>
+  <%= render('/partials/topic_list.*', active: "governance") %>
+<% end %>
+
+<div class="explore-resource-card-group">
+  <%= render("/partials/explore_resource_card.*",
+    title: "Plan a yearly safeguarding calendar",
+    href: "#{@base_url}/workload-reduction-toolkit/address-workload-issues/governance/plan-a-yearly-safeguarding-calendar",
+    tag: "Governance",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Example",
+      reading_time: "2 minutes",
+      created_by: "St Barnabas CE First and Middle School",
+    }
+  ) %>
+</div>
