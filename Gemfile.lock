@@ -62,7 +62,7 @@ GEM
     fiber-local (1.1.0)
       fiber-storage
     fiber-storage (1.0.1)
-    govuk_markdown (2.0.1)
+    govuk_markdown (2.0.3)
       activesupport
       redcarpet
     hashery (2.1.2)
@@ -168,7 +168,7 @@ GEM
     rb-inotify (0.10.1)
       ffi (~> 1.0)
     rbtree (0.4.6)
-    redcarpet (3.6.0)
+    redcarpet (3.6.1)
     regexp_parser (2.10.0)
     rubocop (1.77.0)
       json (~> 2.3)
