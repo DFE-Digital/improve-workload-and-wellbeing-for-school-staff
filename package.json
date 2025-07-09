@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "prettier": "^3.6.2",
-    "shx": "^0.3.4"
+    "shx": "^0.4.0"
   }
 }
