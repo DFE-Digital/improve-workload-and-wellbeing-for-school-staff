@@ -155,13 +155,13 @@ Multi academy trusts can use the template below to ensure that information they 
           Download Microsoft Word Document
         </a>
         <p>
-          DOCX, 749KB, 24 pages
+          DOCX, 749KB, 19 pages
         </p>
         <a class="govuk-body" href="<%= @base_url %>/assets/files/trust-board-report-template.odt">
           Download OpenDocument Text
         </a>
         <p>
-          ODT, 227KB, 19 pages
+          ODT, 227KB, 20 pages
         </p>
       </div>
     </div>
