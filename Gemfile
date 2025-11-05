@@ -15,4 +15,4 @@ group :nanoc do
   gem 'nanoc-live'
 end
 
-gem 'html-proofer', '~> 5.0'
+gem 'html-proofer', '~> 5.1'
