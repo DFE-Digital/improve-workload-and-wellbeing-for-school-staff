@@ -26,4 +26,4 @@ format-md:
 	yarn prettier --write "content/**/*.md"
 
 check-links: build
-	htmlproofer ./output --allow-hash-href --ignore-files "/assets/" --ignore-urls "/assets/files/TBC/,http://example.com,http://127.0.0.1:3000/TBC"
+	htmlproofer ./output --allow-hash-href --ignore-files "/assets/" --ignore-urls "/assets/files/TBC/,http://example.com,http://127.0.0.1:3000/TBC,https://www.mentalhealthatwork.org.uk/?s=resources+for+schools,https://www.local.gov.uk/our-support/workforce-and-hr-support/education-and-young-people,https://www.godmanchester.cambs.sch.uk/_site/data/files/users/template/files/335BE378887246741BBA22CDDF20CF0B.pdf?pid=26"
