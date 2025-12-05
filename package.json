@@ -15,7 +15,7 @@
   "dependencies": {
     "dfe-frontend-alpha": "^1.0.1",
     "govuk-frontend": "^5.11.0",
-    "sass": "^1.89.2"
+    "sass": "^1.94.2"
   },
   "devDependencies": {
     "prettier": "^3.7.4",
