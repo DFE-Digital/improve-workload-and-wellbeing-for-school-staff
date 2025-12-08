@@ -123,13 +123,13 @@ Headteachers can use the following template to support efficient reporting and r
           Download Microsoft Word Document
         </a>
         <p>
-          DOCX, 501KB, 5 pages
+          DOCX, 484KB, 5 pages
         </p>
         <a class="govuk-body" href="<%= @base_url %>/assets/files/headteacher-board-report-template.odt">
           Download OpenDocument Text
         </a>
         <p>
-          ODT, 140KB, 5 pages
+          ODT, 133KB, 5 pages
         </p>
       </div>
     </div>
@@ -155,13 +155,13 @@ Multi academy trusts can use the template below to ensure that information they 
           Download Microsoft Word Document
         </a>
         <p>
-          DOCX, 749KB, 19 pages
+          DOCX, 751KB, 23 pages
         </p>
         <a class="govuk-body" href="<%= @base_url %>/assets/files/trust-board-report-template.odt">
           Download OpenDocument Text
         </a>
         <p>
-          ODT, 227KB, 20 pages
+          ODT, 227KB, 19 pages
         </p>
       </div>
     </div>
