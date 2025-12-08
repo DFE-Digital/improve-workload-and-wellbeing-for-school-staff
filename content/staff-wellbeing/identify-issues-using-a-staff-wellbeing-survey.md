@@ -65,7 +65,7 @@ Use this survey template to gather information from school staff about their wel
       </a>
 
       <p>
-        ODT, 22KB, 10 pages
+        ODT, 22KB, 5 pages
       </p>
     </div>
   </div>

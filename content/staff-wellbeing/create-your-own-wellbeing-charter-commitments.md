@@ -79,7 +79,7 @@ colour: blue
           Download OpenDocument Text
         </a>
         <p>
-          ODT, 20KB, 1 page
+          ODT, 30KB, 2 pages
         </p>
       </div>
     </div>

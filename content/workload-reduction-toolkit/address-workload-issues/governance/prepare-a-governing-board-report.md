@@ -129,7 +129,7 @@ Headteachers can use the following template to support efficient reporting and r
           Download OpenDocument Text
         </a>
         <p>
-          ODT, 143KB, 5 pages
+          ODT, 133KB, 5 pages
         </p>
       </div>
     </div>
