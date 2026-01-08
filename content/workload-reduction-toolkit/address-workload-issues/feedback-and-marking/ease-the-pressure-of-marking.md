@@ -49,7 +49,7 @@ title: Ease the pressure of marking
 
 ## Background from Matt Piggott, Vice Principal and Amy Panayi, Associate Principal
 
-At Leigh Academy Strood, part of the Leigh Academy Trust, wellbeing is one of our 10 core values. We are committed to continually developing and enhancing our approach to staff wellbeing.
+At Leigh Academy Strood, part of the Leigh Academies Trust, wellbeing is one of our 10 core values. We are committed to continually developing and enhancing our approach to staff wellbeing.
 
 We recognised the significant demands that marking and feedback were having on teaching staff. To help manage the pressures on teachers, we allocate dedicated time within the school calendar specifically for these tasks.
 

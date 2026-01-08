@@ -52,7 +52,7 @@ colour: blue
 
 {inset-text}
 
-At Leigh Academy Strood, part of the Leigh Academy Trust, wellbeing is one of our 10 core values. We are committed to continually developing and enhancing our approach to staff wellbeing. This commitment not only benefits individual staff members but also contributes to higher retention rates and reduced staff sickness levels.
+At Leigh Academy Strood, part of the Leigh Academies Trust, wellbeing is one of our 10 core values. We are committed to continually developing and enhancing our approach to staff wellbeing. This commitment not only benefits individual staff members but also contributes to higher retention rates and reduced staff sickness levels.
 
 We wanted to make sure that staff felt comfortable raising wellbeing issues and messages got through to the leadership team. We also wanted to make sure resulting actions were communicated back to everyone and new initiatives were owned by the staff.
 
@@ -70,7 +70,7 @@ The wellbeing team meet every half term with the school wellbeing lead to:
 
 Meetings are 30 minutes long and are counted as directed time.
 
-The wellbeing team reports to the Vice Principle or an Associate Principal. Leadership team decisions on staff suggestions are reported back to staff by the Wellbeing Champions through department meetings or all staff emails. This ensures timely and appropriate responses are implemented in a transparent way.
+The wellbeing team reports to the Vice Principal or an Associate Principal. Leadership team decisions on staff suggestions are reported back to staff by the Wellbeing Champions through department meetings or all staff emails. This ensures timely and appropriate responses are implemented in a transparent way.
 
 ## Wellbeing Champions take the lead
 
