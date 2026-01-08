@@ -90,7 +90,7 @@ colour: blue
 
 {inset-text}
 
-At Leigh Academy Strood, part of the Leigh Academy Trust, wellbeing is one of our 10 core values. We are committed to continually developing and enhancing our approach to staff wellbeing.
+At Leigh Academy Strood, part of the Leigh Academies Trust, wellbeing is one of our 10 core values. We are committed to continually developing and enhancing our approach to staff wellbeing.
 
 When the new school leadership team was established, the school had a high leaver rate and high sickness absences. The leadership team focused on staff wellbeing and made a public commitment by signing up to the [Education Staff Wellbeing Charter](https://www.gov.uk/guidance/education-staff-wellbeing-charter). This led to the development of a school-specific set of wellbeing commitments.
 
