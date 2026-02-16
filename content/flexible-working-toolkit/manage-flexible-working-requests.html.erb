@@ -18,6 +18,15 @@ colour: blue
         </h2>
 
         <ul class="resource-card-group">
+          <%= render("/partials/resource_card.*",
+            title: "Step by step guide showing how to submit and manage flexible working requests",
+            href: "#{@base_url}/flexible-working-toolkit/manage-flexible-working-requests/guide-submit-manage-flexible-working-requests",
+            body: "Flowcharts to show how to submit and manage flexible working requests",
+            tag: "Example",
+            details: {
+              reading_time: "2 minutes",
+            }
+          ) %>
         </ul>
       </div>
 
