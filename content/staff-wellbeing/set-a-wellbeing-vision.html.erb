@@ -1,0 +1,89 @@
+---
+title: Set a wellbeing vision
+colour: blue
+---
+
+<div class="govuk-main-wrapper two-column-page content-section--blue">
+  <div class="dfe-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-half">
+        <h1 class="govuk-heading-l">Set a wellbeing vision</h1>
+      </div>
+    </div>
+
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <div class="info-box govuk-!-margin-top-8">
+          <div class="info-box__corner">
+            <img src="<%= @base_url %>/assets/images/i-icon.svg" alt="info icon">
+          </div>
+          <h2 class="govuk-heading-m">
+            How to use this section
+          </h2>
+          <p>
+            Placing staff wellbeing at the centre of everything you do will have a positive impact on all aspects of
+            school life.
+          </p>
+          <p>
+            These resources have been shared by school leaders and provide specific examples that have worked in
+            schools. You can use them as they are, or adapt them to meet the needs of your setting.
+          </p>
+          <p>
+            The
+            <a href="https://www.gov.uk/guidance/education-staff-wellbeing-charter">education staff wellbeing charter</a>
+            also contains a range of additional wellbeing resources, including guidance to measure staff wellbeing.
+          </p>
+        </div>
+
+        <h2 class="govuk-heading-m">Resources to help set a wellbeing vision</h2>
+
+        <ul class="resource-card-group govuk-!-margin-bottom-3">
+          <%= render('/partials/resource_card.*',
+            title: "Create a school culture which improves wellbeing",
+            href: "#{@base_url}/staff-wellbeing/set-a-wellbeing-vision/create-a-school-culture-which-improves-wellbeing",
+            body: "Learn how to develop a school culture of wellbeing and workload improvement.", tag: "Case study",
+            details: { reading_time: "4 minutes", created_by: "Kensington Primary School" }) %>
+
+          <%= render('/partials/resource_card.*',
+            title: "Academy trust workload agreement",
+            href: "#{@base_url}/staff-wellbeing/set-a-wellbeing-vision/academy-trust-workload-agreement",
+            body: "Share what teachers can expect in terms of workload, professional development, pay and rewards.",
+            tag: "Example", details: { reading_time: "2 minutes" , created_by: "The Ascent Academies’ Trust" }) %>
+
+          <%= render('/partials/resource_card.*',
+              title: "Staff wellbeing policy",
+              href: "#{@base_url}/staff-wellbeing/set-a-wellbeing-vision/staff-wellbeing-policy",
+              body: "Read a staff wellbeing policy that reflects a whole school approach to wellbeing.",
+              tag: "Example", details: { reading_time: "6 minutes", created_by: "The Pingle Academy (Secondary)" }) %>
+
+          <%= render('/partials/resource_card.*',
+            title: "Staff wellbeing statement",
+            href: "#{@base_url}/staff-wellbeing/set-a-wellbeing-vision/staff-wellbeing-statement",
+            body: "Read a wellbeing statement developed to support school staff effectively.",
+            tag: "Example", details: { reading_time: "3 minutes", created_by: "St. Peter’s School (Secondary)" }) %>
+
+          <%= render('/partials/resource_card.*',
+            title: "Wellbeing and workload charter",
+            href: "#{@base_url}/staff-wellbeing/set-a-wellbeing-vision/wellbeing-and-workload-charter",
+            body: "Read an example wellbeing and workload charter.", tag: "Example",
+            details: { reading_time: "6 minutes", created_by: "Bedford Academy (Secondary)" }) %>
+
+          <%= render("/partials/resource_card.*",
+            title: "Create your own wellbeing charter commitments" ,
+            href: "#{@base_url}/staff-wellbeing/set-a-wellbeing-vision/create-your-own-wellbeing-charter-commitments",
+            body: "Read how a school agreed a set of wellbeing commitments with their staff",
+            tag: "Case study",
+            details: {
+              reading_time: "2 minutes",
+              created_by: "Leigh Academy Strood (Secondary)"
+            }) %>
+        </ul>
+      </div>
+
+      <div class="govuk-grid-column-one-third">
+        <hr class="govuk-section-break--blue govuk-section-break--thick">
+        <%= render '/partials/feedback.*', colour: "blue" %>
+      </div>
+    </div>
+  </div>
+</div>

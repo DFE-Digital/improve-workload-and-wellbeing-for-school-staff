@@ -57,7 +57,7 @@ colour: pink
 
 {inset-text}
 
-Notre Dame High School [created a wellbeing committee](/staff-wellbeing/establish-a-wellbeing-committee)
+Notre Dame High School [created a wellbeing committee](/staff-wellbeing/communicate-about-wellbeing/establish-a-wellbeing-committee)
 that issued a workload survey to its staff. They used the results to create an
 action plan which focuses on improving staff wellbeing and reducing workload.
 
