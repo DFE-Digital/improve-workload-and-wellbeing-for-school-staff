@@ -1,0 +1,57 @@
+---
+title: Flexible working toolkit
+---
+
+<div class="dfe-content-page--header dfe-content-page--header--secondary">
+  <div class="dfe-width-container">
+    <div class="govuk-grid-row govuk-!-padding-top-9 govuk-!-padding-bottom-0">
+      <div class="govuk-grid-column-two-thirds">
+        <h1 class="govuk-heading-l govuk-!-margin-bottom-4">Flexible working toolkit</h1>
+        <p>
+          Access Flexible Working resources produced with input from school leaders.  Learn how to create your own flexible working strategy and manage requests in your setting.
+        </p>
+      </div>
+      <div class="govuk-grid-column-one-third">
+        <img src="<%= @base_url %>/assets/images/toolkit-hero.jpg"
+          alt="Two teachers talking to each other on a sofa in a staff room" class="dfe-hero-image">
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="govuk-main-wrapper">
+  <div class="dfe-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-full">
+        <h2 class="govuk-heading-m govuk-!-margin-top-2 govuk-!-margin-bottom-6">Use the toolkit</h2>
+      </div>
+    </div>
+
+    <ul class="govuk-grid-row card-group govuk-!-margin-bottom-6">
+      <li class="govuk-grid-column-one-third card-group__item">
+        <%= render('/partials/tile.*',
+          title: "Create a Flexible Working Strategy",
+          body: "Implement a strategic approach to flexible working in your setting",
+          href: "#{@base_url}/flexible-working-toolkit/create-a-flexible-working-strategy",
+          colour: "blue"
+        ) %>
+      </li>
+
+      <li class="govuk-grid-column-one-third card-group__item">
+        <%= render('/partials/tile.*',
+          title: "Manage Flexible Working Requests",
+          body: "Use these resources to make and review statutory requests for flexible working",
+          href: "#{@base_url}/flexible-working-toolkit/manage-flexible-working-requests",
+          colour: "blue"
+        ) %>
+      </li>
+    </ul>
+
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-full">
+        <hr class="govuk-section-break--visible govuk-!-margin-bottom-9">
+        <%= render '/partials/feedback.*' %>
+      </div>
+    </div>
+  </div>
+</div>

@@ -183,10 +183,6 @@ $card-text-hover-color: govuk-colour("purple");
     display: flex;
     justify-content: space-between;
     margin-bottom: govuk-spacing(7);
-
-    .dfe-card:not(:last-child) {
-      margin-right: 85px;
-    }
   }
 }
 
