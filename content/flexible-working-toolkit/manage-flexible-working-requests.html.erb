@@ -27,6 +27,16 @@ colour: blue
               reading_time: "2 minutes",
             }
           ) %>
+
+          <%= render("/partials/resource_card.*",
+            title: "Make a Statutory Flexible Working Request",
+            href: "#{@base_url}/flexible-working-toolkit/manage-flexible-working-requests/make-statutory-flexible-working-request",
+            body: "Template to be used by staff making a statutory flexible working request",
+            tag: "Template",
+            details: {
+              reading_time: "1 minute",
+            }
+          ) %>
         </ul>
       </div>
 
