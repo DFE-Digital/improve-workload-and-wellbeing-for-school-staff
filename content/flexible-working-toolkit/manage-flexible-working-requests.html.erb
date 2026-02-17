@@ -29,12 +29,22 @@ colour: blue
           ) %>
 
           <%= render("/partials/resource_card.*",
-            title: "Make a Statutory Flexible Working Request",
+            title: "Make a statutory flexible working request",
             href: "#{@base_url}/flexible-working-toolkit/manage-flexible-working-requests/make-statutory-flexible-working-request",
             body: "Template to be used by staff making a statutory flexible working request",
             tag: "Template",
             details: {
               reading_time: "1 minute",
+            }
+          ) %>
+
+          <%= render("/partials/resource_card.*",
+            title: "Review a statutory flexible working request",
+            href: "#{@base_url}/flexible-working-toolkit/manage-flexible-working-requests/review-statutory-flexible-working-request",
+            body: "Template for senior leaders to use to review a statutory flexible working request",
+            tag: "Template",
+            details: {
+              reading_time: "2 minutes",
             }
           ) %>
         </ul>
