@@ -43,7 +43,7 @@ It can also be adapted for, or may be helpful to, other education settings, such
         Download OpenDocument Text
       </a>
       <p>
-        ODT, 26KB, 13 pages
+        ODT, 23KB, 13 pages
       </p>
     </div>
   </div>
