@@ -1,9 +1,9 @@
 ---
-title: Developing a family friendly culture which supports mothers and those working part time to remain in the profession and progress into leadership
+title: Developing a Family Friendly Culture
 colour: blue
 ---
 
-# Developing a family friendly culture which supports mothers and those working part time to remain in the profession and progress into leadership
+# Developing a Family Friendly Culture
 
 <strong class="govuk-tag">Case study</strong>
 
