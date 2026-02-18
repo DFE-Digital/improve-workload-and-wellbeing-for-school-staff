@@ -39,7 +39,7 @@ This process must be completed within 2 months of a request being made. It is go
         Download Microsoft Word Document
       </a>
       <p>
-        DOCX, 257KB, 4 pages
+        DOCX, 257KB, 3 pages
       </p>
 
       <a class="govuk-body" href="<%= @base_url %>/assets/files/guide-submit-manage-flexible-working-requests.odt">

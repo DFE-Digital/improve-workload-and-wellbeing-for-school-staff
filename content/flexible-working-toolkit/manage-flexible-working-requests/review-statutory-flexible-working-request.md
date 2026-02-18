@@ -30,7 +30,7 @@ You should always support a flexible working request, unless there is a genuine 
         Download Microsoft Word Document
       </a>
       <p>
-        DOCX, 41KB, 8 pages
+        DOCX, 41KB, 7 pages
       </p>
 
       <a class="govuk-body" href="<%= @base_url %>/assets/files/review-statutory-flexible-working-request.odt">

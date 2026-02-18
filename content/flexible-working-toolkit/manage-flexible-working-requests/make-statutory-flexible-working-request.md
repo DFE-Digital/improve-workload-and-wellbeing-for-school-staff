@@ -30,7 +30,7 @@ Staff members can also consult with their trade union when drafting the request.
         Download Microsoft Word Document
       </a>
       <p>
-        DOCX, 27KB, 3 pages
+        DOCX, 27KB, 2 pages
       </p>
 
       <a class="govuk-body" href="<%= @base_url %>/assets/files/make-statutory-flexible-working-request.odt">
