@@ -1,0 +1,43 @@
+---
+title: Explore resources
+layout: /explore_resources.html.erb
+---
+
+<% content_for :topic_list do %>
+  <%= render('/partials/topic_list.*', active: "manage-flexible-working-requests")%>
+<% end %>
+
+<div class="explore-resource-card-group">
+  <%= render("/partials/explore_resource_card.*",
+    title: "Step by step guide showing how to submit and manage flexible working requests",
+    href: "#{@base_url}/flexible-working-toolkit/manage-flexible-working-requests/guide-submit-manage-flexible-working-requests",
+    tag: "Manage flexible working requests",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Example",
+      reading_time: "2 minutes",
+    }
+  ) %>
+
+  <%= render("/partials/explore_resource_card.*",
+    title: "Make a statutory flexible working request",
+    href: "#{@base_url}/flexible-working-toolkit/manage-flexible-working-requests/make-statutory-flexible-working-request",
+    tag: "Manage flexible working requests",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Template",
+      reading_time: "1 minute",
+    }
+  ) %>
+
+  <%= render("/partials/explore_resource_card.*",
+    title: "Review a statutory flexible working request",
+    href: "#{@base_url}/flexible-working-toolkit/manage-flexible-working-requests/review-statutory-flexible-working-request",
+    tag: "Manage flexible working requests",
+    tag_colour: "purple",
+    details: {
+      resource_type: "Template",
+      reading_time: "2 minutes",
+    }
+  ) %>
+</div>
