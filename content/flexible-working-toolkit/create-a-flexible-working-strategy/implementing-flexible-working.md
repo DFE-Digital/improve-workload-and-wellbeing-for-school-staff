@@ -9,7 +9,7 @@ colour: blue
 
 Use this resource as a guide to support you to think strategically about your school’s approach to flexible working. It outlines steps you can take to embed a flexible working culture. You can use this resource across all settings including:
 
-- maintained school
+- maintained schools
 - academies/trusts
 - special schools
 - alternative provisions
