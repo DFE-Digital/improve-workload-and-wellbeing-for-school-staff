@@ -1,0 +1,46 @@
+---
+title: Explore resources
+layout: /explore_resources.html.erb
+---
+
+<% content_for :topic_list do %>
+  <%= render('/partials/topic_list.*', active: "communicate-about-wellbeing")%>
+<% end %>
+
+<div class="explore-resource-card-group">
+  <%= render('/partials/explore_resource_card.*',
+    title: "Establish a wellbeing committee",
+    href: "#{@base_url}/staff-wellbeing/communicate-about-wellbeing/establish-a-wellbeing-committee",
+    tag: "Communicate about wellbeing",
+    tag_colour: :green,
+    details: {
+      resource_type: "Example",
+      reading_time: "3 minutes",
+      created_by: "Notre Dame High School (Secondary)"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Establish a school workload group",
+    href: "#{@base_url}/staff-wellbeing/communicate-about-wellbeing/establish-a-school-workload-group",
+    tag: "Communicate about wellbeing",
+    tag_colour: :green,
+    details: {
+      resource_type: "Example",
+      reading_time: "3 minutes",
+      created_by: "Baylis Court School (Secondary)"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Communicate about wellbeing to improve staff retention",
+    href: "#{@base_url}/staff-wellbeing/communicate-about-wellbeing/communicate-about-wellbeing-to-improve-staff-retention",
+    tag: "Communicate about wellbeing",
+    tag_colour: :green,
+    details: {
+      resource_type: "Case study",
+      reading_time: "3 minutes",
+      created_by: "Bedford Academy (Secondary)"
+    }
+  )%>
+</div>
