@@ -312,3 +312,19 @@ $card-text-hover-color: govuk-colour("purple");
 .bg-green {
   background-color: #279b91;
 }
+
+.grid {
+  display: grid;
+}
+
+.grid-template-columns-mobile-1 {
+  @include govuk-media-query(mobile) {
+    grid-template-columns: repeat(1, 100%);
+  }
+}
+
+.grid-template-columns-tablet-2 {
+  @include govuk-media-query($from: tablet) {
+    grid-template-columns: repeat(2, 50%);
+  }
+}
