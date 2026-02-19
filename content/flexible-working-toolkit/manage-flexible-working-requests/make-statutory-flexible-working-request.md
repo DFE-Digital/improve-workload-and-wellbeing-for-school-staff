@@ -55,7 +55,7 @@ This template is intended for use by school staff across all educational setting
 - alternative provision settings
 - pupil referral units
 
-It can also be adapted for, or may be helpful to, other education settings, such as sixth-form colleges, further education colleges and other providers.
+It can also be adapted for, or may be helpful to, other education settings, such as early years, sixth-form colleges, further education colleges and other providers.
 
 ## Main content
 

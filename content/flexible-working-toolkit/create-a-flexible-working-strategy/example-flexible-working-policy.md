@@ -17,7 +17,7 @@ This example policy has been designed for all schools and settings, including:
 - alternative provision
 - pupil referral units
 
-It can also be adapted for, or may be helpful to, other education settings, such as sixth-form colleges, further education colleges and other providers.
+It can also be adapted for, or may be helpful to, other education settings, such as early years, sixth-form colleges, further education colleges and other providers.
 
 <div class="info-box">
   <div class="info-box__corner">
