@@ -61,6 +61,16 @@
         Communications
       </a>
     </li>
+    <li class="<%= active == 'attendance' ? 'topic-list__item-active' : 'topic-list__item' %>">
+      <a class="govuk-link govuk-link--no-visited-state" href="<%= base_url %>/explore-all-resources/attendance">
+        Attendance
+      </a>
+    </li>
+    <li class="<%= active == 'governance' ? 'topic-list__item-active' : 'topic-list__item' %>">
+      <a class="govuk-link govuk-link--no-visited-state" href="<%= base_url %>/explore-all-resources/governance">
+        Governance
+      </a>
+    </li>
     <li
       class="<%= active == 'evaluate-workload-measures' ? 'topic-list__item-active' : 'topic-list__item' %>"
     >
@@ -71,24 +81,34 @@
         Evaluate workload measures
       </a>
     </li>
-    <li
-      class="<%= active == 'staff-wellbeing' ? 'topic-list__item-active' : 'topic-list__item' %>"
-    >
-      <a
-        class="govuk-link govuk-link--no-visited-state"
-        href="<%= base_url %>/explore-all-resources/staff-wellbeing"
-      >
-        Staff wellbeing
+
+    <li class="<%= active == 'set-a-wellbeing-vision' ? 'topic-list__item-active' : 'topic-list__item' %>">
+      <a class="govuk-link govuk-link--no-visited-state" href="<%= base_url %>/explore-all-resources/set-a-wellbeing-vision">
+        Set a wellbeing vision
       </a>
     </li>
-    <li class="<%= active == 'attendance' ? 'topic-list__item-active' : 'topic-list__item' %>">
-      <a class="govuk-link govuk-link--no-visited-state" href="<%= base_url %>/explore-all-resources/attendance">
-        Attendance
+
+    <li class="<%= active == 'address-wellbeing' ? 'topic-list__item-active' : 'topic-list__item' %>">
+      <a class="govuk-link govuk-link--no-visited-state" href="<%= base_url %>/explore-all-resources/address-wellbeing">
+        Address wellbeing issues
       </a>
     </li>
-    <li class="<%= active == 'governance' ? 'topic-list__item-active' : 'topic-list__item' %>">
-      <a class="govuk-link govuk-link--no-visited-state" href="<%= base_url %>/explore-all-resources/governance">
-        Governance
+
+    <li class="<%= active == 'communicate-about-wellbeing' ? 'topic-list__item-active' : 'topic-list__item' %>">
+      <a class="govuk-link govuk-link--no-visited-state" href="<%= base_url %>/explore-all-resources/communicate-about-wellbeing">
+        Communicate about wellbeing
+      </a>
+    </li>
+
+    <li class="<%= active == 'create-flexible-working-strategy' ? 'topic-list__item-active' : 'topic-list__item' %>">
+      <a class="govuk-link govuk-link--no-visited-state" href="<%= base_url %>/explore-all-resources/create-flexible-working-strategy">
+        Create a flexible working strategy
+      </a>
+    </li>
+
+    <li class="<%= active == 'manage-flexible-working-requests' ? 'topic-list__item-active' : 'topic-list__item' %>">
+      <a class="govuk-link govuk-link--no-visited-state" href="<%= base_url %>/explore-all-resources/manage-flexible-working-requests">
+        Manage flexible working requests
       </a>
     </li>
   </ul>

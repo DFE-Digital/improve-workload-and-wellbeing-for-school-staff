@@ -55,8 +55,7 @@
           </button>
         </div>
         <ul class="dfe-header__navigation-list">
-          <li class="dfe-header__navigation-item <%= " dfe-header__navigation-item--current" if @item[:title]=="Home" %>
-            ">
+          <li class="dfe-header__navigation-item <%= " dfe-header__navigation-item--current" if @item[:title]=="Home" %>">
             <a class="dfe-header__navigation-link" href="<%= @base_url %>/">
               Home
               <svg class="dfe-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
@@ -78,6 +77,7 @@
               </svg>
             </a>
           </li>
+
           <li class="dfe-header__navigation-item <%= active_nav_class('/staff-wellbeing/') %>">
             <a class="dfe-header__navigation-link" href="<%= @base_url %>/staff-wellbeing">
               Staff wellbeing
@@ -89,6 +89,19 @@
               </svg>
             </a>
           </li>
+
+          <li class="dfe-header__navigation-item <%= active_nav_class('/flexible-working-toolkit/') %>">
+            <a class="dfe-header__navigation-link" href="<%= @base_url %>/flexible-working-toolkit">
+              Flexible working toolkit
+              <svg class="dfe-icon__chevron-right" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"
+                aria-hidden="true" width="34" height="34">
+                <path
+                  d="M15.5 12a1 1 0 0 1-.29.71l-5 5a1 1 0 0 1-1.42-1.42l4.3-4.29-4.3-4.29a1 1 0 0 1 1.42-1.42l5 5a1 1 0 0 1 .29.71z">
+                </path>
+              </svg>
+            </a>
+          </li>
+
           <li class="dfe-header__navigation-item <%= active_nav_class('/explore-all-resources/') %>">
             <a class="dfe-header__navigation-link"
               href="<%= @base_url %>/explore-all-resources/identify-workload-issues">

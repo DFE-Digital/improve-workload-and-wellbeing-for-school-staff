@@ -1,0 +1,49 @@
+---
+title: Create a flexible working strategy
+colour: pink
+---
+
+<div class="govuk-main-wrapper two-column-page content-section--pink">
+  <div class="dfe-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-half">
+        <h1 class="govuk-heading-l">Create a flexible working strategy</h1>
+      </div>
+    </div>
+
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <h2 class="govuk-heading-m">
+          Resources to help create a flexible working strategy
+        </h2>
+
+        <ul class="resource-card-group">
+          <%= render("/partials/resource_card.*",
+            title: "Example flexible working policy",
+            href: "#{@base_url}/flexible-working-toolkit/create-a-flexible-working-strategy/example-flexible-working-policy",
+            body: "An example of a flexible working policy senior leaders can adapt to use in their schools.",
+            tag: "Example",
+            details: {
+              reading_time: "1 minute",
+            }
+          ) %>
+
+          <%= render("/partials/resource_card.*",
+            title: "Implementing flexible working",
+            href: "#{@base_url}/flexible-working-toolkit/create-a-flexible-working-strategy/implementing-flexible-working",
+            body: "A guide for senior leaders on implementing flexible working.",
+            tag: "Example",
+            details: {
+              reading_time: "1 minute",
+            }
+          ) %>
+        </ul>
+      </div>
+
+      <div class="govuk-grid-column-one-third">
+        <hr class="govuk-section-break--pink govuk-section-break--thick">
+        <%= render '/partials/feedback.*', colour: "pink" %>
+      </div>
+    </div>
+  </div>
+</div>

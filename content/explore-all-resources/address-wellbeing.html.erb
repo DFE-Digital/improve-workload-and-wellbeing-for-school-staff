@@ -1,0 +1,89 @@
+---
+title: Explore resources
+layout: /explore_resources.html.erb
+---
+
+<% content_for :topic_list do %>
+  <%= render('/partials/topic_list.*', active: "address-wellbeing")%>
+<% end %>
+
+<div class="explore-resource-card-group">
+  <%= render('/partials/explore_resource_card.*',
+    title: "Protect staff time and improve wellbeing",
+    href: "#{@base_url}/staff-wellbeing/address-wellbeing/protect-staff-time-and-improve-wellbeing",
+    tag: "Address wellbeing issues",
+    tag_colour: :purple,
+    details: {
+      resource_type: "Case study",
+      reading_time: "2 minutes",
+      created_by: "West Meon CofE Primary School"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Try ideas to improve staff wellbeing",
+    href: "#{@base_url}/staff-wellbeing/address-wellbeing/try-ideas-to-improve-staff-wellbeing",
+    tag: "Address wellbeing issues",
+    tag_colour: :purple,
+    details: {
+      resource_type: "Case study",
+      reading_time: "2 minutes",
+      created_by: "King Charles I School (Secondary)"
+    }
+  )%>
+
+  <%= render('/partials/explore_resource_card.*',
+    title: "Make a list of everything you do to improve wellbeing",
+    href: "#{@base_url}/staff-wellbeing/address-wellbeing/make-a-list-of-everything-you-do-to-improve-wellbeing",
+    tag: "Address wellbeing issues",
+    tag_colour: :purple,
+    details: {
+      resource_type: "Case study",
+      reading_time: "3 minutes",
+      created_by: "Barr Beacon School (Secondary)"
+    }
+  )%>
+
+  <%= render("/partials/explore_resource_card.*",
+    title: "Activating Wellbeing Champions" ,
+    href: "#{@base_url}/staff-wellbeing/address-wellbeing/activating-wellbeing-champions",
+    tag: "Address wellbeing issues",
+    tag_colour: :purple,
+    details: {
+      resource_type: "Case study",
+      reading_time: "3 minutes",
+      created_by: "Leigh Academy Strood (Secondary)"
+    }) %>
+
+  <%= render("/partials/explore_resource_card.*",
+    title: "Identify issues using a staff wellbeing survey" ,
+    href: "#{@base_url}/staff-wellbeing/address-wellbeing/identify-issues-using-a-staff-wellbeing-survey",
+    tag: "Address wellbeing issues",
+    tag_colour: :purple,
+    details: {
+      resource_type: "Template",
+      reading_time: "3 minutes",
+    }) %>
+
+  <%= render("/partials/explore_resource_card.*",
+    title: "Developing a family friendly culture" ,
+    href: "#{@base_url}/staff-wellbeing/address-wellbeing/develop-family-friendly-culture",
+    tag: "Address wellbeing issues",
+    tag_colour: :purple,
+    details: {
+      resource_type: "Case study",
+      reading_time: "3 minutes",
+      created_by: "Patcham High School (Secondary)"
+    }) %>
+
+  <%= render("/partials/explore_resource_card.*",
+    title: "Co-creating menopause support to foster wellbeing and retention" ,
+    href: "#{@base_url}/staff-wellbeing/address-wellbeing/co-creating-menopause-support-foster-wellbeing-retention",
+    tag: "Address wellbeing issues",
+    tag_colour: :purple,
+    details: {
+      resource_type: "Case study",
+      reading_time: "3 minutes",
+      created_by: "Greenside School (Special)"
+    }) %>
+</div>

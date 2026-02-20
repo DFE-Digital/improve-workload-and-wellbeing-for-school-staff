@@ -37,12 +37,6 @@ their colleagues' wellbeing.
 
 <hr class="section-break--thin"></hr>
 
-[Headspace for Educators](https://www.headspace.com/educators)
-
-Mindfulness and meditation sessions for teachers and supporting staff.
-
-<hr class="section-break--thin"></hr>
-
 [Staff wellbeing guide for schools and trusts from the National Employer's Organisation for School Teachers](https://www.local.gov.uk/our-support/workforce-and-hr-support/education-and-young-people)
 
 Guidance and resources for schools and trusts to support the wellbeing of their

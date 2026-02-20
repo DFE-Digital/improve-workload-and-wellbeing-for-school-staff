@@ -1,0 +1,68 @@
+---
+title: Communicate about wellbeing
+colour: green
+---
+
+<div class="govuk-main-wrapper two-column-page content-section--green">
+  <div class="dfe-width-container">
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-one-half">
+        <h1 class="govuk-heading-l">Communicate about wellbeing</h1>
+      </div>
+    </div>
+
+    <div class="govuk-grid-row">
+      <div class="govuk-grid-column-two-thirds">
+        <div class="info-box govuk-!-margin-top-8">
+          <div class="info-box__corner">
+            <img src="<%= @base_url %>/assets/images/i-icon.svg" alt="info icon">
+          </div>
+          <h2 class="govuk-heading-m">
+            How to use this section
+          </h2>
+          <p>
+            Placing staff wellbeing at the centre of everything you do will have a positive impact on all aspects of
+            school life.
+          </p>
+          <p>
+            These resources have been shared by school leaders and provide specific examples that have worked in
+            schools. You can use them as they are, or adapt them to meet the needs of your setting.
+          </p>
+          <p>
+            The
+            <a href="https://www.gov.uk/guidance/education-staff-wellbeing-charter">education staff wellbeing charter</a>
+            also contains a range of additional wellbeing resources, including guidance to measure staff wellbeing.
+          </p>
+        </div>
+
+        <h2 class="govuk-heading-m">
+          Resources to support communications on wellbeing
+        </h2>
+
+        <ul class="resource-card-group">
+          <%= render('/partials/resource_card.*',
+            title: "Establish a wellbeing committee",
+            href: "#{@base_url}/staff-wellbeing/communicate-about-wellbeing/establish-a-wellbeing-committee",
+            body: "Learn how to set up a wellbeing committee." , tag: "Example",
+            details: { reading_time: "3 minutes", created_by: "Notre Dame High School (Secondary)" }) %>
+
+          <%= render('/partials/resource_card.*',
+            title: "Establish a school workload group",
+            href: "#{@base_url}/staff-wellbeing/communicate-about-wellbeing/establish-a-school-workload-group" ,
+            body: "Learn how to set up a workload group." , tag: "Example" , details: { reading_time: "3 minutes" ,
+            created_by: "Baylis Court School (Secondary)" }) %>
+
+          <%= render('/partials/resource_card.*',
+            title: "Communicate about wellbeing to improve staff retention" ,
+            href: "#{@base_url}/staff-wellbeing/communicate-about-wellbeing/communicate-about-wellbeing-to-improve-staff-retention" , body: "Learn how communication improved staff retention." , tag: "Case study" ,
+            details: { reading_time: "3 minutes" , created_by: "Bedford Academy (Secondary)" }) %>
+        </ul>
+      </div>
+
+      <div class="govuk-grid-column-one-third">
+        <hr class="govuk-section-break--green govuk-section-break--thick">
+        <%= render '/partials/feedback.*', colour: "green" %>
+      </div>
+    </div>
+  </div>
+</div>
