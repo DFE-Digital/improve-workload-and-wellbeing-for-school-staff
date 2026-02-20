@@ -1,9 +1,9 @@
 ---
-title: Developing a Family Friendly Culture
+title: Developing a family friendly culture
 colour: blue
 ---
 
-# Developing a Family Friendly Culture
+# Developing a family friendly culture
 
 <strong class="govuk-tag">Case study</strong>
 
