@@ -18,6 +18,7 @@ Use this resource as a guide to support you to think strategically about your sc
 It can also be adapted for, or may be helpful to, other education settings, such as early years, sixth-form colleges, further education colleges and other providers.
 
 The example includes:
+
 - a 5-step approach to implementing flexible working in your school
 - suggestions on what to think about when implementing flexible working
 
